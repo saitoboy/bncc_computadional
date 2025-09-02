@@ -1,0 +1,81 @@
+
+==================================================================================
+                            RESUMO EXECUTIVO
+==================================================================================
+Data: 2025-09-02 15:58:16
+Nota de corte: 70.0%
+Modelo: all-MiniLM-L6-v2
+
+PRINCIPAIS DESCOBERTAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 2 de 11 habilidades da BNCC (18.2%) têm pelo menos uma correspondência no currículo atual com similaridade ≥ 70.0%
+
+• 9 habilidades da BNCC (81.8%) NÃO possuem correspondência adequada no currículo atual
+
+• Total de 2 conexões identificadas acima da nota de corte
+
+HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ 1. (EI03CO06) - 1 correspondências (máx: 71.6%)
+    PENSAMENTO COMPUTACIONAL
+ 2. (EI03CO09) - 1 correspondências (máx: 70.2%)
+    MUNDO DIGITAL
+ 3. (EI03CO01) - 0 correspondências (máx: 55.6%)
+    PENSAMENTO COMPUTACIONAL
+ 4. (EI03CO02) - 0 correspondências (máx: 61.6%)
+    PENSAMENTO COMPUTACIONAL
+ 5. (EI03CO03) - 0 correspondências (máx: 66.3%)
+    PENSAMENTO COMPUTACIONAL
+ 6. (EI03CO04) - 0 correspondências (máx: 66.1%)
+    PENSAMENTO COMPUTACIONAL
+ 7. (EI03CO05) - 0 correspondências (máx: 61.1%)
+    PENSAMENTO COMPUTACIONAL
+ 8. (EI03CO07) - 0 correspondências (máx: 68.7%)
+    MUNDO DIGITAL
+ 9. (EI03CO08) - 0 correspondências (máx: 66.5%)
+    MUNDO DIGITAL
+10. (EI03CO10) - 0 correspondências (máx: 63.0%)
+    CULTURA DIGITAL
+11. (EI03CO11) - 0 correspondências (máx: 64.5%)
+    CULTURA DIGITAL
+
+HABILIDADES BNCC SEM CORRESPONDÊNCIA (precisam ser implementadas):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• (EI03CO01) - PENSAMENTO COMPUTACIONAL
+  Máx. similaridade: 55.6%
+  (EI03CO01) Reconhecer padrão de repetição em sequência de sons, movimentos, desenhos.
+
+• (EI03CO02) - PENSAMENTO COMPUTACIONAL
+  Máx. similaridade: 61.6%
+  (EI03CO02) Expressar as etapas para a realização de uma tarefa de forma clara e ordenada.
+
+• (EI03CO03) - PENSAMENTO COMPUTACIONAL
+  Máx. similaridade: 66.3%
+  (EI03CO03) Experienciar a execução de algoritmos brincando com objetos (des)plugados.
+
+• (EI03CO04) - PENSAMENTO COMPUTACIONAL
+  Máx. similaridade: 66.1%
+  (EI03CO04) Criar e representar algoritmos para resolver problemas.
+
+• (EI03CO05) - PENSAMENTO COMPUTACIONAL
+  Máx. similaridade: 61.1%
+  (EI03CO05) Comparar soluções algorítmicas para resolver um mesmo problema.
+
+• (EI03CO07) - MUNDO DIGITAL
+  Máx. similaridade: 68.7%
+  (EI03CO07) Reconhecer dispositivos eletrônicos (e não-eletrônicos), identificando quando estão ligad...
+
+• (EI03CO08) - MUNDO DIGITAL
+  Máx. similaridade: 66.5%
+  (EI03CO08) Compreender o conceito de interfaces para comunicação com objetos (des)plugados.
+
+• (EI03CO10) - CULTURA DIGITAL
+  Máx. similaridade: 63.0%
+  (EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.
+
+• (EI03CO11) - CULTURA DIGITAL
+  Máx. similaridade: 64.5%
+  (EI03CO11) Adotar hábitos saudáveis de uso de artefatos computacionais, seguindo recomendações de ór...

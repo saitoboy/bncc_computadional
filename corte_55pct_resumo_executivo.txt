@@ -1,0 +1,45 @@
+
+==================================================================================
+                            RESUMO EXECUTIVO
+==================================================================================
+Data: 2025-09-02 15:50:02
+Nota de corte: 55.00000000000001%
+Modelo: all-MiniLM-L6-v2
+
+PRINCIPAIS DESCOBERTAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 11 de 11 habilidades da BNCC (100.0%) têm pelo menos uma correspondência no currículo atual com similaridade ≥ 55.00000000000001%
+
+• 0 habilidades da BNCC (0.0%) NÃO possuem correspondência adequada no currículo atual
+
+• Total de 724 conexões identificadas acima da nota de corte
+
+HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ 1. (EI03CO06) - 156 correspondências (máx: 71.6%)
+    PENSAMENTO COMPUTACIONAL
+ 2. (EI03CO07) - 142 correspondências (máx: 68.7%)
+    MUNDO DIGITAL
+ 3. (EI03CO11) - 114 correspondências (máx: 64.5%)
+    CULTURA DIGITAL
+ 4. (EI03CO08) - 75 correspondências (máx: 66.5%)
+    MUNDO DIGITAL
+ 5. (EI03CO04) - 72 correspondências (máx: 66.1%)
+    PENSAMENTO COMPUTACIONAL
+ 6. (EI03CO03) - 60 correspondências (máx: 66.3%)
+    PENSAMENTO COMPUTACIONAL
+ 7. (EI03CO09) - 37 correspondências (máx: 70.2%)
+    MUNDO DIGITAL
+ 8. (EI03CO05) - 31 correspondências (máx: 61.1%)
+    PENSAMENTO COMPUTACIONAL
+ 9. (EI03CO10) - 31 correspondências (máx: 63.0%)
+    CULTURA DIGITAL
+10. (EI03CO02) - 5 correspondências (máx: 61.6%)
+    PENSAMENTO COMPUTACIONAL
+11. (EI03CO01) - 1 correspondências (máx: 55.6%)
+    PENSAMENTO COMPUTACIONAL
+
+HABILIDADES BNCC SEM CORRESPONDÊNCIA (precisam ser implementadas):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,13 @@
+pandas
+docling
+python-dotenv
+tabula-py
+pypdf
+reportlab
+openpyxl
+sentence-transformers scikit-learn
+streamlit
+sentence-transformers
+seaborn
+matplotlib
+plotext
