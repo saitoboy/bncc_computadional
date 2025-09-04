@@ -1,0 +1,1934 @@
+
+==================================================================================
+                    RELATÓRIO DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL
+==================================================================================
+Data do relatório: 2025-09-04 14:20:06
+Nota de corte inicial: 80.0% de similaridade
+Modelo utilizado: all-MiniLM-L6-v2
+Busca adaptativa: ATIVADA (garante pelo menos 1 correspondência por habilidade)
+
+ESTATÍSTICAS GERAIS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Total de habilidades BNCC analisadas: 50
+• Habilidades BNCC com similaridade ≥ 80.0% (nota original): 1 (2.0%)
+• Habilidades BNCC com correspondência (busca adaptativa): 50 (100.0%)
+• Total de matches acima da nota de corte original: 1
+• Nota de corte média usada: 69.4%
+• Nota de corte mínima usada: 58.0%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RELATÓRIO DETALHADO POR HABILIDADE BNCC:
+
+
+================================================================================
+HABILIDADE BNCC #1 - (EF01CO01)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF01CO01) Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.
+
+EXEMPLOS BNCC: Objetos de um mesmo conjunto podem ser organizados
+e agrupados de diferentes maneiras, enfatizando as características desejadas. A organização adequada pode facilitar a busca por um objeto específico dentro deste conjunto.
+
+NOTA DE CORTE USADA: 66.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 66.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #694 - (EF15LP11) | SIMILARIDADE: 66.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP11) Reconhecer características da conversação espontânea presencial, respeitando os turnos de fala, selecionando e utilizando, durante a conversação, formas de tratamento adequadas, de acordo com a situação e a posição do interlocutor.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade é fundamental para desenvolver o convívio cotidiano, fora e dentro da escola; refere- se a saber organizar a fala no gênero indicado, considerando as características do contexto no qual está sendo produzida: a organização em tantos turnos quantos forem os interlocutores; a efetividade da compreensão mútua, a qual depende da escuta efetiva do outro, como balizador da organização da próxima fala; as escolhas dos recursos textuais e paratextuais, que precisam ser adequadas às intenções de significação e ao contexto da situação de comunicação. O professor pode propor atividades que contemplem diferentes tipos de conversação, em diferentes situações comunicativas. Gravações em áudio e/ou vídeo dessas conversas permitem a análise dos mais variados fatores que podem interferir na fluidez e na eficácia dos eventos registrados.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #2 - (EF01CO02)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF01CO02) Identificar e seguir sequências de passos aplicados no dia a dia para resolver problemas.
+
+EXEMPLOS BNCC: O objetivo é que os alunos possam identificar passos que fazem parte da execução de uma tarefa, bem como seguir uma sequência de passos para realizar uma tarefa (resolver um problema).
+
+NOTA DE CORTE USADA: 68.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 68.5%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #80 - (EF01LP01) | SIMILARIDADE: 68.5%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF01LP01) Reconhecer que textos são lidos e escritos da esquerda para a direita e de cima para baixo da página. 
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Professor, faça leitura, em voz alta, de materiais impressos e digitais, apontando o que está sendo lido. Use também o quadro para realizar atividades fazendo margem e linha semelhante ao caderno do aluno, facilitando essa percepção.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #3 - (EF01CO03)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF01CO03) Reorganizar e criar sequências de passos em meios físicos ou digitais, relacionando essas sequências à palavra ‘Algoritmos’.
+
+EXEMPLOS BNCC: Ao explicar para alguém como realizar uma tarefa (resolver um problema), se está criando um algoritmo.
+Esses algoritmos podem ser construídos a partir de um conjunto de passos desordenados, onde o aluno deve identificar a sequência em que esses passos devem ser executados, ou podem ser construídos partindo do zero, na qual esses passos também devem ser determinados, além da sequência desses. Pode-se usar linguagem textual, oral ou pictográfica para descrever os passos de um algoritmo.
+
+NOTA DE CORTE USADA: 75.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 75.6%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #281 - (EF02LP16BX) | SIMILARIDADE: 75.6%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF02LP16BX) Identificar e reproduzir, em bilhetes, receitas (modo de fazer) e relatos (digitais ou impressos), a  formatação e diagramação específica de cada um desses gêneros.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos estudantes situações de leitura desses textos por meio das quais eles possam investigá-los para perceber regularidades, sobretudo no que respeita à formatação e à diagramação desses textos. Assim, no momento de produzi-los, serão capazes de reproduzir de forma adequada essas especificidades, apropriando-se desses gêneros textuais. Portanto, é essencial que as atividades sejam propostas em uma sequência didática que articule práticas de leitura, de oralidade e de produção desses textos. No caso dos bilhetes, é possível criar o “correio da turma” para que troquem bilhetes entre si. 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 75.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital. Pode-se, ainda, pensar em critérios como o suporte em jogo, os recursos e as ferramentas de edição a serem utilizados, o grau de autonomia do estudante na realização da tarefa etc que envolvam o uso de ferramentas digitais.O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #4 - (EF01CO04)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF01CO04) Reconhecer o que é a informação, que ela pode ser armazenada, transmitida como mensagem por diversos meios e descrita em várias linguagens.
+
+EXEMPLOS BNCC: O objetivo é fazer com que o aluno compreenda o conceito de informação, que uma mesma informação pode ser descrita de diversas formas (usando linguagem oral, imagens, sons etc.) e que tal descrição pode ser armazenada e transmitida. Por exemplo, a informação sobre a existência de um cachorro pode ser representada como uma imagem ou como o som de seu latido, que pode ser transmitida repassando a folha com a imagem para outra pessoa ou reproduzindo o som para outra pessoa (como na brincadeira telefone sem fio) e depois pode ser armazenada em uma pasta ou gravação.
+
+NOTA DE CORTE USADA: 74.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 74.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #173 - (EF01LP23) | SIMILARIDADE: 74.3%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF01LP23) Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, entrevistas, curiosidades, dentre outros gêneros do campo investigativo, que possam ser repassados oralmente por meio de ferramentas digitais, em áudio ou vídeo, considerando a situação comunicativa e o tema/assunto/finalidade do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O campo de atuação da habilidade é o das práticas de estudo e pesquisa. Essa habilidade possibilita a ampliação das práticas de letramento digital pelos estudantes, uma vez que propõe que esses textos sejam repassados oralmente por meio de ferramentas digitais. Por exemplo, numa atividade de entrevistas, estas podem ser filmadas e assistidas pela turma. Vale destacar que o planejamento desses textos é parte importante dessa habilidade. No caso da entrevista, é preciso definir o entrevistado, as perguntas, o texto de apresentação do entrevistado e do assunto da entrevista, junto com o professor. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #5 - (EF01CO05)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF01CO05) Representar informação usando diferentes codificações.
+
+EXEMPLOS BNCC: Compreender o conceito de representação é um passo importante para a compreensão de como computadores representam as informações e simulam comportamentos, além de ser habilidade importante para o desenvolvimento e uso de abstrações. Um algoritmo executado por um computador opera dados representados de maneira simbólica. Por exemplo, uma imagem pode ser representada por uma grade formada por pequenos quadrados (pixels), cada qual com um número que representa sua cor (por exemplo, 0 branco e 1 preto). Sons podem ser representados por notas musicais etc.
+
+NOTA DE CORTE USADA: 69.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 69.8%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #173 - (EF01LP23) | SIMILARIDADE: 69.8%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF01LP23) Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, entrevistas, curiosidades, dentre outros gêneros do campo investigativo, que possam ser repassados oralmente por meio de ferramentas digitais, em áudio ou vídeo, considerando a situação comunicativa e o tema/assunto/finalidade do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O campo de atuação da habilidade é o das práticas de estudo e pesquisa. Essa habilidade possibilita a ampliação das práticas de letramento digital pelos estudantes, uma vez que propõe que esses textos sejam repassados oralmente por meio de ferramentas digitais. Por exemplo, numa atividade de entrevistas, estas podem ser filmadas e assistidas pela turma. Vale destacar que o planejamento desses textos é parte importante dessa habilidade. No caso da entrevista, é preciso definir o entrevistado, as perguntas, o texto de apresentação do entrevistado e do assunto da entrevista, junto com o professor. 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 69.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital. Pode-se, ainda, pensar em critérios como o suporte em jogo, os recursos e as ferramentas de edição a serem utilizados, o grau de autonomia do estudante na realização da tarefa etc que envolvam o uso de ferramentas digitais.O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #6 - (EF01CO06)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF01CO06) Reconhecer e explorar artefatos computacionais voltados a atender necessidades pessoais ou coletivas.
+
+EXEMPLOS BNCC: Esta habilidade tem como proposta a identificação e exploração de tecnologias físicas ou digitais, como por exemplo computador, tablets, brinquedos eletrônicos, ferramentas do cotidiano (martelo, alavancas, rampa).
+
+NOTA DE CORTE USADA: 61.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 61.6%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #173 - (EF01LP23) | SIMILARIDADE: 61.6%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF01LP23) Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, entrevistas, curiosidades, dentre outros gêneros do campo investigativo, que possam ser repassados oralmente por meio de ferramentas digitais, em áudio ou vídeo, considerando a situação comunicativa e o tema/assunto/finalidade do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O campo de atuação da habilidade é o das práticas de estudo e pesquisa. Essa habilidade possibilita a ampliação das práticas de letramento digital pelos estudantes, uma vez que propõe que esses textos sejam repassados oralmente por meio de ferramentas digitais. Por exemplo, numa atividade de entrevistas, estas podem ser filmadas e assistidas pela turma. Vale destacar que o planejamento desses textos é parte importante dessa habilidade. No caso da entrevista, é preciso definir o entrevistado, as perguntas, o texto de apresentação do entrevistado e do assunto da entrevista, junto com o professor. 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #688 - (EF15LP07) | SIMILARIDADE: 61.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #7 - (EF01CO07)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF01CO07) Conhecer as possibilidades de uso seguro das tecnologias computacionais para proteção dos dados pessoais e para garantir a própria segurança.
+
+EXEMPLOS BNCC: Esta habilidade propõe que o aluno possa refletir sobre a importância de resguardar dados pessoais como nome, endereço, idade, onde estuda, quando da utilização de tecnologias como celular, tablets, em que não se pode compartilhar essas informações com qualquer pessoa.
+
+NOTA DE CORTE USADA: 68.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 68.4%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 68.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 68.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 68.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #8 - (EF02CO01)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF02CO01) Criar e comparar modelos (representações) de objetos, identificando padrões e atributos essenciais.
+
+EXEMPLOS BNCC: Um modelo é construído ao se identificar características essenciais de objetos. Modelos são importantes para classificar objetos e a escolha das características define os agrupamentos.
+
+NOTA DE CORTE USADA: 64.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 64.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #100 - (EF01LP03) | SIMILARIDADE: 64.3%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF01LP03) Observar escritas convencionais, comparando-as às suas produções escritas, percebendo semelhanças e diferenças.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: É preciso consolidar a habilidade envolvendo a análise de unidades menores que a palavra, considerando que os alunos terão melhores condições de realizá-la após a compreensão da base alfabética. Para que essa análise seja possível, é preciso criar condições para a realização de comparação entre escritas: um procedimento a ser aprendido para potencializar a reflexão sobre o sistema de escrita. 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #124 - (EF01LP03) | SIMILARIDADE: 64.3%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF01LP03) Observar escritas convencionais, comparando-as às suas produções escritas, percebendo semelhanças e diferenças.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: É preciso consolidar a habilidade envolvendo a análise de unidades menores que a palavra, considerando que os alunos terão melhores condições de realizá-la após a compreensão da base alfabética. Para que essa análise seja possível, é preciso criar condições para a realização de comparação entre escritas: um procedimento a ser aprendido para potencializar a reflexão sobre o sistema de escrita. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #9 - (EF02CO02)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF02CO02) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, construídos como sequências com repetições simples (iterações definidas) com base em instruções preestabelecidas ou criadas, analisando como a precisão da instrução impacta na execução do algoritmo.
+
+EXEMPLOS BNCC: Usar linguagem oral, textual ou pictográfica para descrever algoritmos, percebendo a importância de descrevê-los com precisão para que possam ser executados por outras pessoas (ou máquinas). Os algoritmos aqui devem ser descritos através de sequências de instruções (preestabelecidas ou criadas pelos alunos) que podem ser repetidas um determinado número de vezes. Os ciclos de repetição devem ser simples, isto é, não devem conter outros ciclos.
+
+NOTA DE CORTE USADA: 80.0% (original)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 80.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #283 - (EF02LP25) | SIMILARIDADE: 80.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF02LP25) Identificar e reproduzir, em relatos de experimentos, entrevistas, verbetes de enciclopédia infantil, digitais ou impressos, a formatação e diagramação específica de cada um desses gêneros, inclusive em suas versões orais.
+   
+   ORIENTAÇÕES PEDAGÓGICAS:  Proporcionar aos estudantes situações de leitura desses textos para que possam, com a mediação do professor e/ou com certa autonomia, perceber as regularidades desses gêneros textuais, sobretudo no que diz respeito à formatação e à diagramação desses textos. Nesse sentido, as atividades devem compor uma sequência didática que articule diferentes práticas de linguagem (ler, escutar, produzir por escrito ou oralmente) envolvendo os textos, para que os estudantes possam, de fato, ser capazes de reproduzir essas especificidades.  
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #10 - (EF02CO03)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF02CO03) Identificar que máquinas diferentes executam conjuntos próprios de instruções e que podem ser usadas para definir algoritmos.
+
+EXEMPLOS BNCC: Para compreender o funcionamento dos computadores, é importante entender que uma máquina disponibiliza um conjunto de instruções (as operações) que, se realizadas em uma dada sequência (algoritmo), produzem algum resultado.
+
+NOTA DE CORTE USADA: 64.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 64.4%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #910 - (EF05LP23) | SIMILARIDADE: 64.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP23) Comparar informações apresentadas em gráficos ou tabelas.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trata-se de ler e interpretar dados de gráficos e tabelas, compreendendo as diferenças e semelhanças de apresentação correspondentes a cada um. A habilidade supõe a leitura e interpretação dos dados de cada um dos gêneros mencionados, para, depois, realizar a comparação entre ambos. O grau de autonomia esperada no desenvolvimento desta habilidade deve ser articulado com o repertório suposto para o estudante no nível de ensino em foco. É preciso garantir que eles saibam realizar a interpretação dos dados de gráficos, tabelas e outros recursos que compõem, sobretudo, os textos do campo de estudo e pesquisa. É importante orientá-los para ler, por exemplo, o título dos gráficos (pois indicam o que representam os dados), as legendas (pois esclarecem quais são os dados apresentados), os eixos (para verificar qual será a articulação) e comparar as sínteses que as colunas/fatias representam. Feita a leitura de um dos recursos, a ideia é que façam a do segundo e, depois, que realizem a articulação dos dados de cada recurso, sem esquecer que o foco é a compreensão do problema abordado. A leitura colaborativa é uma atividade que potencializa esse trabalho.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #955 - (EF05MA25) | SIMILARIDADE: 64.3%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF05MA25) Realizar pesquisa envolvendo variáveis categóricas e numéricas, organizar dados coletados por meio de tabelas, gráficos de colunas, pictóricos e de linhas, com e sem uso de tecnologias digitais, e apresentar texto escrito sobre a finalidade da pesquisa e a síntese dos resultados.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O desenvolvimento pleno dessa habilidade implica em identificar que as variáveis nos estudos estatísticos são os valores que assumem determinadas características dentro de uma pesquisa. Variáveis categóricas ou qualitativas são aquelas que não podem ser expressas numericamente, pois relacionam situações como mês de nascimento, preferência por um time de futebol, marca de automóvel, preferência musical, entre outras. A habilidade também prevê a pesquisa com variáveis numéricas ou quantitativas. Esse tipo de variável pode ser classificado em discreta (se for relacionada a situações de contagem (por exemplo: número de revistas vendidas, quantidade de consultas médicas, número de filhos) ou contínua como a que se refere às situações de medida (por exemplo, massa de um produto, altura de pessoas, tempo de duração de um evento etc.). No 5o ano, a ampliação em relação ao 4º ano está na escolha de uma amostra maior de pessoas e na utilização da tecnologia para tabular e representar dados da pesquisa. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #11 - (EF02CO04)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF02CO04) Diferenciar componentes físicos (hardware) e programas que fornecem as instruções (software) para o hardware.
+
+EXEMPLOS BNCC: O objetivo da habilidade é mostrar aos alunos que em seu cotidiano existem dispositivos físicos (celulares, computadores, calculadoras, máquinas de costura etc.) que são controlados por algo que segue uma sequência de passos lógicos (um App do celular, uma pessoa com a calculadora, uma costureira) etc.
+
+NOTA DE CORTE USADA: 61.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 61.5%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 61.5%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital. Pode-se, ainda, pensar em critérios como o suporte em jogo, os recursos e as ferramentas de edição a serem utilizados, o grau de autonomia do estudante na realização da tarefa etc que envolvam o uso de ferramentas digitais.O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #12 - (EF02CO05)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF02CO05) Reconhecer as características e usos das tecnologias computacionais no cotidiano dentro e fora da escola.
+
+EXEMPLOS BNCC: A proposta nessa habilidade é que o aluno verifique as diferentes características das tecnologias de informação e comunicação, identificando como funcionam, principais aspectos, bem como reconhecendo os diferentes usos no dia a dia das pessoas dentro e fora da escola.
+
+NOTA DE CORTE USADA: 65.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 4
+MAIOR SIMILARIDADE ENCONTRADA: 65.7%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 65.7%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 65.7%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 65.7%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #743 - (EF04LP17) | SIMILARIDADE: 65.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF04LP17) Produzir jornais radiofônicos ou televisivos e entrevistas veiculadas em rádio, TV e na internet, orientando-se por roteiro ou texto e demonstrando conhecimento dos gêneros jornal falado/televisivo e entrevista.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: A habilidade prevê tanto a produção oral quanto a oralização de textos escritos.  Recomenda-se a elaboração de projetos com foco na produção/revisão colaborativa, inseridos na produção de jornais editados para circular em blogs e rádios comunitárias da escola. Além disso, sugere-se planejar situações de pesquisa de fatos de relevância da comunidade escolar e/ou de interesse social, bem como a coleta de dados e informações. Há, nesse caso, uma oportunidade de integração com o componente curricular Arte, a fim de trabalhar habilidades relacionadas ao padrão entonacional, as expressões faciais e corporais necessárias à fala de âncoras e locutores de notícias. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #13 - (EF02CO06)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF02CO06) Reconhecer os cuidados com a segurança no uso de dispositivos computacionais.
+
+EXEMPLOS BNCC: Nesta habilidade temos a perspectiva de trazer um panorama sobre os cuidados com a segurança ao usar dispositivos como celular, tablets, computadores dentre outros (roubo de dados em dispositivos físicos, rastro de dados online quando da utilização de jogos por exemplo etc.).
+
+NOTA DE CORTE USADA: 65.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 4
+MAIOR SIMILARIDADE ENCONTRADA: 65.8%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 65.8%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 65.8%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 65.8%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #688 - (EF15LP07) | SIMILARIDADE: 65.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #14 - (EF03CO01)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF03CO01) Associar os valores 'verdadeiro' e 'falso' a sentenças lógicas que dizem respeito a situações do dia a dia, fazendo uso de termos que indicam negação.
+
+EXEMPLOS BNCC: As sentenças lógicas são sentenças declarativas que representam a constatação de um fato pelo emissor, podendo ser afirmativas ou negativas. Quando se faz uma declaração, ela pode ser "verdadeira" ou "falsa". Esses termos definem os possíveis valores (verdade) para as sentenças lógicas. Comparações de tamanho, peso ou cor de objetos tem como resultado um valor lógico ("verdadeiro" ou "falso"). O valor de uma sentença lógica pode ser modificado usando a operação de negação, indicada por termos como NÃO e NÃO É VERDADE QUE.
+
+NOTA DE CORTE USADA: 74.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 74.4%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #897 - (EF05LP27) | SIMILARIDADE: 74.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP27) Utilizar, ao produzir o texto, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível adequado de informatividade.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade refere-se a reconhecer, no processo de leitura, recursos linguísticos e discursivos que constituem os gêneros de modo que seja possível empregá-los adequadamente nos textos a serem produzidos. Trata-se de utilizar, na produção dos textos, os recursos previstos. Para tanto, é necessário estudá-los, o que pode ser feito por meio das leituras colaborativas de estudo de texto. Na revisão coletiva processual e final, analisa-se a adequação do uso dos recursos, de modo a garantir a coerência e legibilidade do texto. Na progressão, pode-se considerar o nível de autonomia do estudante, que se efetiva pela organização de habilidades em que as tarefas sejam realizadas em colaboração e, progressivamente, com autonomia.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #15 - (EF03CO02)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF03CO02) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples com condição (iterações indefinidas), para resolver problemas de forma independente e em colaboração.
+
+EXEMPLOS BNCC: Os algoritmos aqui devem ser descritos através de sequências de instruções que podem ser repetidas um número de vezes que não é conhecido de antemão. Nestes casos, esta repetição é controlada por alguma condição (sentença lógica). Os ciclos de repetição devem ser simples, isto é, não devem conter outros ciclos.
+
+NOTA DE CORTE USADA: 73.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 73.9%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #281 - (EF02LP16BX) | SIMILARIDADE: 73.9%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF02LP16BX) Identificar e reproduzir, em bilhetes, receitas (modo de fazer) e relatos (digitais ou impressos), a  formatação e diagramação específica de cada um desses gêneros.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos estudantes situações de leitura desses textos por meio das quais eles possam investigá-los para perceber regularidades, sobretudo no que respeita à formatação e à diagramação desses textos. Assim, no momento de produzi-los, serão capazes de reproduzir de forma adequada essas especificidades, apropriando-se desses gêneros textuais. Portanto, é essencial que as atividades sejam propostas em uma sequência didática que articule práticas de leitura, de oralidade e de produção desses textos. No caso dos bilhetes, é possível criar o “correio da turma” para que troquem bilhetes entre si. 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #897 - (EF05LP27) | SIMILARIDADE: 73.7%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP27) Utilizar, ao produzir o texto, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível adequado de informatividade.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade refere-se a reconhecer, no processo de leitura, recursos linguísticos e discursivos que constituem os gêneros de modo que seja possível empregá-los adequadamente nos textos a serem produzidos. Trata-se de utilizar, na produção dos textos, os recursos previstos. Para tanto, é necessário estudá-los, o que pode ser feito por meio das leituras colaborativas de estudo de texto. Na revisão coletiva processual e final, analisa-se a adequação do uso dos recursos, de modo a garantir a coerência e legibilidade do texto. Na progressão, pode-se considerar o nível de autonomia do estudante, que se efetiva pela organização de habilidades em que as tarefas sejam realizadas em colaboração e, progressivamente, com autonomia.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #522 - (EF15LP12) | SIMILARIDADE: 73.5%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP12) Atribuir significado a aspectos não linguísticos (paralinguísticos) observados na fala, como direção do olhar, riso, gestos, movimentos da cabeça (de concordância ou discordância), expressão corporal, tom de voz.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: A habilidade envolve o reconhecimento e a análise das expressões corporais associadas à fala, com o objetivo de determinar seu papel na construção dos sentidos dos textos orais. Pode-se prever o estudo de diversas situações de comunicação oral no que se refere aos recursos paralinguísticos, de modo a: a) analisar os efeitos de sentido produzidos por eles;                                                                                                                                                                     b) reconhecer a adequação (ou não) das escolhas do locutor;                                                                                                                                                                           c) constituir um repertório de recursos possíveis de serem utilizados;                                                                                                                                         d) selecionar os recursos mais adequados às intenções de significação do discurso a ser produzido.                                                                                    É interessante, do ponto de vista da progressão, prever uma trajetória que vá do trabalho coletivo em colaboração até aproximar-se do autônomo.                                                                                                                                          
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #16 - (EF03CO03)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF03CO03) Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.
+
+EXEMPLOS BNCC: Decomposição é uma das principais técnicas de resolução de problemas, na qual um problema é dividido em subproblemas, os quais são resolvidos independentemente, e cujas soluções são combinadas para construir a solução do problema original. Algumas vantagens da decomposição são: - permitir uma melhor organização e visualização do problema e da solução; - facilitar o trabalho em grupo; - permitir que possamos reutilizar as soluções dos subproblemas em outros problemas.
+
+NOTA DE CORTE USADA: 78.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 78.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #166 - (EF01MA08) | SIMILARIDADE: 78.3%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF01MA08) Resolver e elaborar coletivamente problemas de adição e de subtração, envolvendo números de até dois algarismos, com os significados de juntar, acrescentar, separar e retirar, com o suporte de imagens e/ou material manipulável, utilizando estratégias e formas de registro pessoais.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Neste bimestre, professor, além de levar o aluno á apropriação da habilidade de resolver problemas, ele terá que estabelecer estratégias para resolver problemas diversos. Assim,  é interessante destacar  situações do dia a dia como oportunidades para a resolução e formulação de problemas. No entanto, é importante lembrar que  os alunos devem ter contato com uma variedade de problemas em diversos contextos. As crianças primeiro pensam ou agem mentalmente para obterem a solução (ou as soluções) de um problema, e tornam-se capazes de representá-la primeiro com suas próprias palavras e com símbolos pessoais (materiais, corpo, desenho). Logo, torna-se relevante o destaque para incentivar diferentes processos de resolução, bem como analisar coletivamente e discutir a respeito das soluções encontradas. Fazer registros diversos também deve ser incentivado como parte do processo de construção da linguagem matemática, da ampliação do raciocínio e da capacidade de argumentação dos alunos. A elaboração de problemas pode ser feita coletivamente ou em pequenos grupos. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #17 - (EF03CO04)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF03CO04) Relacionar o conceito de informação com o de dado.
+
+EXEMPLOS BNCC: Para que um computador possa armazenar, transmitir ou manipular uma informação é preciso processá-la e representá-la como um conjunto de dados (símbolos). A habilidade trabalha a diferença entre esses dois conceitos.
+
+NOTA DE CORTE USADA: 67.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 67.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 67.0%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 67.0%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 67.0%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #18 - (EF03CO05)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF03CO05) Compreender que dados são estruturados em formatos específicos dependendo da informação armazenada.
+
+EXEMPLOS BNCC: A Computação emprega diferentes técnicas para organizar dados de forma estruturada para representar informação. Cada tipo de informação possui uma estratégia de representação. Textos podem ser representados como uma sequência de números decimais, onde cada número representa um caractere (como é feito com o uso da tabela ASCII), uma imagem pode ser representada como uma sequência de números decimais que definem a cor de cada elemento de um reticulado uniforme que divide a imagem (pixel) etc.
+
+NOTA DE CORTE USADA: 69.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 6
+MAIOR SIMILARIDADE ENCONTRADA: 69.9%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #920 - (EF05LP24) | SIMILARIDADE: 69.9%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP24) Planejar e produzir texto sobre tema de interesse, organizando resultados de pesquisa em fontes de informação impressas ou digitais, incluindo imagens e gráficos ou tabelas, considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta é uma habilidade que articula a produção textual com o tema de interesse do aluno ao organizar resultados de pesquisa e dois vetores do processo de produção escrita (situação/tema ou assunto).  Há oportunidade de trabalho com as habilidades (EF05MA24) e (EF05MA25) da Matemática, no que se refere à interpretação de gráficos e tabelas em textos. É possível definir o gênero a ser estudado (verbete de curiosidade, texto expositivo).
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #921 - (EF05LP24) | SIMILARIDADE: 69.9%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP24) Planejar e produzir texto sobre tema de interesse, organizando resultados de pesquisa em fontes de informação impressas ou digitais, incluindo imagens e gráficos ou tabelas, considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta é uma habilidade que articula a produção textual com o tema de interesse do aluno ao organizar resultados de pesquisa e dois vetores do processo de produção escrita (situação/tema ou assunto).  Há oportunidade de trabalho com as habilidades (EF05MA24) e (EF05MA25) da Matemática, no que se refere à interpretação de gráficos e tabelas em textos. É possível definir o gênero a ser estudado (verbete de curiosidade, texto expositivo).
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #922 - (EF05LP24) | SIMILARIDADE: 69.9%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP24) Planejar e produzir texto sobre tema de interesse, organizando resultados de pesquisa em fontes de informação impressas ou digitais, incluindo imagens e gráficos ou tabelas, considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta é uma habilidade que articula a produção textual com o tema de interesse do aluno ao organizar resultados de pesquisa e dois vetores do processo de produção escrita (situação/tema ou assunto).  Há oportunidade de trabalho com as habilidades (EF05MA24) e (EF05MA25) da Matemática, no que se refere à interpretação de gráficos e tabelas em textos. É possível definir o gênero a ser estudado (verbete de curiosidade, texto expositivo).
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #806 - (EF04MA10) | SIMILARIDADE: 69.6%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF04MA10) Reconhecer que as regras do sistema de numeração decimal podem ser estendidas para a representação decimal de um número racional e relacionar décimos e centésimos com a representação do sistema monetário brasileiro.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: A compreensão de que é possível representar um número racional na forma decimal pode decorrer do uso do quadro de ordens da mesma forma que se faz com os números naturais, estendendo essa representação para a direita da unidade, e que essa representação indica a parte decimal do número racional representado. Esse quadro facilita a leitura, a comparação, composição e decomposição de um número racional expresso na forma decimal. A clareza da relação entre os números decimais e as frações com denominadores decimais, em particular, e a compreensão de que a escrita 0,1 é outra forma de representar 1/10, e que 0, 01 é outra escrita para 1/100 pode vir da exploração de regularidades com a calculadora (por exemplo, investigar como a calculadora mostra os resultados de números naturais entre 1 e 10 divididos por 10, anotar e depois tentar representar sem calculadora os resultados de números entre 1 e 10 divididos por 100, conferindo suas hipóteses na calculadora). Além do quadro de valores e a calculadora, a reta numérica e problemas com escrita de valores monetários são contextos para a exploração das ideias contidas nesta habilidade.  Há, aqui, oportunidade de trabalho no que se refere a leitura de valores monetários.
+   
+   ──────────────────────────────────────────────────
+
+5. CURRÍCULO #376 - (EF02MA07) | SIMILARIDADE: 69.5%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF02MA07) Resolver e elaborar problemas de multiplicação (por 2, 3, 4 e 5) com a ideia de adição de parcelas iguais por meio de estratégias e formas de registro pessoais, utilizando ou não suporte de imagens e/ou material manipulável.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Dando continuidade ao trabalho realizado no bimestre anterior, é importante explicitar que as operações não venham antes dos problemas, mas em conjunto com eles. Logo, aprende-se uma operação resolvendo problemas, expressando a resolução de múltiplas maneiras, sendo uma delas a escrita aritmética. Assim, torna-se relevante o destaque para incentivar diferentes processos de resolução nos quais seja possível a utilização de representações pessoais (desenhos, esquemas, escritas numéricas), bem como analisar coletivamente e discutir a respeito das soluções encontradas. O incentivo a registros diversos são parte do processo de apoio à construção da linguagem matemática, amplia o raciocínio e a capacidade de argumentar dos alunos. 
+   
+   ──────────────────────────────────────────────────
+
+6. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 69.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital. Pode-se, ainda, pensar em critérios como o suporte em jogo, os recursos e as ferramentas de edição a serem utilizados, o grau de autonomia do estudante na realização da tarefa etc que envolvam o uso de ferramentas digitais.O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #19 - (EF03CO06)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF03CO06) Reconhecer que, para um computador realizar tarefas, ele se comunica com o mundo exterior com o uso de interfaces físicas (dispositivos de entrada e saída).
+
+EXEMPLOS BNCC: É importante entender que o computador se comunica com o mundo exterior com dispositivos físicos próprios. Alguns dos dispositivos permitem fornecer informações para os computadores, os dispositivos de entrada (teclado, mouse, microfone, sensores, antena etc.), enquanto outros permitem que o computador transmita informações para o mundo exterior, os dispositivos de saída (monitor, alto-falante, impressora etc.).
+
+NOTA DE CORTE USADA: 65.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 65.7%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #688 - (EF15LP07) | SIMILARIDADE: 65.7%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #20 - (EF03CO07)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF03CO07) Utilizar diferentes navegadores e ferramentas de busca para pesquisar e acessar informações.
+
+EXEMPLOS BNCC: Nesta habilidade temos a perspectiva que o aluno possa explorar diferentes navegadores e buscadores, conhecendo aspectos gerais das ferramentas de busca como associação de palavras, as abas em cada um deles, filtros, dentre outros. Além disso, por meio das pesquisas apresentar os cuidados na busca das informações desejadas.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 70.6%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 70.6%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 70.6%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 70.6%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #21 - (EF03CO08)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF03CO08) Usar ferramentas computacionais em situações didáticas para se expressar em diferentes formatos digitais.
+
+EXEMPLOS BNCC: O objetivo desta habilidade é que o aluno possa explorar diversas ferramentas computacionais como jogos educacionais, programas de animação, ferramentas de desenho dentre outros, expressar ideias.
+
+NOTA DE CORTE USADA: 68.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 68.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #173 - (EF01LP23) | SIMILARIDADE: 68.3%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF01LP23) Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, entrevistas, curiosidades, dentre outros gêneros do campo investigativo, que possam ser repassados oralmente por meio de ferramentas digitais, em áudio ou vídeo, considerando a situação comunicativa e o tema/assunto/finalidade do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O campo de atuação da habilidade é o das práticas de estudo e pesquisa. Essa habilidade possibilita a ampliação das práticas de letramento digital pelos estudantes, uma vez que propõe que esses textos sejam repassados oralmente por meio de ferramentas digitais. Por exemplo, numa atividade de entrevistas, estas podem ser filmadas e assistidas pela turma. Vale destacar que o planejamento desses textos é parte importante dessa habilidade. No caso da entrevista, é preciso definir o entrevistado, as perguntas, o texto de apresentação do entrevistado e do assunto da entrevista, junto com o professor. 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #688 - (EF15LP07) | SIMILARIDADE: 68.0%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #22 - (EF03CO09)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF03CO09) Reconhecer o potencial impacto do compartilhamento de informações pessoais ou de seus pares em meio digital.
+
+EXEMPLOS BNCC: A proposta nesta habilidade é que o aluno possa identificar alguns dos principais impactos de compartilhar informações pessoais com colegas ou pessoas em meio digital, como por exemplo endereço, nomes das pessoas da família, onde estuda, onde mora. Essas informações podem ser utilizadas por pessoas de forma mal-intencionadas, quando os alunos trocam informações online por celular, computador ou até mesmo quando estão jogando na internet.
+
+NOTA DE CORTE USADA: 73.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 73.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 73.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 73.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 73.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #23 - (EF04CO01)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF04CO01) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de matrizes que estabelecem uma organização na qual cada componente está em uma posição definida por coordenadas, fazendo manipulações simples sobre estas representações.
+
+EXEMPLOS BNCC: Informações podem ser organizadas em estruturas, denominadas estruturas de dados. Essas estruturas permitem uma melhor compreensão e também facilitam a manipulação das informações. Uma estrutura de dados esconde a particularidade de diferentes informações, permitindo que sejam vistas como objetos únicos, ou seja, é uma forma de abstração. Matrizes são um tipo de estrutura de dados organizadas em linhas e colunas assim como as tabelas. As matrizes possuem um tamanho pré-definido e todos os dados que fazem parte da estrutura são do mesmo tipo. Um dado específico é acessado em uma matriz através de coordenadas (x,y) que indicam a linha e a coluna em que esse se localiza. Matrizes compostas de uma única linha são denominadas vetores. A ideia aqui é que os alunos consigam identificar objetos estruturados no mundo real que possam ser caracterizados como matrizes e usem algum tipo de representação (podendo ser visual) para ilustrá-los. Além disso, devem realizar manipulações simples sobre essas representações
+como recuperar e alterar informações nas matrizes. Exemplos de objetos que podem ser caracterizados como matrizes: tabuleiro de batalha naval, tabuleiro de xadrez, caixa de ovos, organização de classes em uma sala, janelas na fachada de um prédio etc.
+
+NOTA DE CORTE USADA: 77.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 77.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #162 - (EF01MA22X) | SIMILARIDADE: 77.2%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF01MA22X) Realizar pesquisa, envolvendo até duas variáveis categóricas de seu interesse e universo de até 30 elementos, e organizar dados por meio de representações pessoais com a ajuda do professor,
+   
+   ORIENTAÇÕES PEDAGÓGICAS: As variáveis categóricas ou qualitativas são aquelas que não são expressas numericamente, ou seja a resposta à pergunta  não é um número,  mas um nome como cor dos olhos, preferência por um time de futebol,  preferência por uma marca de automóvel, preferência musical, entre outras. A realização da pesquisa acontece a partir de procedimentos tais como identificar uma questão a ser respondida, desenvolver procedimentos que vão da escolha da população investigada a procedimentos de coleta, organização e publicação dos dados da pesquisa; e, finalmente, responder à questão inicial. Assim, por exemplo, analisar qual é a preferência dos alunos da classe por sorvete de chocolate ou de limão, envolve fazer uma pesquisa, organizar os dados e construir uma representação para finalmente responder à questão, indicando quantos preferem mais um sabor que o outro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #24 - (EF04CO02)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF04CO02) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de registros que estabelecem uma organização na qual cada componente é identificado por um nome, fazendo manipulações sobre estas representações.
+
+EXEMPLOS BNCC: Informações podem ser organizadas em estruturas, denominadas estruturas de dados. Essas estruturas permitem uma melhor compreensão e também facilitam a manipulação das informações. Uma estrutura de dados esconde a particularidade de diferentes informações, permitindo que sejam vistas como objetos únicos, ou seja, é uma forma de abstração. Registros, que são agrupamentos de informações, são um tipo de estrutura de dados que possui um tamanho prédefinido e os dados agrupados podem ser de diferentes tipos. Uma informação específica de um registro é acessada através de um identificador (ou nome) associado a ela. A ideia aqui é que os alunos consigam identificar objetos estruturados no mundo real que possam ser caracterizados como registros e usem algum tipo de representação (podendo ser visual) para ilustrá-los. Além disso, devem realizar manipulações simples sobre essas representações como recuperar e alterar informações nos registros. Exemplos de objetos que podem ser caracterizados como registros: carteira de estudante, boletim, ficha de cadastro de aluno, descrição de qualquer objeto/pessoa (escolhendo um conjunto de atributos) etc.
+
+NOTA DE CORTE USADA: 76.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 76.5%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 76.5%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital. Pode-se, ainda, pensar em critérios como o suporte em jogo, os recursos e as ferramentas de edição a serem utilizados, o grau de autonomia do estudante na realização da tarefa etc que envolvam o uso de ferramentas digitais.O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #270 - (EF02LP23) | SIMILARIDADE: 76.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE:  (EF02LP23) Planejar e produzir, com certa autonomia, pequenos registros de observação de resultados de pesquisa, coerentes com um tema investigado.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: A habilidade prevê a organização de informações coletadas por meio de uma pesquisa sobre determinado assunto. Além de focar no planejamento e na produção de textos do campo das práticas de estudo e pesquisa. Nesse sentido, é essencial ensinar os estudantes a pesquisar, elaborando as perguntas para as quais desejam encontrar respostas, indicando fontes seguras e alertando para as possíveis informações incorretas ou falsas. É preciso ensinar a tomar notas dessas informações, comparar informações encontradas em diferentes fontes para, então, com base nelas, organizar os registros com os resultados obtidos. Como os estudantes ainda estão concluindo o processo de alfabetização, a complexidade desse trabalho de pesquisa e de registro dos resultados deve respeitar seus limites. No entanto, é essencial que eles compreendam o que significa pesquisar e quais ações e processos estão envolvidos nessa tarefa, desde a elaboração das perguntas até o registro e a partilha dos resultados. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #25 - (EF04CO03)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF04CO03) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples e aninhadas (iterações definidas e indefinidas), para resolver problemas de forma independente e em colaboração.
+
+EXEMPLOS BNCC: Os algoritmos aqui devem ser descritos através de sequências de instruções que podem ser repetidas. As repetições, aqui, podem ser aninhadas, isto é, um ciclo de repetição pode conter outro.
+
+NOTA DE CORTE USADA: 76.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 76.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #522 - (EF15LP12) | SIMILARIDADE: 76.0%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP12) Atribuir significado a aspectos não linguísticos (paralinguísticos) observados na fala, como direção do olhar, riso, gestos, movimentos da cabeça (de concordância ou discordância), expressão corporal, tom de voz.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: A habilidade envolve o reconhecimento e a análise das expressões corporais associadas à fala, com o objetivo de determinar seu papel na construção dos sentidos dos textos orais. Pode-se prever o estudo de diversas situações de comunicação oral no que se refere aos recursos paralinguísticos, de modo a: a) analisar os efeitos de sentido produzidos por eles;                                                                                                                                                                     b) reconhecer a adequação (ou não) das escolhas do locutor;                                                                                                                                                                           c) constituir um repertório de recursos possíveis de serem utilizados;                                                                                                                                         d) selecionar os recursos mais adequados às intenções de significação do discurso a ser produzido.                                                                                    É interessante, do ponto de vista da progressão, prever uma trajetória que vá do trabalho coletivo em colaboração até aproximar-se do autônomo.                                                                                                                                          
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #911 - (EF35LP31) | SIMILARIDADE: 76.0%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF35LP31) Identificar, em textos versificados, efeitos de sentido decorrentes do uso de recursos rítmicos e sonoros e de metáforas.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta é uma habilidade que refere-se ao processo de leitura e estudo de textos poéticos — reconhecer recursos linguísticos e discursivos que constituem os gêneros mencionados. Seu desenvolvimento demanda o recurso a práticas de oralização dos textos mencionados, sem o que os aspectos relacionados à sonoridade e ao ritmo não podem ser observados. É importante que o seu desenvolvimento venha associado a atividades colaborativas de leitura, oralização e análise. Convém, portanto, que a mediação do professor e o envolvimento sistemático do estudante em práticas de leitura e escrita sejam contemplados nos dois primeiros anos. A progressão pode apoiarse no grau de complexidade dos gêneros e/ou textos poéticos programados para o estudo e pelo nível de autonomia a ser atingido pelo estudante a cada etapa do trabalho.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #26 - (EF04CO04)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF04CO04) Entender que para guardar, manipular e transmitir dados deve-se codificá-los de alguma forma que seja compreendida pela máquina (formato digital).
+
+EXEMPLOS BNCC: Um processador é formado por circuitos eletrônicos que operam apenas em dois níveis de tensão. Por isso, o sistema binário (0 e 1) é o sistema de numeração usado para codificação em formato digital. Isso implica que para que um computador possa guardar, manipular e transmitir dados, precisamos codificá-los utilizando diferentes estratégias.
+
+NOTA DE CORTE USADA: 69.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 69.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 69.0%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital. Pode-se, ainda, pensar em critérios como o suporte em jogo, os recursos e as ferramentas de edição a serem utilizados, o grau de autonomia do estudante na realização da tarefa etc que envolvam o uso de ferramentas digitais.O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #27 - (EF04CO05)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF04CO05) Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB etc.).
+
+EXEMPLOS BNCC: Existem diferentes estratégias de representação em formato digital para diferentes tipos de informação. Conhecê-las é um passo importante para o desenvolvimento de algoritmos que trabalhem com tipos diferentes de informação.
+
+NOTA DE CORTE USADA: 67.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 67.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #688 - (EF15LP07) | SIMILARIDADE: 67.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #28 - (EF04CO06)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF04CO06) Usar diferentes ferramentas computacionais para criação de conteúdo (textos, apresentações, vídeos etc.).
+
+EXEMPLOS BNCC: O objetivo desta habilidade é que o aluno possa explorar diversas ferramentas computacionais como editor de texto, editor de imagem, editor de apresentações, programa de história em quadrinhos, animação dentre outros, para produzir conteúdo em projetos, atividades diversas.
+
+NOTA DE CORTE USADA: 68.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 68.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 68.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 68.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 68.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #29 - (EF04CO07)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF04CO07) Demonstrar postura ética nas atividades de coleta, transferência, guarda e uso de dados.
+
+EXEMPLOS BNCC: Propõe-se que o aluno reflita sobre aspectos éticos relacionados a manipulação de dados, como por exemplo quando assiste e faz download, compartilha uma imagem, dentre outros.
+
+NOTA DE CORTE USADA: 58.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 58.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #146 - (EF01CI04) | SIMILARIDADE: 58.1%
+   
+   DISCIPLINA: CIÊNCIAS
+   
+   HABILIDADE: (EF01CI04) Comparar características físicas entre os colegas, reconhecendo a diversidade e a importância da valorização, do acolhimento e do respeito às diferenças.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Sugere-se que o aluno, ao descrever as partes que compõem o corpo humano, ressalte características como cor da pele, dos olhos, do cabelo, altura e tipo físico. Pode-se complementar o desenvolvimento da habilidade por meio do reconhecimento do corpo em outros modelos representativos da cultura local, como bonecos, pinturas, fotografias, entre outros e levá-lo ao conhecimento que ocorrem modificações no funcionamento do corpo em função do crescimento e desenvolvimento; e mais mostrar as diferenças externas do corpo humano infantil (masculino e feminino), bem como as características físicas de cada um, pautando as abordagens no disurso do respeito às diferenças.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #30 - (EF04CO08)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF04CO08) Reconhecer a importância de verificar a confiabilidade das fontes de informações obtidas na Internet.
+
+EXEMPLOS BNCC: Nesta habilidade espera-se que os alunos possam reconhecer que, ao se obter informações na Internet, é preciso identificar as suas fontes e se elas são seguras e a informação é confiável.
+
+NOTA DE CORTE USADA: 67.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 67.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 67.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 67.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 67.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #31 - (EF05CO01)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF05CO01) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.
+
+EXEMPLOS BNCC: Listas são estruturas de dados que agrupam itens organizados logicamente em sequência e não possuem tamanho pré-definido, o que permite resolver problemas com diferentes quantidades de elementos, como no caso de uma fila de pessoas em um caixa, cujo gerenciamento segue o mesmo algoritmo independentemente do tamanho da fila; no mundo real, diversos objetos podem ser caracterizados como listas, como filas de pessoas, pilhas de cartas, listas de compras, pilhas de pratos, relação de alunos de uma turma ou sequência de notas musicais, e sobre essas representações é possível realizar manipulações simples, como recuperar, alterar ou inserir informações, sendo útil também representá-las de forma visual para facilitar a compreensão de sua estrutura e funcionamento.
+
+NOTA DE CORTE USADA: 76.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 76.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #578 - (EF03MA28) | SIMILARIDADE: 76.1%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF03MA28) Realizar pesquisa envolvendo variáveis categóricas em um universo de até 50 elementos, organizar os dados coletados utilizando listas, tabelas simples ou de dupla entrada e representá-los em gráficos de colunas simples, com ou sem uso de tecnologias digitais.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: A realização da pesquisa acontece a partir de procedimentos tais como identificar um problema a ser respondido e desenvolver procedimentos que vão da escolha da população investigada a procedimentos de coleta, organização e publicação dos dados da pesquisa e da resolução do problema investigado. Logo, o professor pode partir do levantamento de temas vivenciados pelos alunos, por exemplo, a observação do número de dias ensolarados, o número de faltas de alunos durante um mês, a coleta de opinião de outras pessoas a respeito de um determinado fato, o levantamento do local de origem da família, entre outros contextos que são adequados para o desenvolvimento de procedimentos de pesquisa estatística. Neste ano, a ampliação em relação ao ano anterior está na escolha de uma amostra maior de pessoas e na utilização da tecnologia para tabular e representar dados da pesquisa.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #32 - (EF05CO02)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF05CO02) Reconhecer objetos do mundo real e digital que podem ser representados através de grafos que estabelecem uma organização com uma quantidade variável de vértices conectados por arestas, fazendo manipulações simples sobre estas representações.
+
+EXEMPLOS BNCC: Grafos são estruturas de dados utilizadas para representar relações entre objetos, descritos por vértices (objetos) e arestas (relações), sem tamanho pré-definido, o que possibilita resolver problemas de diferentes dimensões, como encontrar caminhos tanto em um mapa de uma região quanto em um mapa de um país; no cotidiano, muitos objetos podem ser caracterizados como grafos, como mapas, redes sociais, a própria internet, redes de computadores, árvores genealógicas ou chaveamentos de campeonatos, sendo possível representá-los de forma visual para melhor compreensão, além de realizar manipulações simples como recuperar informações ou identificar caminhos entre vértices.
+
+NOTA DE CORTE USADA: 71.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 71.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #951 - (EF05MA17) | SIMILARIDADE: 71.1%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF05MA17) Reconhecer, nomear e comparar polígonos, considerando  lados, vértices e ângulos, e desenhá-los, utilizando material de desenho ou tecnologias digitais.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Reconhecer, nomear e comparar polígonos implica na explicitação das principais características de cada polígono, considerando a quantidade de vértices, arestas e ângulos. Compreende também que as representações de desenho em malhas, fazem parte das aprendizagens dos estudantes associadas à habilidade. Merecem cuidado os registros por escrito das características das figuras em estudo, bem como o desenho utilizando material de desenho ou tecnologias digitais e a utilização de linguagem geométrica em aula.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #33 - (EF05CO03)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF05CO03) Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'.
+
+EXEMPLOS BNCC: Os valores de sentenças lógicas podem ser modificados ou combinados por meio de operações lógicas como negação (NÃO), conjunção (E) e disjunção (OU), sendo que a negação inverte o valor lógico da sentença, transformando uma proposição verdadeira em falsa e uma proposição falsa em verdadeira.
+
+NOTA DE CORTE USADA: 65.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 5
+MAIOR SIMILARIDADE ENCONTRADA: 65.9%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #932 - (EF05LP07) | SIMILARIDADE: 65.9%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP07) Identificar, em textos, o uso de conjunções e a relação que estabelecem entre partes do texto: adição, oposição, tempo, causa, condição, finalidade.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: A habilidade prevê trabalhar com a compreensão das relações que as conjunções estabelecem entre segmentos do texto e analisar o seu uso adequado. É essencial prever a análise da articulação entre trechos de enunciados e avaliar os sentidos produzidos pelas conjunções empregadas e sua adequação no texto. Por meio de atividades de uso da linguagem no texto, deve-se instrumentalizar o estudante para resolver problemas de compreensão que o interlocutor possa vir a ter. 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #162 - (EF01MA22X) | SIMILARIDADE: 65.4%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF01MA22X) Realizar pesquisa, envolvendo até duas variáveis categóricas de seu interesse e universo de até 30 elementos, e organizar dados por meio de representações pessoais com a ajuda do professor,
+   
+   ORIENTAÇÕES PEDAGÓGICAS: As variáveis categóricas ou qualitativas são aquelas que não são expressas numericamente, ou seja a resposta à pergunta  não é um número,  mas um nome como cor dos olhos, preferência por um time de futebol,  preferência por uma marca de automóvel, preferência musical, entre outras. A realização da pesquisa acontece a partir de procedimentos tais como identificar uma questão a ser respondida, desenvolver procedimentos que vão da escolha da população investigada a procedimentos de coleta, organização e publicação dos dados da pesquisa; e, finalmente, responder à questão inicial. Assim, por exemplo, analisar qual é a preferência dos alunos da classe por sorvete de chocolate ou de limão, envolve fazer uma pesquisa, organizar os dados e construir uma representação para finalmente responder à questão, indicando quantos preferem mais um sabor que o outro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #897 - (EF05LP27) | SIMILARIDADE: 65.3%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP27) Utilizar, ao produzir o texto, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível adequado de informatividade.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade refere-se a reconhecer, no processo de leitura, recursos linguísticos e discursivos que constituem os gêneros de modo que seja possível empregá-los adequadamente nos textos a serem produzidos. Trata-se de utilizar, na produção dos textos, os recursos previstos. Para tanto, é necessário estudá-los, o que pode ser feito por meio das leituras colaborativas de estudo de texto. Na revisão coletiva processual e final, analisa-se a adequação do uso dos recursos, de modo a garantir a coerência e legibilidade do texto. Na progressão, pode-se considerar o nível de autonomia do estudante, que se efetiva pela organização de habilidades em que as tarefas sejam realizadas em colaboração e, progressivamente, com autonomia.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #777 - (EF04MA03) | SIMILARIDADE: 65.1%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF04MA03) Resolver e elaborar problemas com números naturais envolvendo adição e subtração, utilizando estratégias diversas, como cálculo, cálculo mental e algoritmos, além de fazer estimativas do resultado.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: A elaboração e a resolução de problemas aparece neste bimestre novamente para que você, professor, crie contextos para que os alunos desenvolvam procedimentos variados de cálculo. Uma proposta interessante seria propor aos alunos resolver e elaborar diferentes tipos de problemas (com números naturais) no contexto de jogos e brincadeiras, envolvendo uma ou mais operações, imagens/gráficos e desafios lógicos, a fim de desenvolver raciocínio dedutivo, princípios lógico-matemáticos e criação de estratégias. 
+   
+   ──────────────────────────────────────────────────
+
+5. CURRÍCULO #910 - (EF05LP23) | SIMILARIDADE: 65.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP23) Comparar informações apresentadas em gráficos ou tabelas.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trata-se de ler e interpretar dados de gráficos e tabelas, compreendendo as diferenças e semelhanças de apresentação correspondentes a cada um. A habilidade supõe a leitura e interpretação dos dados de cada um dos gêneros mencionados, para, depois, realizar a comparação entre ambos. O grau de autonomia esperada no desenvolvimento desta habilidade deve ser articulado com o repertório suposto para o estudante no nível de ensino em foco. É preciso garantir que eles saibam realizar a interpretação dos dados de gráficos, tabelas e outros recursos que compõem, sobretudo, os textos do campo de estudo e pesquisa. É importante orientá-los para ler, por exemplo, o título dos gráficos (pois indicam o que representam os dados), as legendas (pois esclarecem quais são os dados apresentados), os eixos (para verificar qual será a articulação) e comparar as sínteses que as colunas/fatias representam. Feita a leitura de um dos recursos, a ideia é que façam a do segundo e, depois, que realizem a articulação dos dados de cada recurso, sem esquecer que o foco é a compreensão do problema abordado. A leitura colaborativa é uma atividade que potencializa esse trabalho.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #34 - (EF05CO04)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF05CO04) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências, repetições e seleções condicionais para resolver problemas de forma independente e em colaboração.
+
+EXEMPLOS BNCC: Além de construir algoritmos com sequências de instruções, repetidas ou não, muitas vezes é necessário realizar escolhas sobre qual ação executar em seguida, decisões essas que são tomadas a partir de condições definidas por sentenças lógicas; por exemplo, ao chegar a um semáforo, a ação a ser realizada depende da cor apresentada, já que cada situação exige uma resposta diferente.
+
+NOTA DE CORTE USADA: 78.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 78.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #293 - (EF02LP01X) | SIMILARIDADE: 78.3%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF02LP01X) Utilizar, ao produzir o texto, grafia correta de palavras conhecidas ou com estruturas silábicas já dominadas, letras maiúsculas em início de frases e em substantivos próprios.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: A tematização dos conteúdos de análise linguística expressos na habilidade deve acontecer de maneira a contribuir com o desenvolvimento das competências leitora e escritora. Isto significa dizer que os conteúdos gramaticais não podem ser trabalhados de maneira isolada, para a memorização de regras e nomenclaturas. Na reescrita de um conto para compor uma coletânea de versões de uma história, por exemplo, faz sentido compreender e fazer uso de letras maiúsculas, e escrita correta de certas palavras, considerando-se os objetivos de aprendizagem prescritos para o 2º ano.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #35 - (EF05CO05)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF05CO05) Identificar os componentes principais de um computador (dispositivos de entrada/saída, processadores e armazenamento).
+
+EXEMPLOS BNCC: O objetivo é introduzir ao aluno os principais elementos que compõem a arquitetura de um computador, como os dispositivos de entrada e saída, responsáveis pela comunicação com o usuário e o meio externo, os processadores, que executam as instruções e realizam os cálculos necessários, além dos dispositivos de armazenamento temporário, como a memória RAM, e persistente, como o disco rígido, que garantem respectivamente o suporte imediato às operações e a conservação dos dados de forma permanente.
+
+NOTA DE CORTE USADA: 69.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 69.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 69.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital. Pode-se, ainda, pensar em critérios como o suporte em jogo, os recursos e as ferramentas de edição a serem utilizados, o grau de autonomia do estudante na realização da tarefa etc que envolvam o uso de ferramentas digitais.O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #36 - (EF05CO06)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF05CO06) Reconhecer que os dados podem ser armazenados em um dispositivo local ou remoto.
+
+EXEMPLOS BNCC: Os dispositivos físicos de um computador são controlados por um software chamado Sistema Operacional, cuja função é gerenciar os recursos da máquina, como definir qual programa pode utilizar o processador em determinado momento, além de organizar e controlar o uso dos dispositivos físicos, garantindo que todo o funcionamento do computador ocorra de forma eficiente e coordenada.
+
+NOTA DE CORTE USADA: 63.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 63.6%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 63.6%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital. Pode-se, ainda, pensar em critérios como o suporte em jogo, os recursos e as ferramentas de edição a serem utilizados, o grau de autonomia do estudante na realização da tarefa etc que envolvam o uso de ferramentas digitais.O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #37 - (EF05CO07)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF05CO07) Reconhecer a necessidade de um sistema operacional para a execução de programas e gerenciamento do hardware.
+
+EXEMPLOS BNCC: Os dados de um usuário podem ser armazenados em dispositivos acoplados ao computador, como discos rígidos ou SSDs, em dispositivos removíveis, como pen drives e HDs externos, ou ainda transmitidos e guardados em outros computadores conectados à Internet, por meio do armazenamento em nuvem; compreender essa necessidade de armazenamento é fundamental para entender o conceito de sistemas de arquivos, que organizam e permitem o acesso eficiente a essas informações.
+
+NOTA DE CORTE USADA: 64.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 4
+MAIOR SIMILARIDADE ENCONTRADA: 64.8%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 64.8%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital. Pode-se, ainda, pensar em critérios como o suporte em jogo, os recursos e as ferramentas de edição a serem utilizados, o grau de autonomia do estudante na realização da tarefa etc que envolvam o uso de ferramentas digitais.O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 64.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 64.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 64.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #38 - (EF05CO08)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF05CO08) Acessar as informações na Internet de forma crítica para distinguir os conteúdos confiáveis de não confiáveis.
+
+EXEMPLOS BNCC: Nesta habilidade, é fundamental que os alunos desenvolvam a capacidade de refletir e realizar buscas na Internet de forma crítica, sendo capazes de identificar conteúdos prejudiciais, distinguir informações confiáveis e reconhecer notícias falsas, garantindo assim um uso mais consciente e seguro dos recursos digitais.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 70.4%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 70.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 70.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 70.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #39 - (EF05CO09)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF05CO09) Usar informações considerando aplicações e limites dos direitos autorais em diferentes mídias digitais.
+
+EXEMPLOS BNCC: O objetivo desta habilidade é que o aluno aprenda a utilizar informações e dados disponíveis na Internet respeitando os direitos autorais, como os de músicas, filmes e livros, e compreenda os cuidados necessários ao compartilhar ou usar esse conteúdo para fins pessoais.
+
+NOTA DE CORTE USADA: 66.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 66.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 66.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 66.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 66.1%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #40 - (EF05CO10)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF05CO10) Expressar-se crítica e criativamente na compreensão das mudanças tecnológicas no mundo do trabalho e sobre a evolução da sociedade.
+
+EXEMPLOS BNCC: Espera-se que o aluno seja capaz de se expressar de forma crítica e criativa, utilizando dispositivos computacionais ou outros meios, demonstrando compreensão das transformações que as tecnologias promovem no cotidiano, incluindo seu impacto no mundo do trabalho.
+
+NOTA DE CORTE USADA: 66.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 66.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 66.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 66.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 66.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #41 - (EF05CO011)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF05CO011) Identificar a adequação de diferentes tecnologias computacionais na resolução de problemas.
+
+EXEMPLOS BNCC: Nesta habilidade, propõe-se que os alunos compreendam as diferentes necessidades de uso das tecnologias computacionais, percebendo, por exemplo, por que utilizamos um computador para criar uma história em quadrinhos e um celular para realizar uma ligação telefônica.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 70.5%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 70.5%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #900 - (EF05LP17) | SIMILARIDADE: 70.5%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #901 - (EF05LP17) | SIMILARIDADE: 70.5%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP17) Produzir roteiro para edição de uma reportagem digital sobre temas de interesse da turma, a partir de buscas de informações, imagens, áudios e vídeos na internet, de acordo com as convenções do gênero e considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta habilidade prevê a produção de textos para reportagem digital, o que envolve organizar as ideias e utilizar as informações coletadas por pesquisa para depois escrevê-las. É possível prever a abordagem de temáticas relevantes socialmente e do interesse do estudante, como eventos esportivos, espaços de lazer disponíveis para crianças na região. Ações a serem realizadas visando o desenvolvimento sustentável da cidade, o papel da tecnologia digital no município, a disponibilidade de equipamentos públicos e seu uso pelos cidadãos, a condição do transporte público local, entre outras. A habilidade pode se desdobrar no estudo do gênero e da situação comunicativa em que a produção irá circular, na análise de ambientes digitais como: sites, blogs e páginas de jornais on-line para repertoriar a produção e roteiro.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #42 - (EF15CO01)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF15CO01) Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).
+
+EXEMPLOS BNCC: Objetos de um mesmo conjunto podem ser organizados e agrupados de maneiras diferentes, destacando características específicas, e uma organização adequada facilita a localização de um objeto específico dentro desse conjunto.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 70.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #100 - (EF01LP03) | SIMILARIDADE: 70.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF01LP03) Observar escritas convencionais, comparando-as às suas produções escritas, percebendo semelhanças e diferenças.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: É preciso consolidar a habilidade envolvendo a análise de unidades menores que a palavra, considerando que os alunos terão melhores condições de realizá-la após a compreensão da base alfabética. Para que essa análise seja possível, é preciso criar condições para a realização de comparação entre escritas: um procedimento a ser aprendido para potencializar a reflexão sobre o sistema de escrita. 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #124 - (EF01LP03) | SIMILARIDADE: 70.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF01LP03) Observar escritas convencionais, comparando-as às suas produções escritas, percebendo semelhanças e diferenças.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: É preciso consolidar a habilidade envolvendo a análise de unidades menores que a palavra, considerando que os alunos terão melhores condições de realizá-la após a compreensão da base alfabética. Para que essa análise seja possível, é preciso criar condições para a realização de comparação entre escritas: um procedimento a ser aprendido para potencializar a reflexão sobre o sistema de escrita. 
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #711 - (EF04LP03) | SIMILARIDADE: 70.0%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF04LP03) Localizar palavras no dicionário para esclarecer significados, reconhecendo o significado mais plausível para o contexto que deu origem à consulta.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Localizar palavras em um dicionário associada a práticas de leitura e produção de textos. Seu desenvolvimento demanda o convívio cotidiano com dicionários e atividades de análise, estudo e uso desse instrumento. É fundamental garantir o domínio desta habilidade. Aspectos a serem considerados na progressão do trabalho: familiarização com o gênero verbete (impresso e/ou digital), reconhecendo suas partes e o tipo de informações que apresentam, e com o portador e sua organização interna: ordem alfabética progressiva (letra inicial; inicial e 2ª letra etc.); forma de apresentação das palavras (verbos no infinitivo, substantivos e adjetivos no masculino singular etc.); apresentação das várias acepções possíveis da palavra. Esses aspectos podem constituir a progressão vertical e horizontal do trabalho associados ao nível de autonomia do estudante.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #43 - (EF15CO02)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF15CO02) Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.
+
+EXEMPLOS BNCC: O objetivo é que os alunos sejam capazes de identificar os passos envolvidos na execução de uma tarefa e seguir corretamente uma sequência de etapas para realizá-la, desenvolvendo habilidades de resolução de problemas. Ao explicar para alguém como realizar uma tarefa ou resolver um problema, está-se criando um algoritmo, que pode ser formado a partir de passos desordenados, nos quais o aluno deve identificar a sequência correta de execução, ou pode ser construído do zero, definindo tanto os passos quanto sua ordem; esses algoritmos podem ser descritos usando linguagem textual, oral ou pictográfica.
+
+NOTA DE CORTE USADA: 74.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 74.7%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #572 - (EF03MA08) | SIMILARIDADE: 74.7%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF03MA08) Resolver e elaborar problemas de divisão de um número natural por outro (até 10), com resto zero e com resto diferente de zero, com os significados de repartição equitativa e de medida, por meio de estratégias e registros pessoais. (DIVISÃO EXATA)
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Professor, continue explorando esta habilidade neste bimestre convidando os alunos a representar suas resoluções usando diferentes recursos (papel quadriculado, desenhos, materiais diversos, registros numéricos, entre outros). É indicado que os alunos possam comunicar e justificar seus procedimentos de resolução de problemas, bem como organizar registros escritos das conclusões sobre as soluções dos problemas propostos. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #44 - (EF15CO03)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF15CO03) Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'.
+
+EXEMPLOS BNCC: Sentenças lógicas são declarações que expressam a constatação de um fato pelo emissor e podem ser afirmativas ou negativas, possuindo como valores possíveis "verdadeiro" ou "falso"; comparações de tamanho, peso ou cor de objetos, por exemplo, resultam em um valor lógico, e esse valor pode ser alterado por meio da operação de negação, indicada por termos como NÃO ou NÃO É VERDADE QUE.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 70.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #966 - (EF05MA04) | SIMILARIDADE: 70.2%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF05MA04) Identificar frações equivalentes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: É importante considerar, professor, que o desenvolvimento desta habilidade se relaciona diretamente com as aprendizagens referentes à habilidade (EF05MA03) e a ideia de equivalência é uma das mais importantes a serem aprendidas até o 5º ano de escolaridade, pois ela permite que os alunos comparem números racionais na forma fracionária com denominadores diferentes e também que realizem as operações de adição e subtração de frações com denominadores diferentes. Um aspecto a ser considerado é a utilização, pelos alunos, das expressões 'equivalente a', 'maior que', 'menor que', ' o mesmo valor' como linguagem a ser adquirida ao longo da exploração dos conceitos envolvidos na habilidade. Problemas com materiais manipulativos, tais como tiras de frações, tangram, entre outros, são adequados para criar contextos de aprendizagem da habilidade. Problemas do seguinte tipo: "Julia e Andreza estão completando um álbum com 240 figurinhas. Júlia já colou metade das figurinhas de seu álbum e Andreza colou dois quartos do total de figurinhas do álbum. Quantas figurinhas cada menina já colou?" são boas situações para colocar em discussão a ideia de frações equivalentes. A representação de frações equivalentes na reta numérica auxilia na observação de que escritas fracionárias diferentes representam quantidades iguais, quando se referem ao mesmo todo, e por isso, são representadas pelo mesmo ponto na reta numérica. Merece atenção que os alunos sejam estimulados sempre a representar as ideias aprendidas de formas diferentes (por escrito, numericamente, com desenhos), justificar suas resoluções e, ainda, escrever as aprendizagens feitas.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #45 - (EF15CO04)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF15CO04) Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.
+
+EXEMPLOS BNCC: A decomposição é uma técnica de resolução de problemas que consiste em dividir um problema em subproblemas, resolvendo cada um de forma independente e combinando suas soluções para chegar à solução do problema original; suas vantagens incluem permitir melhor organização e visualização do problema e da solução, facilitar o trabalho em grupo e possibilitar a reutilização das soluções dos subproblemas em outros contextos.
+
+NOTA DE CORTE USADA: 76.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 76.6%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #166 - (EF01MA08) | SIMILARIDADE: 76.6%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF01MA08) Resolver e elaborar coletivamente problemas de adição e de subtração, envolvendo números de até dois algarismos, com os significados de juntar, acrescentar, separar e retirar, com o suporte de imagens e/ou material manipulável, utilizando estratégias e formas de registro pessoais.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Neste bimestre, professor, além de levar o aluno á apropriação da habilidade de resolver problemas, ele terá que estabelecer estratégias para resolver problemas diversos. Assim,  é interessante destacar  situações do dia a dia como oportunidades para a resolução e formulação de problemas. No entanto, é importante lembrar que  os alunos devem ter contato com uma variedade de problemas em diversos contextos. As crianças primeiro pensam ou agem mentalmente para obterem a solução (ou as soluções) de um problema, e tornam-se capazes de representá-la primeiro com suas próprias palavras e com símbolos pessoais (materiais, corpo, desenho). Logo, torna-se relevante o destaque para incentivar diferentes processos de resolução, bem como analisar coletivamente e discutir a respeito das soluções encontradas. Fazer registros diversos também deve ser incentivado como parte do processo de construção da linguagem matemática, da ampliação do raciocínio e da capacidade de argumentação dos alunos. A elaboração de problemas pode ser feita coletivamente ou em pequenos grupos. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #46 - (EF15CO05)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF15CO05) Codificar a informação de diferentes formas, entendendo a importância desta codificação para o armazenamento, manipulação e transmissão em dispositivos computacionais.
+
+EXEMPLOS BNCC: Para que um computador armazene, transmita ou manipule informações, é necessário processá-las e representá-las como conjuntos de dados (símbolos), sendo importante compreender a diferença entre informação e dado; a computação utiliza diversas técnicas para organizar os dados de forma estruturada de acordo com o tipo de informação, como textos representados por sequências de números decimais correspondentes a caracteres (por exemplo, usando a tabela ASCII) e imagens representadas por sequências de números que definem a cor de cada elemento de uma grade uniforme (pixels).
+
+NOTA DE CORTE USADA: 75.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 4
+MAIOR SIMILARIDADE ENCONTRADA: 75.7%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 75.7%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital. Pode-se, ainda, pensar em critérios como o suporte em jogo, os recursos e as ferramentas de edição a serem utilizados, o grau de autonomia do estudante na realização da tarefa etc que envolvam o uso de ferramentas digitais.O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #920 - (EF05LP24) | SIMILARIDADE: 75.5%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP24) Planejar e produzir texto sobre tema de interesse, organizando resultados de pesquisa em fontes de informação impressas ou digitais, incluindo imagens e gráficos ou tabelas, considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta é uma habilidade que articula a produção textual com o tema de interesse do aluno ao organizar resultados de pesquisa e dois vetores do processo de produção escrita (situação/tema ou assunto).  Há oportunidade de trabalho com as habilidades (EF05MA24) e (EF05MA25) da Matemática, no que se refere à interpretação de gráficos e tabelas em textos. É possível definir o gênero a ser estudado (verbete de curiosidade, texto expositivo).
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #921 - (EF05LP24) | SIMILARIDADE: 75.5%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP24) Planejar e produzir texto sobre tema de interesse, organizando resultados de pesquisa em fontes de informação impressas ou digitais, incluindo imagens e gráficos ou tabelas, considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta é uma habilidade que articula a produção textual com o tema de interesse do aluno ao organizar resultados de pesquisa e dois vetores do processo de produção escrita (situação/tema ou assunto).  Há oportunidade de trabalho com as habilidades (EF05MA24) e (EF05MA25) da Matemática, no que se refere à interpretação de gráficos e tabelas em textos. É possível definir o gênero a ser estudado (verbete de curiosidade, texto expositivo).
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #922 - (EF05LP24) | SIMILARIDADE: 75.5%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF05LP24) Planejar e produzir texto sobre tema de interesse, organizando resultados de pesquisa em fontes de informação impressas ou digitais, incluindo imagens e gráficos ou tabelas, considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Esta é uma habilidade que articula a produção textual com o tema de interesse do aluno ao organizar resultados de pesquisa e dois vetores do processo de produção escrita (situação/tema ou assunto).  Há oportunidade de trabalho com as habilidades (EF05MA24) e (EF05MA25) da Matemática, no que se refere à interpretação de gráficos e tabelas em textos. É possível definir o gênero a ser estudado (verbete de curiosidade, texto expositivo).
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #47 - (EF15CO06)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF15CO06) Conhecer os componentes básicos de dispositivos computacionais, entendendo os princípios de seu funcionamento.
+
+EXEMPLOS BNCC: Para compreender o funcionamento dos computadores, é importante entender que uma máquina oferece um conjunto de instruções (operações) que, quando executadas em uma determinada sequência (algoritmo), produzem um resultado específico.
+
+NOTA DE CORTE USADA: 71.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 71.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #688 - (EF15LP07) | SIMILARIDADE: 71.0%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #48 - (EF15CO07)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF15CO07) Conhecer o conceito de Sistema Operacional e sua importância na integração entre software e hardware.
+
+EXEMPLOS BNCC: O objetivo da habilidade é mostrar aos alunos que, em seu cotidiano, existem dispositivos físicos—como celulares, computadores, calculadoras e máquinas de costura—que são controlados por sistemas ou pessoas que seguem uma sequência de passos lógicos, como um aplicativo no celular, uma pessoa operando a calculadora ou uma costureira utilizando a máquina.
+
+NOTA DE CORTE USADA: 65.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 65.9%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #688 - (EF15LP07) | SIMILARIDADE: 65.9%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 65.0%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF15LP07) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. Editar, nesse caso, consiste em dar os toques finais à versão final de um texto produzido no que diz respeito à sua estruturação e também nos elementos que o rodeiam, seja em suporte manual ou digital. Pode-se, ainda, pensar em critérios como o suporte em jogo, os recursos e as ferramentas de edição a serem utilizados, o grau de autonomia do estudante na realização da tarefa etc que envolvam o uso de ferramentas digitais.O foco da habilidade incide sobre os cuidados com a circulação/publicação do texto em suportes impressos ou digitais. 
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #49 - (EF15CO08)
+================================================================================
+
+EIXO BNCC: nan
+
+OBJETIVO BNCC: (EF15CO08) Reconhecer e utilizar tecnologias computacionais para pesquisar e acessar informações, expressar-se crítica e criativamente e resolver problemas.
+
+EXEMPLOS BNCC: A proposta dessa habilidade é que o aluno observe e analise as diferentes características das tecnologias de informação e comunicação, compreendendo seu funcionamento, os principais aspectos de cada uma e reconhecendo os diversos usos que elas têm no cotidiano das pessoas, tanto dentro quanto fora da escola.
+
+NOTA DE CORTE USADA: 67.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 67.7%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #266 - (EF02LP24) | SIMILARIDADE: 67.7%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF02LP24) Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, relatos de experimentos, registros de observação, entrevistas, dentre outros gêneros do campo investigativo, que possam ser repassados oralmente por meio de ferramentas digitais, em áudio ou vídeo, considerando a situação comunicativa e o tema/assunto/ finalidade do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Podem ser propostos procedimentos de estudo e pesquisa sobre temas relacionados a serem tratados de modo interdisciplinar, como: destacar informações relevantes; realizar leitura na busca de materiais; etc. É possível, por exemplo, preparar um relato oral de um passeio de estudo pelos arredores da escola, organizando previamente um esquema orientador, e selecionando recursos a serem empregados na apresentação (esquemas, imagens, gráficos). Da mesma forma, é possível escrever um relato e lê-lo em voz alta na gravação de um vídeo, selecionando recursos da mídia utilizada (som, imagem, movimento etc.). 
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #999 - (EF12LP10P2) | SIMILARIDADE: 67.4%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF12LP10P2) Ler e compreender, em colaboração com os colegas e com a ajuda do professor, regras e regulamentos que organizam a vida na comunidade escolar, dentre outros gêneros do campo da atuação cidadã, considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: A leitura proficiente dos textos sugeridos requer, além da mobilização das estratégias de leitura, a compreensão de suas características, na relação com a função do gênero e com a finalidade do texto, nas situações comunicativas em que circulam. A leitura colaborativa, trabalhada na habilidade (EF12LP02), é atividade fundamental para a realização desse trabalho. A progressão da aprendizagem pode se estabelecer com base nas estratégias (trabalho coletivo, grupos, duplas) e nos procedimentos a serem adotados, assim como na complexidade dos gêneros e dos textos previstos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #472 - (EF35LP15) | SIMILARIDADE: 67.2%
+   
+   DISCIPLINA: LÍNGUA PORTUGUESA
+   
+   HABILIDADE: (EF35LP15) Opinar e defender ponto de vista sobre tema polêmico relacionado a situações vivenciadas na escola e/ou na comunidade, utilizando registro formal e estrutura adequada à argumentação, considerando a situação comunicativa e o tema/assunto do texto.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Opinar e defender, em parceria com os colegas e com a mediação do professor, ponto de vista sobre tema polêmico relacionado a situações vivenciadas na escola e/ou na comunidade, utilizando gradativamente registro formal e estrutura adequada à argumentação, considerando a situação comunicativa e o tema/assunto do texto, a fim de manter a consistência argumentativa.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #50 - (EF15CO09)
+================================================================================
+
+EIXO BNCC: nan
+
+OBJETIVO BNCC: (EF15CO09) Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes.
+
+EXEMPLOS BNCC: Nesta habilidade temos a perspectiva de trazer um panorama sobre os cuidados com a segurança ao usar dispositivos como celular, tablets, computadores dentre outros (roubo de dados em dispositivos físicos, rastro de dados online quando da utilização de jogos por exemplo etc.). Temos também a perspectiva da responsabilidade ao usar as tecnologias, principalmente quanto aos direitos e deveres como cuidado com propriedade intelectual dentre outros.
+
+NOTA DE CORTE USADA: 69.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 69.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #20 - (EF01CI03) | SIMILARIDADE: 69.1%
+   
+   DISCIPLINA: CIÊNCIAS
+   
+   HABILIDADE: (EF01CI03) Discutir as razões pelas quais os hábitos de higiene do corpo (lavar as mãos antes de comer, escovar os dentes, limpar os olhos, o nariz e as orelhas etc.) são necessários para a manutenção da saúde. 
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Discutir está relacionado a estabelecer conexões entre os hábitos de cuidados individuais e a prevenção de doenças e manutenção da qualidade de vida. Isso envolve explorar o reconhecimento dos hábitos cotidianos do aluno, identificando em quais deles a higiene está relacionada como ação preventiva ou como manutenção da qualidade de vida, de maneira que compreendam que alguns hábitos proporcionam o contágio ou a proliferação de doenças. Ainda, é importante relacionar atitudes de prevenção a atividades do cotidiano, como andar descalço, ter contato com corpos d'água contaminados e comer alimentos não higienizados. Essa compreensão aprofunda o tema nos aspectos relacionados ao saneamento básico, como, por exemplo, nas questões relacionadas à potabilidade da água para o consumo. É importante destacar, também, o desenvolvimento relativo à identificação dos hábitos de higiene que estão associados aos comportamentos individuais que têm reflexo na saúde coletiva, uma vez que favorecem a disseminação de doenças no ambiente em que vivemos. Por fim, é válido ainda, professor, estimular a prática diária dos hábitos de autocuidado, por meio do estabelecimento de atitudes e comportamentos favoráveis à preservação da saúde.
+   
+   ──────────────────────────────────────────────────

@@ -1,0 +1,317 @@
+
+==================================================================================
+                            RESUMO EXECUTIVO
+==================================================================================
+Data: 2025-09-04 14:20:06
+Nota de corte inicial: 80.0%
+Busca adaptativa: ATIVADA
+Modelo: all-MiniLM-L6-v2
+
+PRINCIPAIS DESCOBERTAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 1 de 50 habilidades da BNCC (2.0%) têm correspondência com nota de corte original ≥ 80.0%
+
+• 50 de 50 habilidades da BNCC (100.0%) têm correspondência usando busca adaptativa
+
+• Total de 1 conexões identificadas acima da nota de corte original
+
+• Nota de corte média usada: 69.4%
+• Nota de corte mínima usada: 58.0%
+
+HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ 1. (EF03CO05) - 6 correspondências (máx: 69.9%)
+    MUNDO DIGITAL
+    Nota de corte usada: 69.0% (adaptativa)
+ 2. (EF05CO03) - 5 correspondências (máx: 65.9%)
+    PENSAMENTO COMPUTACIONAL
+    Nota de corte usada: 65.0% (adaptativa)
+ 3. (EF02CO05) - 4 correspondências (máx: 65.7%)
+    CULTURA DIGITAL
+    Nota de corte usada: 65.0% (adaptativa)
+ 4. (EF02CO06) - 4 correspondências (máx: 65.8%)
+    CULTURA DIGITAL
+    Nota de corte usada: 65.0% (adaptativa)
+ 5. (EF05CO07) - 4 correspondências (máx: 64.8%)
+    MUNDO DIGITAL
+    Nota de corte usada: 64.0% (adaptativa)
+ 6. (EF15CO05) - 4 correspondências (máx: 75.7%)
+    MUNDO DIGITAL
+    Nota de corte usada: 75.0% (adaptativa)
+ 7. (EF01CO07) - 3 correspondências (máx: 68.4%)
+    CULTURA DIGITAL
+    Nota de corte usada: 68.0% (adaptativa)
+ 8. (EF03CO02) - 3 correspondências (máx: 73.9%)
+    PENSAMENTO COMPUTACIONAL
+    Nota de corte usada: 73.0% (adaptativa)
+ 9. (EF03CO04) - 3 correspondências (máx: 67.0%)
+    MUNDO DIGITAL
+    Nota de corte usada: 67.0% (adaptativa)
+10. (EF03CO07) - 3 correspondências (máx: 70.6%)
+    CULTURA DIGITAL
+    Nota de corte usada: 70.0% (adaptativa)
+11. (EF03CO09) - 3 correspondências (máx: 73.2%)
+    CULTURA DIGITAL
+    Nota de corte usada: 73.0% (adaptativa)
+12. (EF04CO06) - 3 correspondências (máx: 68.1%)
+    CULTURA DIGITAL
+    Nota de corte usada: 68.0% (adaptativa)
+13. (EF04CO08) - 3 correspondências (máx: 67.2%)
+    CULTURA DIGITAL
+    Nota de corte usada: 67.0% (adaptativa)
+14. (EF05CO08) - 3 correspondências (máx: 70.4%)
+    CULTURA DIGITAL
+    Nota de corte usada: 70.0% (adaptativa)
+15. (EF05CO09) - 3 correspondências (máx: 66.1%)
+    CULTURA DIGITAL
+    Nota de corte usada: 66.0% (adaptativa)
+
+HABILIDADES QUE PRECISARAM DE BUSCA ADAPTATIVA:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• (EF01CO01) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 66.0%
+  Máx. similaridade: 66.1%
+  (EF01CO01) Organizar objetos físicos ou digitais considerando diferentes características para esta o...
+
+• (EF01CO02) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 68.0%
+  Máx. similaridade: 68.5%
+  (EF01CO02) Identificar e seguir sequências de passos aplicados no dia a dia para resolver problemas.
+
+• (EF01CO03) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 75.0%
+  Máx. similaridade: 75.6%
+  (EF01CO03) Reorganizar e criar sequências de passos em meios físicos ou digitais, relacionando essas...
+
+• (EF01CO04) - MUNDO DIGITAL
+  Nota de corte usada: 74.0%
+  Máx. similaridade: 74.3%
+  (EF01CO04) Reconhecer o que é a informação, que ela pode ser armazenada, transmitida como mensagem p...
+
+• (EF01CO05) - MUNDO DIGITAL
+  Nota de corte usada: 69.0%
+  Máx. similaridade: 69.8%
+  (EF01CO05) Representar informação usando diferentes codificações.
+
+• (EF01CO06) - CULTURA DIGITAL
+  Nota de corte usada: 61.0%
+  Máx. similaridade: 61.6%
+  (EF01CO06) Reconhecer e explorar artefatos computacionais voltados a atender necessidades pessoais o...
+
+• (EF01CO07) - CULTURA DIGITAL
+  Nota de corte usada: 68.0%
+  Máx. similaridade: 68.4%
+  (EF01CO07) Conhecer as possibilidades de uso seguro das tecnologias computacionais para proteção dos...
+
+• (EF02CO01) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 64.0%
+  Máx. similaridade: 64.3%
+  (EF02CO01) Criar e comparar modelos (representações) de objetos, identificando padrões e atributos e...
+
+• (EF02CO03) - MUNDO DIGITAL
+  Nota de corte usada: 64.0%
+  Máx. similaridade: 64.4%
+  (EF02CO03) Identificar que máquinas diferentes executam conjuntos próprios de instruções e que podem...
+
+• (EF02CO04) - MUNDO DIGITAL
+  Nota de corte usada: 61.0%
+  Máx. similaridade: 61.5%
+  (EF02CO04) Diferenciar componentes físicos (hardware) e programas que fornecem as instruções (softwa...
+
+• (EF02CO05) - CULTURA DIGITAL
+  Nota de corte usada: 65.0%
+  Máx. similaridade: 65.7%
+  (EF02CO05) Reconhecer as características e usos das tecnologias computacionais no cotidiano dentro e...
+
+• (EF02CO06) - CULTURA DIGITAL
+  Nota de corte usada: 65.0%
+  Máx. similaridade: 65.8%
+  (EF02CO06) Reconhecer os cuidados com a segurança no uso de dispositivos computacionais.
+
+• (EF03CO01) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 74.0%
+  Máx. similaridade: 74.4%
+  (EF03CO01) Associar os valores 'verdadeiro' e 'falso' a sentenças lógicas que dizem respeito a situa...
+
+• (EF03CO02) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 73.0%
+  Máx. similaridade: 73.9%
+  (EF03CO02) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que ...
+
+• (EF03CO03) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 78.0%
+  Máx. similaridade: 78.3%
+  (EF03CO03) Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse pr...
+
+• (EF03CO04) - MUNDO DIGITAL
+  Nota de corte usada: 67.0%
+  Máx. similaridade: 67.0%
+  (EF03CO04) Relacionar o conceito de informação com o de dado.
+
+• (EF03CO05) - MUNDO DIGITAL
+  Nota de corte usada: 69.0%
+  Máx. similaridade: 69.9%
+  (EF03CO05) Compreender que dados são estruturados em formatos específicos dependendo da informação a...
+
+• (EF03CO06) - MUNDO DIGITAL
+  Nota de corte usada: 65.0%
+  Máx. similaridade: 65.7%
+  (EF03CO06) Reconhecer que, para um computador realizar tarefas, ele se comunica com o mundo exterior...
+
+• (EF03CO07) - CULTURA DIGITAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.6%
+  (EF03CO07) Utilizar diferentes navegadores e ferramentas de busca para pesquisar e acessar informaçõ...
+
+• (EF03CO08) - CULTURA DIGITAL
+  Nota de corte usada: 68.0%
+  Máx. similaridade: 68.3%
+  (EF03CO08) Usar ferramentas computacionais em situações didáticas para se expressar em diferentes fo...
+
+• (EF03CO09) - CULTURA DIGITAL
+  Nota de corte usada: 73.0%
+  Máx. similaridade: 73.2%
+  (EF03CO09) Reconhecer o potencial impacto do compartilhamento de informações pessoais ou de seus par...
+
+• (EF04CO01) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 77.0%
+  Máx. similaridade: 77.2%
+  (EF04CO01) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de matr...
+
+• (EF04CO02) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 76.0%
+  Máx. similaridade: 76.5%
+  (EF04CO02) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de regi...
+
+• (EF04CO03) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 76.0%
+  Máx. similaridade: 76.0%
+  (EF04CO03) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que ...
+
+• (EF04CO04) - MUNDO DIGITAL
+  Nota de corte usada: 69.0%
+  Máx. similaridade: 69.0%
+  (EF04CO04) Entender que para guardar, manipular e transmitir dados deve-se codificá-los de alguma fo...
+
+• (EF04CO05) - MUNDO DIGITAL
+  Nota de corte usada: 67.0%
+  Máx. similaridade: 67.1%
+  (EF04CO05) Codificar diferentes informações para representação em computador (binária, ASCII, atribu...
+
+• (EF04CO06) - CULTURA DIGITAL
+  Nota de corte usada: 68.0%
+  Máx. similaridade: 68.1%
+  (EF04CO06) Usar diferentes ferramentas computacionais para criação de conteúdo (textos, apresentaçõe...
+
+• (EF04CO07) - CULTURA DIGITAL
+  Nota de corte usada: 58.0%
+  Máx. similaridade: 58.1%
+  (EF04CO07) Demonstrar postura ética nas atividades de coleta, transferência, guarda e uso de dados.
+
+• (EF04CO08) - CULTURA DIGITAL
+  Nota de corte usada: 67.0%
+  Máx. similaridade: 67.2%
+  (EF04CO08) Reconhecer a importância de verificar a confiabilidade das fontes de informações obtidas ...
+
+• (EF05CO01) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 76.0%
+  Máx. similaridade: 76.1%
+  (EF05CO01) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de list...
+
+• (EF05CO02) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 71.0%
+  Máx. similaridade: 71.1%
+  (EF05CO02) Reconhecer objetos do mundo real e digital que podem ser representados através de grafos ...
+
+• (EF05CO03) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 65.0%
+  Máx. similaridade: 65.9%
+  (EF05CO03) Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'v...
+
+• (EF05CO04) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 78.0%
+  Máx. similaridade: 78.3%
+  (EF05CO04) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que ...
+
+• (EF05CO05) - MUNDO DIGITAL
+  Nota de corte usada: 69.0%
+  Máx. similaridade: 69.2%
+  (EF05CO05) Identificar os componentes principais de um computador (dispositivos de entrada/saída, pr...
+
+• (EF05CO06) - MUNDO DIGITAL
+  Nota de corte usada: 63.0%
+  Máx. similaridade: 63.6%
+  (EF05CO06) Reconhecer que os dados podem ser armazenados em um dispositivo local ou remoto.
+
+• (EF05CO07) - MUNDO DIGITAL
+  Nota de corte usada: 64.0%
+  Máx. similaridade: 64.8%
+  (EF05CO07) Reconhecer a necessidade de um sistema operacional para a execução de programas e gerenci...
+
+• (EF05CO08) - CULTURA DIGITAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.4%
+  (EF05CO08) Acessar as informações na Internet de forma crítica para distinguir os conteúdos confiáve...
+
+• (EF05CO09) - CULTURA DIGITAL
+  Nota de corte usada: 66.0%
+  Máx. similaridade: 66.1%
+  (EF05CO09) Usar informações considerando aplicações e limites dos direitos autorais em diferentes mí...
+
+• (EF05CO10) - CULTURA DIGITAL
+  Nota de corte usada: 66.0%
+  Máx. similaridade: 66.2%
+  (EF05CO10) Expressar-se crítica e criativamente na compreensão das mudanças tecnológicas no mundo do...
+
+• (EF05CO011) - CULTURA DIGITAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.5%
+  (EF05CO011) Identificar a adequação de diferentes tecnologias computacionais na resolução de problem...
+
+• (EF15CO01) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.2%
+  (EF15CO01) Identificar as principais formas de organizar e representar a informação de maneira estru...
+
+• (EF15CO02) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 74.0%
+  Máx. similaridade: 74.7%
+  (EF15CO02) Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam pro...
+
+• (EF15CO03) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.2%
+  (EF15CO03) Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'v...
+
+• (EF15CO04) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 76.0%
+  Máx. similaridade: 76.6%
+  (EF15CO04) Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse pr...
+
+• (EF15CO05) - MUNDO DIGITAL
+  Nota de corte usada: 75.0%
+  Máx. similaridade: 75.7%
+  (EF15CO05) Codificar a informação de diferentes formas, entendendo a importância desta codificação p...
+
+• (EF15CO06) - MUNDO DIGITAL
+  Nota de corte usada: 71.0%
+  Máx. similaridade: 71.0%
+  (EF15CO06) Conhecer os componentes básicos de dispositivos computacionais, entendendo os princípios ...
+
+• (EF15CO07) - MUNDO DIGITAL
+  Nota de corte usada: 65.0%
+  Máx. similaridade: 65.9%
+  (EF15CO07) Conhecer o conceito de Sistema Operacional e sua importância na integração entre software...
+
+• (EF15CO08) - nan
+  Nota de corte usada: 67.0%
+  Máx. similaridade: 67.7%
+  (EF15CO08) Reconhecer e utilizar tecnologias computacionais para pesquisar e acessar informações, ex...
+
+• (EF15CO09) - nan
+  Nota de corte usada: 69.0%
+  Máx. similaridade: 69.1%
+  (EF15CO09) Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, ...
