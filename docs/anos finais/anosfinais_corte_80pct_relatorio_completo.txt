@@ -1,0 +1,2327 @@
+
+==================================================================================
+                    RELATÓRIO DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL
+==================================================================================
+Data do relatório: 2025-09-04 15:01:39
+Nota de corte inicial: 80.0% de similaridade
+Modelo utilizado: all-MiniLM-L6-v2
+Busca adaptativa: ATIVADA (garante pelo menos 1 correspondência por habilidade)
+
+ESTATÍSTICAS GERAIS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Total de habilidades BNCC analisadas: 54
+• Habilidades BNCC com similaridade ≥ 80.0% (nota original): 2 (3.7%)
+• Habilidades BNCC com correspondência (busca adaptativa): 54 (100.0%)
+• Total de matches acima da nota de corte original: 6
+• Nota de corte média usada: 68.6%
+• Nota de corte mínima usada: 54.0%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RELATÓRIO DETALHADO POR HABILIDADE BNCC:
+
+
+================================================================================
+HABILIDADE BNCC #1 - (EF69CO01)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.
+
+EXEMPLOS BNCC: As informações são armazenadas de diferentes maneiras, dependendo do tipo de dado que ela representa. Basicamente existem três tipos primitivos de dados: inteiros, real e string.
+
+NOTA DE CORTE USADA: 69.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 69.9%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1221 - (EF69LP32) | SIMILARIDADE: 69.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP32) Selecionar informações e dados relevantes de fontes diversas (impressas, digitais, orais etc.), avaliando a qualidade e a utilidade dessas fontes, e organizar, esquematicamente, com ajuda do professor, as informações necessárias (sem excedê-las) com ou sem apoio de ferramentas digitais, em quadros, tabelas ou gráficos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar texto informativo, retirando dele suas principais informações para, a partir de então, solicitar ao aluno que as organize em forma de gráficos e infográficos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1328 - (EF69LP32) | SIMILARIDADE: 69.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP32) Selecionar informações e dados relevantes de fontes diversas (impressas, digitais, orais etc.), avaliando a qualidade e a utilidade dessas fontes, e organizar, esquematicamente, com ajuda do professor, as informações necessárias (sem excedê-las) com ou sem apoio de ferramentas digitais, em quadros, tabelas ou gráficos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos aos alunos para que sejam identificadas e organizadas em gráficos e tabelas as informações principais. Fazer a leitura e interpretação de infográficos e gráficos referentes a determinado assunto e pedir aos alunos que reescrevam essas informações em um texto exclusivamente verbal.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #2 - (EF69CO02)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO02) Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação.
+
+EXEMPLOS BNCC: Existem diferentes linguagens de programação que podem ser usadas para descrever algoritmos em diferentes níveis de abstração, como linguagens visuais, orientadas a objetos, funcionais, entre outras. Uma ou mais linguagens podem ser escolhidas para serem adotadas.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 70.6%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #98 - (EF07LI06) | SIMILARIDADE: 70.6%
+   
+   DISCIPLINA: INGLÊS
+   
+   HABILIDADE: (EF07LI06) Antecipar o sentido global de textos em língua inglesa por inferências, com base em leitura rápida, observando títulos, primeiras e últimas frases de parágrafos e palavras-chave repetidas.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Selecionar textos com linguagem mista (verbal e não verbal), cujas temáticas estejam articuladas com a ideia da língua inglesa. Oferecer textos autênticos, envolvendo o contato com gêneros escritos multimodais que circulem nos diversos campos e esferas sociais.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1549 - (EF69LP42B) | SIMILARIDADE: 70.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP42B) Reconhecer traços da linguagem dos textos de divulgação científica, fazendo uso consciente das estratégias de impessoalização da linguagem (ou de pessoalização, se o tipo de publicação e objetivos assim o demandarem, como em alguns podcasts e vídeos de divulgação científica), 3ª pessoa, presente atemporal, recurso à citação, uso de vocabulário técnico/especializado etc., como forma de ampliar suas capacidades de compreensão e produção de textos nesses gêneros.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Realizar um trabalho de análise da linguagem utilizada nos textos de divulgação científica, percebendo marcas de impessoalidade, uso de forma verbal que não especifica o tempo, uso de termos técnicos e científicos, citação de ideias e conceitos de outros autores (como forma de enriquecer e dar credibilidade ao texto). Essa análise possibilitará aos alunos uma maior compreensão dos textos científicos e embasará suas próprias produções.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #3 - (EF69CO03)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.
+
+EXEMPLOS BNCC: É importante que se consiga expressar a solução do problema (algoritmo) em português, compreendendo que o programa é apenas uma descrição deste algoritmo em uma linguagem de programação. O aluno precisa entender que o mais importante é a construção do algoritmo. Notem que a ideia aqui não é apenas descrever as linhas de código em português, mas sim descrever em um alto nível de abstração como o problema é resolvido.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 5
+MAIOR SIMILARIDADE ENCONTRADA: 70.7%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1540 - (EF89LP29AX) | SIMILARIDADE: 70.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais e coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #342 - (EF89LP29AX) | SIMILARIDADE: 70.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #343 - (EF89LP29AX) | SIMILARIDADE: 70.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #1287 - (EF89LP29AX) | SIMILARIDADE: 70.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+5. CURRÍCULO #1444 - (EF89LP29AX) | SIMILARIDADE: 70.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #4 - (EF69CO04)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO04) Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluções usando uma linguagem de programação.
+
+EXEMPLOS BNCC: Decomposição é uma das principais técnicas de resolução de problemas, onde um problema é dividido em subproblemas, os quais são resolvidos independentemente, e cujas soluções são combinadas para construir a solução do problema original. Algumas vantagens da decomposição são: permitir uma melhor organização e visualização do problema e da solução; facilitar o trabalho em grupo; permitir que possamos reutilizar as soluções dos subproblemas em outros problemas.
+
+NOTA DE CORTE USADA: 71.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 71.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #893 - (EF67EF05P2) | SIMILARIDADE: 71.2%
+   
+   DISCIPLINA: EDUCAÇÃO FÍSICA
+   
+   HABILIDADE: (EF67EF05P2) Planejar e utilizar estratégias para solucionar os desafios técnicos e táticos, tanto nos esportes de invasão e técnico- combinatórios como nas modalidades esportivas escolhidas para praticar de forma específica.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar a vivência do esporte de maneira prazerosa nas atividades de Educação Física. Estimular a prática e a compreensão do esporte como opção de lazer dentro e fora do ambiente escolar. Refletir e criar estratégias pedagógicas para contribuir e consolidar a aprendizagem a partir de apresentações de vídeos, de diálogos e de relatos das experiências dos alunos. Esportes de Rede: voleibol.  Utilizar jogo pré-desportivo para o desenvolvimento da modalidade.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #5 - (EF69CO05)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO05) Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados, e estabelecendo a definição de problema como uma relação entre entrada e saída.
+
+EXEMPLOS BNCC: Definir problemas é uma habilidade muito importante, pois é o primeiro passo da solução. A definição de um problema se dá identificando quais são os tipos de entradas necessárias (insumos/ informações) e qual o tipo da saída. Como a solução (algoritmo) deve ser genérica, se define um problema em termos dos tipos das entradas e saída. O objetivo aqui NÃO é propor soluções de problemas, e sim definir o que é necessário para resolvê-los e qual será o resultado esperado.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 70.5%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1504 - (EF89LP16) | SIMILARIDADE: 70.5%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP16) Analisar a modalização realizada em textos noticiosos e argumentativos, por meio das modalidades apreciativas, viabilizadas por classes e estruturas gramaticais como adjetivos, locuções adjetivas, advérbios, locuções adverbiais, orações adjetivas e adverbiais, orações relativas restritivas e explicativas etc., de maneira a perceber a apreciação ideológica sobre os fatos noticiados ou as posições implícitas ou assumidas.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Analisar o modo como algumas classes gramaticais são utilizadas para modalizar o discurso nos textos argumentativos. Os modalizadores indicam as intenções discursivas e são, portanto, os elementos que indicam os argumentos de quem produz o texto. Observar como o autor do texto utiliza esses modalizadores para dar ênfase ao ponto de vista que quer defender.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #57 - (EF06MA03X) | SIMILARIDADE: 70.4%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF06MA03X) Resolver e elaborar situações- problemas que envolvam cálculos (mentais ou escritos, exatos ou aproximados) com números naturais, e/ou expressões numéricas, por meio de estratégias variadas, com compreensão dos processos neles envolvidos com ou sem uso de calculadora para conferência.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Utilizar atividades enigmáticas, jogos e atividades desafiadoras que envolvam diferentes estratégias para resolução dos problemas. Estimular o aluno a elaborar um problema e propor para o colega resolver. Incentivar os alunos com situações-problema simples na forma oral e/ou de imagens a realizar cálculos mentais aproximados.  Exemplos: (a + a = 16),  (a + b = 15),  (a x b = ?).
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #6 - (EF69CO06)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO06) Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando as semelhanças e diferenças entre eles, e criar um algoritmo para resolver todos, fazendo uso de variáveis (parâmetros) para permitir o tratamento de todos os casos de forma genérica.
+
+EXEMPLOS BNCC: Idealmente, um algoritmo é uma solução genérica: ele resolve várias instâncias de um problema. Por exemplo, um algoritmo que calcula a média aritmética de 2 números resolve este problema para qualquer par de números (que são as instâncias do problema). Para descrever um algoritmo de forma genérica, é necessário dar nomes às entradas do algoritmo. Esses nomes são chamados de variáveis ou parâmetros do algoritmo.
+
+NOTA DE CORTE USADA: 69.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 69.6%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #57 - (EF06MA03X) | SIMILARIDADE: 69.6%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF06MA03X) Resolver e elaborar situações- problemas que envolvam cálculos (mentais ou escritos, exatos ou aproximados) com números naturais, e/ou expressões numéricas, por meio de estratégias variadas, com compreensão dos processos neles envolvidos com ou sem uso de calculadora para conferência.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Utilizar atividades enigmáticas, jogos e atividades desafiadoras que envolvam diferentes estratégias para resolução dos problemas. Estimular o aluno a elaborar um problema e propor para o colega resolver. Incentivar os alunos com situações-problema simples na forma oral e/ou de imagens a realizar cálculos mentais aproximados.  Exemplos: (a + a = 16),  (a + b = 15),  (a x b = ?).
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #7 - (EF69CO07)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.
+
+EXEMPLOS BNCC: O processo de transmissão de dados envolve em dividir a informação em pedaços para que ela seja mais facilmente enviada através da rede de comunicação. Esses pedaços são transmitidos através de caminhos compostos por diferentes equipamentos. Finalmente, a informação é remontada no destino. Ao ser dividida, problemas que ocorram na transmissão em alguns pedaços da informação podem ser solucionados pelo reenvio de pedaços faltantes, corrompidos, ou fora de ordem.
+
+NOTA DE CORTE USADA: 71.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 6
+MAIOR SIMILARIDADE ENCONTRADA: 72.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1555 - (EF69LP35BX) | SIMILARIDADE: 72.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP35BX) Produzir, revisar e editar textos voltados para a divulgação do conhecimento e de dados e resultados de pesquisas, tendo em vista seus contextos de produção, que podem envolver a disponibilização de informações e conhecimentos em circulação em um formato mais acessível para um público específico ou a divulgação de conhecimentos advindos de pesquisas bibliográficas, experimentos científicos e estudos de campo realizados.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Após conhecer o gênero texto de divulgação científica, solicitar a produção, ressaltando a importância de respeitar suas especificidades. Planejar a pesquisa de um tema científico com coleta de dados relevantes. Fazer uma síntese das informações coletadas. Produzir um texto a partir da síntese elaborada. Revisar o texto produzido e fazer as correções necessárias. Sugestão: Fazer uma produção a partir da reescrita de um texto científico.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1251 - (EF69LP39BX) | SIMILARIDADE: 71.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP39BX) Selecionar e organizar as informações passadas pelo entrevistado (tomar nota e/ou gravar) para usá-las de acordo com os objetivos estabelecidos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar o tema para que o aluno possa definir o entrevistado, elaborar um roteiro e realizar a entrevista. Após a entrevista, o aluno deverá organizar as informações e apresentá-las.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1405 - (EF69LP39BX) | SIMILARIDADE: 71.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP39BX) Selecionar e organizar as informações passadas pelo entrevistado (tomar nota e/ou gravar) para usá-las de acordo com os objetivos estabelecidos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar o tema para que o aluno possa definir o entrevistado, elaborar um roteiro e realizar a entrevista. Após a entrevista, o aluno deverá organizar as informações e apresentá-las.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 71.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+5. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 71.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+6. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 71.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #8 - (EF69CO08)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF69CO08) Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados.
+
+EXEMPLOS BNCC: O gerenciamento de dados é frequentemente realizado através do conceito de arquivo. Neste contexto, os arquivos são criados considerando alguma lógica interna e armazenados em memória secundária. Posteriormente, esses arquivos podem ser recarregados a fim de seus dados serem utilizados ou mesmo editados. Finalmente, os arquivos podem ser compactados para diminuir o espaço ocupado na memória secundária.
+
+NOTA DE CORTE USADA: 66.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 66.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #146 - (EF67LP36) | SIMILARIDADE: 66.3%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF67LP36) Utilizar, ao produzir texto, recursos de coesão referencial (léxica e pronominal) e sequencial e outros recursos expressivos adequados ao gênero textual.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade de suas ideias, sequência lógica e compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #147 - (EF67LP36) | SIMILARIDADE: 66.3%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF67LP36) Utilizar, ao produzir texto, recursos de coesão referencial (léxica e pronominal) e sequencial e outros recursos expressivos adequados ao gênero textual.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade de suas ideias, sequência lógica e compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #9 - (EF69CO09)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF69CO09) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.
+
+EXEMPLOS BNCC: Nesta habilidade é importante que os alunos possam vivenciar, discutir e refletir sobre o comportamento ao se comunicar em ambiente digital, principalmente na internet mas não limitada a ela(por exemplo também em aplicativos de conversa).
+
+NOTA DE CORTE USADA: 77.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 77.9%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 77.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 77.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 77.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #10 - (EF69CO10)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF69CO10) Entender como é a estrutura e funcionamento da internet.
+
+EXEMPLOS BNCC: Importante nesta habilidade considerar a reflexão sobre as perspectivas do ser humano e o consumo de tecnologia, como quando compramos novos celulares em substituição a aparelhos mais antigos, ou uma televisão, dentre outros, ou seja, nossos hábitos. Quantos recursos são necessários para se produzir uma tecnologia?
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 70.7%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 70.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 70.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 70.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #11 - (EF07CO01)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF07CO01) Criar soluções de problemas para os quais seja adequado o uso de registros e matrizes unidimensionais para descrever suas informações e automatizá-las usando uma linguagem de programação.
+
+EXEMPLOS BNCC: Para automatizar a solução de um problema através da construção de um programa de computador, normalmente é necessário definir as estruturas de dados que serão usadas para representar a informação relacionada ao problema, e depois descrever o algoritmo usando as construções disponíveis na linguagem de programação escolhida. Uma das estruturas mais usadas é o registro, que permite descrever objetos identificando atributos destes objetos, permitindo assim que se trabalhe em um nível de abstração maior: ao invés de receber vários dados de um aluno separados, um programa pode receber o 'registro' de um aluno ( que seria um dado que engloba as várias informações sobre um aluno) Matrizes unidimensionais (ou vetores) podem ser
+usados quando temos situações nas quais queremos
+representar que um determinado objeto é composto
+por vários elementos similares, por exemplo, uma turma
+pode ter vários alunos; um tabuleiro de xadrez pode ter
+várias peças, um armário possui várias gavetas etc. A
+ideia é que cada elemento em uma matriz/vetor ocupa
+uma posição. Matrizes podem ter uma ou mais
+dimensões.
+
+NOTA DE CORTE USADA: 68.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 68.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1251 - (EF69LP39BX) | SIMILARIDADE: 68.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP39BX) Selecionar e organizar as informações passadas pelo entrevistado (tomar nota e/ou gravar) para usá-las de acordo com os objetivos estabelecidos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar o tema para que o aluno possa definir o entrevistado, elaborar um roteiro e realizar a entrevista. Após a entrevista, o aluno deverá organizar as informações e apresentá-las.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1405 - (EF69LP39BX) | SIMILARIDADE: 68.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP39BX) Selecionar e organizar as informações passadas pelo entrevistado (tomar nota e/ou gravar) para usá-las de acordo com os objetivos estabelecidos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar o tema para que o aluno possa definir o entrevistado, elaborar um roteiro e realizar a entrevista. Após a entrevista, o aluno deverá organizar as informações e apresentá-las.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #12 - (EF07CO02)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF07CO02) Analisar programas para detectar e remover erros, ampliando a confiança na sua correção.
+
+EXEMPLOS BNCC: Deve-se estimular a análise crítica do programa construído. Uma das formas é através da depuração, que consiste em uma análise detalhada do código e realização de testes para identificar erros. Depuração é uma das formas de desenvolver a habilidade do pensamento crítico.
+
+NOTA DE CORTE USADA: 61.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 4
+MAIOR SIMILARIDADE ENCONTRADA: 61.9%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1273 - (EF69LP01C) | SIMILARIDADE: 61.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP01C) Vislumbrar possibilidades de denúncia quando for o caso de discurso de ódio.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar a leitura, a análise e a interpretação de textos polêmicos, levando os alunos a uma reflexão que permita a eles discernir o que vem a ser liberdade de expressão e discurso de ódio. Trabalhar textos referentes ao mesmo tema com opiniões e abordagens diferentes, destacando que cada um tem o direito de expor a sua opinião, e que essa deve ser respeitada.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1368 - (EF69LP01C) | SIMILARIDADE: 61.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP01C) Vislumbrar possibilidades de denúncia quando for o caso de discurso de ódio.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar a leitura, a análise e a interpretação de textos polêmicos, levando os alunos a uma reflexão que permita a eles discernir o que vem a ser liberdade de expressão e discurso de ódio. Trabalhar textos referentes ao mesmo tema com opiniões e abordagens diferentes, destacando que cada um tem o direito de expor a sua opinião, e que essa deve ser respeitada.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1430 - (EF69LP01C) | SIMILARIDADE: 61.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP01C) Vislumbrar possibilidades de denúncia quando for o caso de discurso de ódio.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar a leitura, a análise e a interpretação de textos polêmicos, levando os alunos a uma reflexão que permita a eles discernir o que vem a ser liberdade de expressão e discurso de ódio. Trabalhar textos referentes ao mesmo tema com opiniões e abordagens diferentes, destacando que cada um tem o direito de expor a sua opinião, e que essa deve ser respeitada.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #1482 - (EF69LP01C) | SIMILARIDADE: 61.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP01C) Vislumbrar possibilidades de denúncia quando for o caso de discurso de ódio.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar a leitura, a análise e a interpretação de textos polêmicos, levando os alunos a uma reflexão que permita a eles discernir o que vem a ser liberdade de expressão e discurso de ódio. Trabalhar textos referentes ao mesmo tema com opiniões e abordagens diferentes, destacando que cada um tem o direito de expor a sua opinião, e que essa deve ser respeitada.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #13 - (EF07CO03)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF07CO03) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.
+
+EXEMPLOS BNCC: Uma estrutura de dados em ciência da computação, é uma coleção tanto de valores (e seus relacionamentos) quanto de operações (sobre os valores e estruturas decorrentes). É uma implementação concreta de um tipo abstrato de dado ou um tipo de dado básico ou primitivo.
+
+NOTA DE CORTE USADA: 65.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 65.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #818 - (EF06CI18ME) | SIMILARIDADE: 65.3%
+   
+   DISCIPLINA: CIÊNCIAS
+   
+   HABILIDADE: (EF06CI18ME) Identificar os tipos de tecidos como parte integrante na organização dos seres vivos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar os tipos de tecidos usando recursos visuais e se possível manipulativo, para facilitar a compreensão da habilidade.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #14 - (EF07CO04)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF07CO04) Explorar propriedades básicas de grafos.
+
+EXEMPLOS BNCC: Grafos possuem muitas propriedades que podem ser úteis para a descoberta de conhecimento. Por exemplo, comunidades virtuais são caracterizadas por uma propriedade que se chama clique de um grafo. Algumas propriedades de grafos são: coloração, cliques, graus de vértices, diâmetro, pontes.
+
+NOTA DE CORTE USADA: 66.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 66.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #75 - (EF06MA31X) | SIMILARIDADE: 66.1%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF06MA31X) Ler, interpretar e identificar em tabelas e em diferentes tipos de gráficos, as variáveis e suas frequências e os elementos constitutivos (título, eixos, legendas, fontes e datas).
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Realizar atividades diversas com diferentes tipos de tabelas e gráficos para que os alunos possam visualizar, compreender e identificar seus elementos, suas variáveis e categorias. Após uma maior compreensão e familiarização por parte dos alunos, apresentar situações contendo dados para que eles construam tabelas e gráficos relacionados, demonstrando dessa forma, sua compreensão e aprendizagem.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #15 - (EF07CO05)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF07CO05) Criar algoritmos fazendo uso da decomposição e do reúso no processo de solução de forma colaborativa e cooperativa e automatizá-los usando uma linguagem de programação.
+
+EXEMPLOS BNCC: A decomposição facilita o trabalho cooperativo, pois auxilia na identificação clara de cada subtarefa (subproblema), que pode ser realizada por diferentes equipes, bem como da forma como os resultados das tarefas devem ser combinados. A identificação precisa das interfaces das tarefas (entradas e saídas) é essencial para viabilizar a combinação das soluções dessas tarefas, bem como o reúso das mesmas.
+
+NOTA DE CORTE USADA: 69.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 69.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1540 - (EF89LP29AX) | SIMILARIDADE: 69.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais e coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #16 - (EF07CO06)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF07CO06) Compreender o papel de protocolos para a transmissão de dados.
+
+EXEMPLOS BNCC: A transmissão de dados precisa ser realizada considerando um conjunto de regras para sua execução correta. Esse conjunto de regras é chamado de protocolo e permite que a transmissão de dados seja realizada de forma consistente por diferentes equipamentos.
+
+NOTA DE CORTE USADA: 60.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 60.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1251 - (EF69LP39BX) | SIMILARIDADE: 60.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP39BX) Selecionar e organizar as informações passadas pelo entrevistado (tomar nota e/ou gravar) para usá-las de acordo com os objetivos estabelecidos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar o tema para que o aluno possa definir o entrevistado, elaborar um roteiro e realizar a entrevista. Após a entrevista, o aluno deverá organizar as informações e apresentá-las.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1405 - (EF69LP39BX) | SIMILARIDADE: 60.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP39BX) Selecionar e organizar as informações passadas pelo entrevistado (tomar nota e/ou gravar) para usá-las de acordo com os objetivos estabelecidos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar o tema para que o aluno possa definir o entrevistado, elaborar um roteiro e realizar a entrevista. Após a entrevista, o aluno deverá organizar as informações e apresentá-las.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #17 - (EF07CO07)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF07CO07) Identificar problemas de segurança cibernética e experimentar formas de proteção.
+
+EXEMPLOS BNCC: A utilização de sistemas e redes de computadores precisa respeitar algumas propriedades fundamentos da segurança da informação, como confidencialidade, integridade e disponibilidade. No entanto, essas propriedades podem ser ameaçadas por eventos maliciosos ou não-maliciosos. A fim de diminuir a ocorrência desses eventos, mecanismos de proteção podem ser empregados
+
+NOTA DE CORTE USADA: 60.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 60.5%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 60.5%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 60.5%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 60.5%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #18 - (EF07CO08)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF07CO08) Demonstrar empatia sobre opiniões divergentes na web.
+
+EXEMPLOS BNCC: Nesta habilidade considera-se a discussão e reflexão de colocar-se em posição do outro e respeito em relação as opiniões divergentes na internet, como opiniões de estilos de música, de filmes, de roupas, dentre outros. Espera-se que o aluno possa ser capaz de reconhecer a importância de respeitar as opiniões diferentes da sua.
+
+NOTA DE CORTE USADA: 73.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 73.9%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 73.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 73.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 73.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #19 - (EF07CO09)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF07CO09) Reconhecer e debater sobre cyberbullying.
+
+EXEMPLOS BNCC: O contexto desta habilidade é a de proporcionar ao aluno a reflexão e discussão sobre cyberbullying, trazendo sua definição. Além disso, espera-se que o aluno reflita sobre a importância de se combater o cyberbullying (essa prática de intimidação, humilhação, exposição, dentre outros em meio digital)
+
+NOTA DE CORTE USADA: 55.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 55.9%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 55.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 55.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 55.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #20 - (EF07CO10)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF07CO10) Identificar os impactos ambientais do descarte de peças de computadores e eletrônicos, bem como sua relação com a sustentabilidade
+
+EXEMPLOS BNCC: Esta habilidade sugere a reflexão e discussão sobre a relação da sustentabilidade e o impacto na produção e descarte de lixo eletrônico. Considera-se importante enfatizar o descarte de material tecnológico e as diferenças para outros tipos de lixo. Como localidade, tipos de reciclagem.
+
+NOTA DE CORTE USADA: 67.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 67.7%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #175 - (EF07CI03A) | SIMILARIDADE: 67.7%
+   
+   DISCIPLINA: CIÊNCIAS
+   
+   HABILIDADE: (EF07CI03A) Utilizar o conhecimento das formas de propagação do calor para justificar a utilização de determinados materiais (condutores e isolantes) na vida cotidiana.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar essas habilidades por meio de recursos visuais e material concreto.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #21 - (EF07CO11)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF07CO11) Criar, documentar e publicar, de forma individual ou colaborativa, produtos (vídeos, podcasts, web sites) usando recursos de tecnologia.
+
+EXEMPLOS BNCC: Nesta habilidade espera-se que o aluno utilize recursos e ferramentas digitais como editores de vídeo, editor de áudio, de blogs, para produzir um vídeo, um áudio, uma página na internet, criando e publicando conteúdo, individualmente e colaborativamente. Nesse sentido, experimentar diferentes recursos e ferramentas, inclusive integrando um recurso de vídeo e um blog por exemplo!
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 70.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 70.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 70.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 70.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #22 - (EF08CO01)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF08CO01) Construir soluções de problemas usando a técnica de recursão e automatizar tais soluções usando uma linguagem de programação.
+
+EXEMPLOS BNCC: O conceito de recursão permite exercitar o pensamento indutivo na resolução de problemas, ou seja, recursão não deve ser entendida como uma questão sintática e sim como uma forma poderosa de resolver problemas. O raciocínio indutivo é muito útil na resolução de problemas, pois permite que se trabalhe em um nível de abstração mais elevado do que usando raciocínio dedutivo, o que em muitas situações facilita encontrar soluções (grande parte dos algoritmos clássicos da Computação são bem mais fáceis de compreender nas suas versões recursivas).
+
+NOTA DE CORTE USADA: 67.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 6
+MAIOR SIMILARIDADE ENCONTRADA: 67.9%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1540 - (EF89LP29AX) | SIMILARIDADE: 67.9%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais e coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #580 - (EF89LP29AX) | SIMILARIDADE: 67.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais e coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade de suas ideias, sua sequência lógica e compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #342 - (EF89LP29AX) | SIMILARIDADE: 67.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #343 - (EF89LP29AX) | SIMILARIDADE: 67.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+5. CURRÍCULO #1287 - (EF89LP29AX) | SIMILARIDADE: 67.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+6. CURRÍCULO #1444 - (EF89LP29AX) | SIMILARIDADE: 67.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #23 - (EF08CO02)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF08CO02) Criar soluções de problemas para os quais seja adequado o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação, empregando ou não a recursão como uma técnica de resolver o problema.
+
+EXEMPLOS BNCC: Fazer projetos e construir soluções usando listas e recursão. É importante salientar a importância da análise crítica de programas recursivos identificando a existência de um caso base (fim) e de chamadas recursivas que fazem o programa convergir (se aproximar do fim) - caso contrário os programas podem não terminar.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 5
+MAIOR SIMILARIDADE ENCONTRADA: 71.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1540 - (EF89LP29AX) | SIMILARIDADE: 71.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais e coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #342 - (EF89LP29AX) | SIMILARIDADE: 70.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #343 - (EF89LP29AX) | SIMILARIDADE: 70.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #1287 - (EF89LP29AX) | SIMILARIDADE: 70.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+5. CURRÍCULO #1444 - (EF89LP29AX) | SIMILARIDADE: 70.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #24 - (EF08CO03)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF08CO03) Utilizar algoritmos clássicos de manipulação sobre listas.
+
+EXEMPLOS BNCC: Compreender algoritmos de manipulação de listas. Para isso, os alunos podem simular os algoritmos ou mesmo implementá-los.
+
+NOTA DE CORTE USADA: 57.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 57.4%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #818 - (EF06CI18ME) | SIMILARIDADE: 57.4%
+   
+   DISCIPLINA: CIÊNCIAS
+   
+   HABILIDADE: (EF06CI18ME) Identificar os tipos de tecidos como parte integrante na organização dos seres vivos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar os tipos de tecidos usando recursos visuais e se possível manipulativo, para facilitar a compreensão da habilidade.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #25 - (EF08CO04)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF08CO04) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.
+
+EXEMPLOS BNCC: Uma estrutura de dados em ciência da computação, é uma coleção tanto de valores (e seus relacionamentos) quanto de operações (sobre os valores e estruturas decorrentes). É uma implementação concreta de um tipo abstrato de dado ou um tipo de dado básico ou primitivo.
+
+NOTA DE CORTE USADA: 65.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 65.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #924 - (EF89EF03P4) | SIMILARIDADE: 65.3%
+   
+   DISCIPLINA: EDUCAÇÃO FÍSICA
+   
+   HABILIDADE: (EF89EF03P4) Formular e utilizar estratégias para solucionar os desafios técnicos e táticos, tanto nos de invasão e combate como nas modalidades esportivas escolhidas para praticar de forma específica.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Criar coletivamente novas regras adequadas às necessidades dos estudantes e à realidade na qual a escola está inserida.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #26 - (EF08CO05)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF08CO05) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.
+
+EXEMPLOS BNCC: O aluno deve compreender que o paralelismo permite a utilização de diferentes recursos para executar partes de uma tarefa que podem ser realizadas simultaneamente. Paralelismo ocorre quando mais de uma tarefa é executada ao mesmo tempo. Normalmente, se usa paralelismo para melhorar o tempo de execução de uma solução, mas também para que o processo possa ser executado por várias pessoas trabalhando concomitantemente. Para construir uma solução usando paralelismo, deve-se identificar quais partes da solução são independentes, podendo ser executadas simultaneamente. Pode-se também replicar a mesma tarefa para otimizar a execução.
+
+NOTA DE CORTE USADA: 73.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 73.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #934 - (EF89EF16) | SIMILARIDADE: 73.1%
+   
+   DISCIPLINA: EDUCAÇÃO FÍSICA
+   
+   HABILIDADE: (EF89EF16) Experimentar e fruir a execução dos movimentos pertencentes às lutas do mundo, adotando procedimentos de segurança e respeitando o oponente.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Diferenciar as variadas formas apresentadas pelas lutas do mundo, considerando suas características filosóficas e os contextos históricos, culturais e sociais.  Compreender a apropriação das lutas pela Indústria Cultural. Oportunizar a realização dos movimentos técnicos básicos: ser atento e vigilante, aceitar as regras, situar-se no espaço limitado, opor-se ao deslocamento do outro, alterar posições, estudar o adversário, realizar ataques-surpresa, usar a força no momento adequado, apropriar-se da intenção do outro, mudar de estratégia, valorizar a derrota e reconhecer a vitória.         Vivenciar a luta como forma de defesa pessoal.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #423 - (EF09HI06) | SIMILARIDADE: 73.1%
+   
+   DISCIPLINA: HISTÓRIA
+   
+   HABILIDADE: (EF09HI06) Identificar e discutir o papel do trabalhismo como força política, social e cultural no Brasil, em diferentes escalas (nacional, regional, cidade, comunidade).
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar com os processos de urbanização e industrialização que aconteceram nos grandes centros e os problemas por eles desencadeados, ampliando as desigualdades; Trabalhar com o movimento operário que desencadeou grandes conquistas trabalhistas; Relacionar a temática com as condições de trabalho hoje, refletindo sobre os direitos que ainda precisam ser alcançados, os que já foram e os que estão ameaçados; Trabalhar os conceitos de trabalhismo como imposição do Estado Novo e compreender o populismo como ideologia da Era Vargas.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #27 - (EF08CO06)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF08CO06) Entender como é a estrutura e funcionamento da internet.
+
+EXEMPLOS BNCC: A internet é uma rede composta por muitas redes, as quais compartilham o protocolo Internet. Essas redes são agrupadas em sistemas autônomos, conjuntos de redes que possuem uma política de operação comum. A definição desses sistemas autônomos é realizada por entidades que operam na organização dos recursos da Internet.
+
+NOTA DE CORTE USADA: 68.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 68.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #970 - (EF06GE14MEX) | SIMILARIDADE: 68.3%
+   
+   DISCIPLINA: GEOGRAFIA
+   
+   HABILIDADE: (EF06GE14MEX) Identificar e discutir o papel das redes virtuais e analisar a exclusão digital, usando a vivência da escola (conflitos gerados pela rede social).
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar e problematizar as vantagens e desvantagens das redes sociais, conscientizando sobre os conflitos, perigos e pontos positivos de se lidar e relacionar com a internet; Relacionar a internet a ferramentas de aprendizagem.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #28 - (EF08CO07)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF08CO07) Compartilhar informações por meio de redes sociais, compreendendo a sua dinâmica de funcionamento, de forma responsável e avaliando sua confiabilidade, considerando o respeito e a ética.
+
+EXEMPLOS BNCC: A perspectiva desta habilidade é que o aluno tenha a vivência das redes sociais, identifique seu funcionamento como regras, cadastro, dentre outros aspectos operacionais. Além disso, espera-se que o aluno possa refletir sobre o uso responsável das redes sociais, discutindo ética e respeito ao interagir com o outro em meio digital
+
+NOTA DE CORTE USADA: 80.0% (original)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 80.5%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 80.5%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 80.5%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 80.5%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #29 - (EF08CO08)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF08CO08) Distinguir os tipos de dados pessoais que são solicitados em espaços digitais e os riscos associados.
+
+EXEMPLOS BNCC: Nesta habilidade importante que o aluno identifique os tipos de dados pessoais (nome, endereço, documento de identidade) que são exigidos em diferentes espaços como jogos online, redes sociais, bem como refletir sobre os riscos de de compartilhar esses dados em espaços digitais como a internet.
+
+NOTA DE CORTE USADA: 71.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 71.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 71.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 71.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 71.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #30 - (EF08CO09)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF08CO09) Analisar criticamente as políticas de termos de uso das redes sociais e demais plataformas.
+
+EXEMPLOS BNCC: Espera-se que o aluno possa discutir e analisar os termos e políticas de uso das redes sociais e demais plataformas, refletindo sobre suas implicações, como por exemplo em nossos dados pessoais que ficam armazenados.
+
+NOTA DE CORTE USADA: 74.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 74.6%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 74.6%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 74.6%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 74.6%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #31 - (EF08CO10)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF08CO10) Discutir questões sobre segurança e privacidade relacionadas ao uso dos ambientes virtuais.
+
+EXEMPLOS BNCC: Destaca-se nessa habilidade a reflexão sobre aspectos de segurança e privacidade que são importantes quando utilizamos ambientes virtuais, como jogos online, compras online, interação em salas de conversa online, interação em redes sociais. assim, destaca-se o compartilhamento de informações, acesso a sites da internet que não são seguros e desconhecidos, dentre outros.
+
+NOTA DE CORTE USADA: 73.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 73.7%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 73.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 73.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 73.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #32 - (EF08CO11)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF08CO11) Avaliar a precisão, relevância, adequação, abrangência e vieses que ocorrem em fontes de informação eletrônica
+
+EXEMPLOS BNCC: A perspectiva desta habilidade é que o aluno tenha a vivência e faça análise crítica de fontes de informações, como em jornais, blogs, canais de comunicação como YouTube, verificando suas características e como a informação é veiculada.
+
+NOTA DE CORTE USADA: 76.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 76.1%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 76.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 76.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 76.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #33 - (EF09CO01)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF09CO01) Criar soluções de problemas para os quais seja adequado o uso de árvores e grafos para descrever suas informações e automatizá-las usando uma linguagem de programação.
+
+EXEMPLOS BNCC: Grafos e árvores podem ser usados para representar uma gama enorme de informações. Para que possamos construir programas de computador, essas estruturas precisam ser formalizadas e descritas em linguagens de programação. Grafos são estruturas que permitem representar objetos e relacionamentos entre esses objetos (como redes sociais, mapas de cidades, a internet etc.). Uma árvore é um grafo com elementos organizados hierarquicamente. Exemplos de árvores são árvores genealógicas, organogramas, mapas mentais, chaveamento de times etc.
+
+NOTA DE CORTE USADA: 73.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 74.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1160 - (EF67LP25) | SIMILARIDADE: 74.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF67LP25) Reconhecer e utilizar os critérios de organização tópica (do geral para o específico, do específico para o geral etc.), as marcas linguísticas dessa organização (marcadores de ordenação e enumeração, de explicação, definição e exemplificação, por exemplo) e os mecanismos de paráfrase, de maneira a organizar mais adequadamente a coesão e a progressão temática de seus textos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Mostrar que existe uma estrutura textual específica de cada gênero, como também marcas linguísticas que contribuem para uma melhor organização e coesão textual.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #34 - (EF09CO02)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF09CO02) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.
+
+EXEMPLOS BNCC: Uma estrutura de dados em ciência da computação, é uma coleção tanto de valores (e seus relacionamentos) quanto de operações (sobre os valores e estruturas decorrentes). É uma implementação concreta de um tipo abstrato de dado ou um tipo de dado básico ou primitivo.
+
+NOTA DE CORTE USADA: 65.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 65.5%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #818 - (EF06CI18ME) | SIMILARIDADE: 65.5%
+   
+   DISCIPLINA: CIÊNCIAS
+   
+   HABILIDADE: (EF06CI18ME) Identificar os tipos de tecidos como parte integrante na organização dos seres vivos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar os tipos de tecidos usando recursos visuais e se possível manipulativo, para facilitar a compreensão da habilidade.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #35 - (EF09CO03)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF09CO03) Usar autômatos para descrever comportamentos de forma abstrata automatizando-os através de uma linguagem de programação baseada em eventos.
+
+EXEMPLOS BNCC: Linguagens baseadas em eventos permitem descrever sistemas que são orientados pela ocorrência de eventos (como cliques de mouse, pressionamento de alguma tecla, sinal de algum sensor). Este tipo de linguagem tem muitas aplicações como por exemplo, o projeto de interfaces ou aplicações de robótica. Para se desenvolver um programa orientado a eventos, é muito útil construir como primeiro passo uma especificação abstrata do sistema usando autômatos (ou sistemas de transição), que são modelos que representam os estados do sistema e as transições possíveis dependendo dos eventos que ocorrerem.
+
+NOTA DE CORTE USADA: 54.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 4
+MAIOR SIMILARIDADE ENCONTRADA: 55.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #98 - (EF07LI06) | SIMILARIDADE: 55.0%
+   
+   DISCIPLINA: INGLÊS
+   
+   HABILIDADE: (EF07LI06) Antecipar o sentido global de textos em língua inglesa por inferências, com base em leitura rápida, observando títulos, primeiras e últimas frases de parágrafos e palavras-chave repetidas.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Selecionar textos com linguagem mista (verbal e não verbal), cujas temáticas estejam articuladas com a ideia da língua inglesa. Oferecer textos autênticos, envolvendo o contato com gêneros escritos multimodais que circulem nos diversos campos e esferas sociais.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1548 - (EF69LP42AX) | SIMILARIDADE: 54.8%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP42AX) Analisar a construção composicional dos textos pertencentes a gêneros relacionados à divulgação de conhecimentos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Realizar um trabalho de análise da linguagem utilizada nos textos de divulgação científica, percebendo marcas de impessoalidade, uso de forma verbal que não especifica o tempo, uso de termos técnicos e científicos, citação de ideias e conceitos de outros autores (como forma de enriquecer e dar credibilidade ao texto). Essa análise possibilitará aos alunos uma maior compreensão dos textos científicos e embasará suas próprias produções.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1205 - (EF67LP10A) | SIMILARIDADE: 54.8%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF67LP10A) Produzir notícia impressa tendo em vista características do gênero – título ou manchete com verbo no tempo presente, linha fina (opcional), lide, progressão dada pela ordem decrescente de importância dos fatos, uso de 3ª pessoa, de palavras que indicam precisão –, e o estabelecimento adequado de coesão.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Realizar o planejamento da notícia, apresentando aos alunos um roteiro que demonstre a sequência dos fatos (o que, onde, quando e por que), destacando o uso de uma linguagem objetiva. Em um segundo momento, realizar a produção coletiva de uma notícia, de acordo com o planejamento anterior, respeitando o roteiro apresentado. Após a produção coletiva, solicitar aos alunos que realizem a produção individual de uma notícia sobre um fato ocorrido, obedecendo às suas características.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #1204 - (EF67LP09X) | SIMILARIDADE: 54.4%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF67LP09X) Planejar o assunto da notícia impressa apresentando a sequência dos fatos com marcas de tempo e de espaço numa linguagem mais objetiva, com relatos em 3ª pessoa.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Realizar o planejamento da notícia, apresentando aos alunos um roteiro que demonstre a sequência dos fatos (o que, onde, quando e por que), destacando o uso de uma linguagem objetiva. Em um segundo momento, realizar a produção coletiva de uma notícia, de acordo com o planejamento anterior, respeitando o roteiro apresentado. Após a produção coletiva, solicitar aos alunos que realizem a produção individual de uma notícia sobre um fato ocorrido, obedecendo às suas características.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #36 - (EF09CO04)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF09CO04) Compreender o funcionamento de malwares e outros ataques cibernéticos.
+
+EXEMPLOS BNCC: Software malicioso, ou malware, são programas nocivos que obtêm acesso ilegal a dispositivos digitais. Eles podem acessar um computador ou dispositivo por meio de anexos de e-mail, pendrives ou sites desprotegidos. O malware pode invadir um computador e causar estragos. Esses programas podem desacelerar um dispositivo, enviar e-mails de spam ou até mesmo roubar ou excluir dados pessoais. O malware é classificado com base em como entra no computador e no que faz quando está lá. Alguns exemplos de malware são: vírus, worms, rootkits, spyware, trojans, backdoors, ransomware, entre outros.
+
+NOTA DE CORTE USADA: 56.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 4
+MAIOR SIMILARIDADE ENCONTRADA: 56.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #589 - (EF89LP37) | SIMILARIDADE: 56.3%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP37) Analisar, em diferentes gêneros textuais, os efeitos de sentido do uso de figuras de linguagem como ironia, eufemismo, antítese, aliteração, assonância, dentre outras.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Através do trabalho com os gêneros literários, apresentar as figuras de linguagem. Enfatizar que elas são recursos utilizados para provocar diferentes efeitos de sentido. Analisar, em textos, quais figuras foram usadas, com qual intenção e qual efeito de sentido cada uma produziu. Questionar os alunos sobre a validade do uso das figuras de linguagem para enriquecer o texto, destacando sua importância como elemento que  diferencia os textos literários dos textos não literários.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #590 - (EF89LP37) | SIMILARIDADE: 56.3%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP37) Analisar, em diferentes gêneros textuais, os efeitos de sentido do uso de figuras de linguagem como ironia, eufemismo, antítese, aliteração, assonância, dentre outras.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Através do trabalho com os gêneros literários, apresentar as figuras de linguagem. Enfatizar que elas são recursos utilizados para provocar diferentes efeitos de sentido. Analisar, em textos, quais figuras foram usadas, com qual intenção e qual efeito de sentido cada uma produziu. Questionar os alunos sobre a validade do uso das figuras de linguagem para enriquecer o texto, destacando sua importância como elemento que  diferencia os textos literários dos textos não literários.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #591 - (EF89LP37) | SIMILARIDADE: 56.3%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP37) Analisar, em diferentes gêneros textuais, os efeitos de sentido do uso de figuras de linguagem como ironia, eufemismo, antítese, aliteração, assonância, dentre outras.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Através do trabalho com os gêneros literários, apresentar as figuras de linguagem. Enfatizar que elas são recursos utilizados para provocar diferentes efeitos de sentido. Analisar, em textos, quais figuras foram usadas, com qual intenção e qual efeito de sentido cada uma produziu. Questionar os alunos sobre a validade do uso das figuras de linguagem para enriquecer o texto, destacando sua importância como elemento que  diferencia os textos literários dos textos não literários.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #592 - (EF89LP37) | SIMILARIDADE: 56.3%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP37) Analisar, em diferentes gêneros textuais, os efeitos de sentido do uso de figuras de linguagem como ironia, eufemismo, antítese, aliteração, assonância, dentre outras.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Através do trabalho com os gêneros literários, apresentar as figuras de linguagem. Enfatizar que elas são recursos utilizados para provocar diferentes efeitos de sentido. Analisar, em textos, quais figuras foram usadas, com qual intenção e qual efeito de sentido cada uma produziu. Questionar os alunos sobre a validade do uso das figuras de linguagem para enriquecer o texto, destacando sua importância como elemento que  diferencia os textos literários dos textos não literários.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #37 - (EF09CO05)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF09CO05) Analisar técnicas de criptografia para armazenamento e transmissão de dados.
+
+EXEMPLOS BNCC: A criptografia é o processo de pegar uma mensagem e torná-la ilegível para todos, exceto para a pessoa a quem se destina. Historicamente, a razão mais popular para criptografar informações era permitir a comunicação entre líderes militares, espiões ou chefes de estado. Mais recentemente, com o advento da internet e das compras online, a criptografia está se tornando cada vez mais importante. Por exemplo, é usado para manter o dinheiro dos clientes seguro durante as transações.
+
+NOTA DE CORTE USADA: 67.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 67.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1214 - (EF69LP09) | SIMILARIDADE: 67.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP09) Planejar uma campanha publicitária sobre questões/problemas, temas, causas significativas para a escola e/ou comunidade, a partir de um levantamento de material sobre o tema ou evento, da definição do público-alvo, do texto ou peça a ser produzido – cartaz, banner , folheto, panfleto, anúncio impresso e para internet, spot , propaganda de rádio, TV etc. –, da ferramenta de edição de texto, áudio ou vídeo que será utilizada, do recorte e enfoque a ser dado, das estratégias de persuasão que serão utilizadas etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Solicitar aos alunos que realizem uma pesquisa sobre os principais problemas existentes na comunidade. Socializar o resultado da pesquisa com os colegas. Propor a votação dos principais problemas detectados. A partir dessa escolha, dividir a sala em grupos para que cada grupo produza uma campanha social com o objetivo de mobilizar a comunidade para a solução do problema.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #38 - (EF09CO06)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF09CO06) Analisar problemas sociais de sua cidade e estado a partir de ambientes digitais, propondo soluções.
+
+EXEMPLOS BNCC: Espera-se que o aluno utilize recursos digitais para analisar problemas sociais de seu cotidiano, como por exemplo em pesquisa, comparação de informação, documentação da pesquisa, seja em sua cidade ou estado, propondo soluções a esses problemas.
+
+NOTA DE CORTE USADA: 65.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 65.7%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 65.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 65.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 65.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #39 - (EF09CO07)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF09CO07) Avaliar aplicações e implicações políticas, socioambientais e culturais das tecnologias digitais para propor alternativas aos desafios do mundo contemporâneo, incluindo aqueles relativos ao mundo do trabalho.
+
+EXEMPLOS BNCC: Importante nessa habilidade que o aluno possa refletir, discutir as diversas aplicações das tecnologias em nosso cotidiano, considerando propor soluções aos desafios da atualidade do ser humano em qualquer área, como por exemplo no meio ambiente, na saúde, na economia, acessibilidade, transporte, dentre outros.
+
+NOTA DE CORTE USADA: 68.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 6
+MAIOR SIMILARIDADE ENCONTRADA: 69.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 69.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 69.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 69.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #831 - (EF06CI26ME) | SIMILARIDADE: 68.8%
+   
+   DISCIPLINA: CIÊNCIAS
+   
+   HABILIDADE: (EF06CI26ME) Interpretar informações de diferentes fontes sobre transformações nos ambientes provocadas pela ação humana e o risco de extinção de espécies.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Realizar pesquisas com suporte de recursos visuais, para perceber ao longo dos tempos as mudanças provocadas no ambiente pela ação humana. Ressaltar os pontos positivos e negativos dessa interferência humana. Listar ações que possam reverter essa situação, quando possível. Produzir gráfios, infográficos com dados levantados em pesquisa sobre a extinção de espécies.
+   
+   ──────────────────────────────────────────────────
+
+5. CURRÍCULO #824 - (EF06CI10X) | SIMILARIDADE: 68.3%
+   
+   DISCIPLINA: CIÊNCIAS
+   
+   HABILIDADE: (EF06CI10X) Explicar como o funcionamento do sistema nervoso pode ser afetado por substâncias psicoativas e suas possíveis consequências (distúrbios, doenças etc).
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Identificar e reconhecer a ação de substâncias psicoativas no funcionamento do sistema nervoso, com base na classificação farmacológica e legal, relacionada ao seu uso e a possíveis danos e prejuízos; Avaliar as consequências de seu uso no convívio social; Promover projetos e palestras em parceria com a Secretaria de Saúde e entidades educacionais de referência.
+   
+   ──────────────────────────────────────────────────
+
+6. CURRÍCULO #178 - (EF07CI06) | SIMILARIDADE: 68.1%
+   
+   DISCIPLINA: CIÊNCIAS
+   
+   HABILIDADE: (EF07CI06) Discutir e avaliar mudanças econômicas, culturais e sociais, tanto na vida cotidiana quanto no mundo do trabalho, decorrentes do desenvolvimento de novos materiais e tecnologias (como automação e informatização).
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar a habilidade através da evolução das máquinas mediada pelo avanço tecnológico e científico. Ex.: Telefone, meios de transporte, ferro elétrico e outros.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #40 - (EF09CO08)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF09CO08) Discutir como a distribuição desigual de recursos de computação em uma economia global levanta questões de equidade, acesso e poder.
+
+EXEMPLOS BNCC: Nesta habilidade espera-se que o aluno possa refletir sobre o acesso as tecnologias pelas pessoas e seus impactos na igualdade, desenvolvimento sustentável, e poder, como por exemplo sobre os custos de determinada tecnologia e quem pode comprá-la, trazendo assim questões como pobreza, acesso ao poder, dentre outros.
+
+NOTA DE CORTE USADA: 75.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 75.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 75.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 75.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 75.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #41 - (EF09CO09)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF09CO09) Criar ou utilizar conteúdo em meio digital, compreendendo questões éticas relacionadas a direitos autorais e de uso de imagem.
+
+EXEMPLOS BNCC: Espera-se que o aluno possa utilizar recursos como editores de texto, planilha, apresentações, editores de vídeo, blogs, programas de animação, linguagens de programação, para criar conteúdos diversos considerando o cuidado com direitos autorais.
+
+NOTA DE CORTE USADA: 68.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 68.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 68.3%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 68.3%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 68.3%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #42 - (EF09CO10)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF09CO10) Avaliar a veracidade, credibilidade e relevância da informação em seus diferentes formatos, sendo capaz de identificar o propósito pelo qual foi disseminada.
+
+EXEMPLOS BNCC: Nesta habilidade o aluno terá a perspectiva de refletir e discutir sobre o papel da informação que circula em diferentes formatos (físico ou digital), analisando se é verídico, se tem credibilidade, sua importância e relevância, bem como relacionando a intenção dessa informação e sua circulação.
+
+NOTA DE CORTE USADA: 80.0% (original)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 81.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 81.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 81.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 81.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #43 - (EF69CO01)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.
+
+EXEMPLOS BNCC: Para encontrar uma carta do tipo Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta; para calcular a média das provas dos alunos de uma turma, precisase da lista de provas dos alunos, e o resultado é um número.
+
+NOTA DE CORTE USADA: 67.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 6
+MAIOR SIMILARIDADE ENCONTRADA: 67.8%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1554 - (EF69LP35A) | SIMILARIDADE: 67.8%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP35A) Planejar textos de divulgação científica, a partir da elaboração de esquema que considere as pesquisas feitas anteriormente, de notas e sínteses de leituras ou de registros de experimentos ou de estudo de campo.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Após conhecer o gênero texto de divulgação científica, solicitar a produção, ressaltando a importância de respeitar suas especificidades. Planejar a pesquisa de um tema científico com coleta de dados relevantes. Fazer uma síntese das informações coletadas. Produzir um texto a partir da síntese elaborada. Revisar o texto produzido e fazer as correções necessárias. Sugestão: Fazer uma produção a partir da reescrita de um texto científico.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1455 - (EF89LP08A) | SIMILARIDADE: 67.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP08A) Planejar reportagem impressa e em outras mídias (rádio ou TV/vídeo, sites ), tendo em vista as condições de produção do texto –	objetivo, leitores/espectadores, veículos e mídia de circulação etc. –	a partir da escolha do fato a ser aprofundado ou do tema a ser focado (de relevância para a turma, escola ou comunidade), do levantamento de dados e informações sobre o fato ou tema – que pode envolver entrevistas com envolvidos ou com especialistas, consultas a fontes diversas, análise de documentos, cobertura de eventos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Realizar o planejamento de uma reportagem, apresentando aos alunos um roteiro que demonstre a sequência dos fatos (o que, onde, quando e por que), destacando o uso de uma linguagem objetiva. Em um segundo momento, realizar a produção coletiva de uma reportagem, de acordo com o planejamento anterior, respeitando a estrutura apresentada. Solicitar aos alunos que levem dados, informações e imagens sobre um assunto relevante para a produção em dupla, obedecendo às suas características.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1456 - (EF89LP08B) | SIMILARIDADE: 67.5%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP08B) Registrar essas informações e dados, a escolha de fotos ou imagens a produzir ou a utilizar etc., a produção de infográficos, quando for o caso, e a organização hipertextual (no caso, a publicação em sites ou blogs noticiosos ou mesmo de jornais impressos, por meio de boxes variados).
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Realizar o planejamento de uma reportagem, apresentando aos alunos um roteiro que demonstre a sequência dos fatos (o que, onde, quando e por que), destacando o uso de uma linguagem objetiva. Em um segundo momento, realizar a produção coletiva de uma reportagem, de acordo com o planejamento anterior, respeitando a estrutura apresentada. Solicitar aos alunos que levem dados, informações e imagens sobre um assunto relevante para a produção em dupla, obedecendo às suas características.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #1299 - (EF89LP08A) | SIMILARIDADE: 67.5%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP08A) Planejar reportagem impressa e em outras mídias (rádio ou TV/vídeo, sites), tendo em vista as condições de produção do texto – objetivo, leitores/espectadores, veículos e mídia de circulação etc. – a partir da escolha do fato a ser aprofundado ou do tema a ser focado (de relevância para a turma, escola ou comunidade), do levantamento de dados e informações sobre o fato ou tema – que pode envolver entrevistas com envolvidos ou com especialistas, consultas a fontes diversas, análise de documentos, cobertura de eventos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Realizar o planejamento de uma reportagem, apresentando aos alunos um roteiro que demonstre a sequência dos fatos (o que, onde, quando e por que) destacando o uso de uma linguagem objetiva. Em um segundo momento, realizar a produção coletiva de uma reportagem de acordo com o planejamento anterior, respeitando a estrutura apresentada. Solicitar aos alunos que levem dados, informações e imagens sobre um assunto relevante para a produção em dupla, obedecendo às suas características.
+   
+   ──────────────────────────────────────────────────
+
+5. CURRÍCULO #1209 - (EF67LP13BX) | SIMILARIDADE: 67.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF67LP13BX) Explorar recursos multissemióticos, relacionando elementos verbais e visuais, em textos publicitários.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Partindo do pressuposto de que os alunos já conhecem a estrutura dos textos publicitários, destacar aspectos importantes para a produção desse gênero, tais como: linguagem verbal e não verbal, o impacto da imagem, a capacidade de atrair e convencer, deixando claro o objetivo final. Pedir aos alunos que produzam um anúncio comercial de um produto. Sugestão: Dividir a sala em grupos e solicitar que cada grupo produza um anúncio com uma finalidade diferente (venda, troca, serviço e outros).
+   
+   ──────────────────────────────────────────────────
+
+6. CURRÍCULO #285 - (EF69LP34B) | SIMILARIDADE: 67.2%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP34B) Produzir marginálias (ou tomar notas em outro suporte), sínteses organizadas em itens, quadro sinóptico, quadro comparativo, esquema, resumo ou resenha do texto lido (com ou sem comentario/análise), mapa conceitual, dependendo do que for mais adequado, como forma de possibilitar uma maior compreensão do texto, a sistematização de conteúdos e informações e um posicionamento frente aos textos, se esse for o caso.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar texto aos alunos, realizando  uma leitura coletiva, identificando as principais partes, conduzindo-os a uma compreensão que permita a produção de marginálias.Realizar o trabalho coletivamente dando suporte aos alunos para que, posteriormente, consigam chegar à compreensão e à identificação da parte principal do texto e sejam capazes de produzir marginálias, sínteses e resumos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #44 - (EF69CO02)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO02) Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação.
+
+EXEMPLOS BNCC: Existem diferentes linguagens de programação que podem ser usadas para descrever algoritmos em diferentes níveis de abstração, como linguagens visuais, orientadas a objetos, funcionais, entre outras. Uma ou mais linguagens podem ser escolhidas para serem adotadas.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 70.6%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #98 - (EF07LI06) | SIMILARIDADE: 70.6%
+   
+   DISCIPLINA: INGLÊS
+   
+   HABILIDADE: (EF07LI06) Antecipar o sentido global de textos em língua inglesa por inferências, com base em leitura rápida, observando títulos, primeiras e últimas frases de parágrafos e palavras-chave repetidas.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Selecionar textos com linguagem mista (verbal e não verbal), cujas temáticas estejam articuladas com a ideia da língua inglesa. Oferecer textos autênticos, envolvendo o contato com gêneros escritos multimodais que circulem nos diversos campos e esferas sociais.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1549 - (EF69LP42B) | SIMILARIDADE: 70.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP42B) Reconhecer traços da linguagem dos textos de divulgação científica, fazendo uso consciente das estratégias de impessoalização da linguagem (ou de pessoalização, se o tipo de publicação e objetivos assim o demandarem, como em alguns podcasts e vídeos de divulgação científica), 3ª pessoa, presente atemporal, recurso à citação, uso de vocabulário técnico/especializado etc., como forma de ampliar suas capacidades de compreensão e produção de textos nesses gêneros.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Realizar um trabalho de análise da linguagem utilizada nos textos de divulgação científica, percebendo marcas de impessoalidade, uso de forma verbal que não especifica o tempo, uso de termos técnicos e científicos, citação de ideias e conceitos de outros autores (como forma de enriquecer e dar credibilidade ao texto). Essa análise possibilitará aos alunos uma maior compreensão dos textos científicos e embasará suas próprias produções.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #45 - (EF69CO03)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.
+
+EXEMPLOS BNCC: É importante que se consiga expressar a solução do problema (algoritmo) em português, compreendendo que o programa é apenas uma descrição deste algoritmo em uma linguagem de programação. O aluno precisa entender que o mais importante é a construção do algoritmo. Notem que a ideia aqui não é apenas descrever as linhas de código em português, mas sim descrever em um alto nível de abstração como o problema é resolvido.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 5
+MAIOR SIMILARIDADE ENCONTRADA: 70.7%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1540 - (EF89LP29AX) | SIMILARIDADE: 70.7%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais e coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #342 - (EF89LP29AX) | SIMILARIDADE: 70.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #343 - (EF89LP29AX) | SIMILARIDADE: 70.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+4. CURRÍCULO #1287 - (EF89LP29AX) | SIMILARIDADE: 70.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+5. CURRÍCULO #1444 - (EF89LP29AX) | SIMILARIDADE: 70.1%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP29AX) Identificar mecanismos de progressão temática, tais como retomadas anafóricas, catafóricas, uso de organizadores textuais, de coesivos etc.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade das ideias, da sequência lógica e da compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #46 - (EF69CO04)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO04) Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluções usando uma linguagem de programação.
+
+EXEMPLOS BNCC: Decomposição é uma das principais técnicas de resolução de problemas, onde um problema é dividido em subproblemas, os quais são resolvidos independentemente, e cujas soluções são combinadas para construir a solução do problema original. Algumas vantagens da decomposição são: permitir uma melhor organização e visualização do problema e da solução; facilitar o trabalho em grupo; permitir que possamos reutilizar as soluções dos subproblemas em outros problemas.
+
+NOTA DE CORTE USADA: 71.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 71.2%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #893 - (EF67EF05P2) | SIMILARIDADE: 71.2%
+   
+   DISCIPLINA: EDUCAÇÃO FÍSICA
+   
+   HABILIDADE: (EF67EF05P2) Planejar e utilizar estratégias para solucionar os desafios técnicos e táticos, tanto nos esportes de invasão e técnico- combinatórios como nas modalidades esportivas escolhidas para praticar de forma específica.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar a vivência do esporte de maneira prazerosa nas atividades de Educação Física. Estimular a prática e a compreensão do esporte como opção de lazer dentro e fora do ambiente escolar. Refletir e criar estratégias pedagógicas para contribuir e consolidar a aprendizagem a partir de apresentações de vídeos, de diálogos e de relatos das experiências dos alunos. Esportes de Rede: voleibol.  Utilizar jogo pré-desportivo para o desenvolvimento da modalidade.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #47 - (EF69CO05)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO05) Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados, e estabelecendo a definição de problema como uma relação entre entrada e saída.
+
+EXEMPLOS BNCC: Definir problemas é uma habilidade muito importante, pois é o primeiro passo da solução. A definição de um problema se dá identificando quais são os tipos de entradas necessárias (insumos/informações) e qual o tipo da saída. Como a solução (algoritmo) deve ser genérica, se define um problema em termos dos tipos das entradas e saída. O objetivo aqui NÃO é propor soluções de problemas, e sim definir o que é necessário para resolvê-los e qual será o resultado esperado.
+
+NOTA DE CORTE USADA: 70.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 70.5%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1504 - (EF89LP16) | SIMILARIDADE: 70.5%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP16) Analisar a modalização realizada em textos noticiosos e argumentativos, por meio das modalidades apreciativas, viabilizadas por classes e estruturas gramaticais como adjetivos, locuções adjetivas, advérbios, locuções adverbiais, orações adjetivas e adverbiais, orações relativas restritivas e explicativas etc., de maneira a perceber a apreciação ideológica sobre os fatos noticiados ou as posições implícitas ou assumidas.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Analisar o modo como algumas classes gramaticais são utilizadas para modalizar o discurso nos textos argumentativos. Os modalizadores indicam as intenções discursivas e são, portanto, os elementos que indicam os argumentos de quem produz o texto. Observar como o autor do texto utiliza esses modalizadores para dar ênfase ao ponto de vista que quer defender.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #57 - (EF06MA03X) | SIMILARIDADE: 70.4%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF06MA03X) Resolver e elaborar situações- problemas que envolvam cálculos (mentais ou escritos, exatos ou aproximados) com números naturais, e/ou expressões numéricas, por meio de estratégias variadas, com compreensão dos processos neles envolvidos com ou sem uso de calculadora para conferência.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Utilizar atividades enigmáticas, jogos e atividades desafiadoras que envolvam diferentes estratégias para resolução dos problemas. Estimular o aluno a elaborar um problema e propor para o colega resolver. Incentivar os alunos com situações-problema simples na forma oral e/ou de imagens a realizar cálculos mentais aproximados.  Exemplos: (a + a = 16),  (a + b = 15),  (a x b = ?).
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #48 - (EF69CO06)
+================================================================================
+
+EIXO BNCC: PENSAMENTO COMPUTACIONAL
+
+OBJETIVO BNCC: (EF69CO06) Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando as semelhanças e diferenças entre eles, e criar um algoritmo para resolver todos, fazendo uso de variáveis (parâmetros) para permitir o tratamento de todos os casos de forma genérica.
+
+EXEMPLOS BNCC: Idealmente, um algoritmo é uma solução genérica: ele resolve várias instâncias de um problema. Por exemplo, um algoritmo que calcula a média aritmética de 2 números resolve este problema para qualquer par de números (que são as instâncias do problema). Para descrever um algoritmo de forma genérica, é necessário dar nomes às entradas do algoritmo. Esses nomes são chamados de variáveis ou parâmetros do algoritmo.
+
+NOTA DE CORTE USADA: 69.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 69.6%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #57 - (EF06MA03X) | SIMILARIDADE: 69.6%
+   
+   DISCIPLINA: MATEMÁTICA
+   
+   HABILIDADE: (EF06MA03X) Resolver e elaborar situações- problemas que envolvam cálculos (mentais ou escritos, exatos ou aproximados) com números naturais, e/ou expressões numéricas, por meio de estratégias variadas, com compreensão dos processos neles envolvidos com ou sem uso de calculadora para conferência.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Utilizar atividades enigmáticas, jogos e atividades desafiadoras que envolvam diferentes estratégias para resolução dos problemas. Estimular o aluno a elaborar um problema e propor para o colega resolver. Incentivar os alunos com situações-problema simples na forma oral e/ou de imagens a realizar cálculos mentais aproximados.  Exemplos: (a + a = 16),  (a + b = 15),  (a x b = ?).
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #49 - (EF69CO07)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.
+
+EXEMPLOS BNCC: O processo de transmissão de dados envolve em dividir a informação em pedaços para que ela seja mais facilmente enviada através da rede de comunicação. Esses pedaços são transmitidos através de caminhos compostos por diferentes equipamentos. Finalmente, a informação é remontada no destino. Ao ser dividida, problemas que ocorram na transmissão em alguns pedaços da informação, podem ser solucionados pelo reenvio de pedaços faltantes, corrompidos, ou fora de ordem.
+
+NOTA DE CORTE USADA: 72.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 72.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1555 - (EF69LP35BX) | SIMILARIDADE: 72.0%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF69LP35BX) Produzir, revisar e editar textos voltados para a divulgação do conhecimento e de dados e resultados de pesquisas, tendo em vista seus contextos de produção, que podem envolver a disponibilização de informações e conhecimentos em circulação em um formato mais acessível para um público específico ou a divulgação de conhecimentos advindos de pesquisas bibliográficas, experimentos científicos e estudos de campo realizados.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Após conhecer o gênero texto de divulgação científica, solicitar a produção, ressaltando a importância de respeitar suas especificidades. Planejar a pesquisa de um tema científico com coleta de dados relevantes. Fazer uma síntese das informações coletadas. Produzir um texto a partir da síntese elaborada. Revisar o texto produzido e fazer as correções necessárias. Sugestão: Fazer uma produção a partir da reescrita de um texto científico.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #50 - (EF69CO08)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF69CO08) Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados.
+
+EXEMPLOS BNCC: O gerenciamento de dados é frequentemente realizado através do conceito de arquivo. Neste contexto, os arquivos são criados considerando alguma lógica interna e armazenados em memória secundária. Posteriormente, esses arquivos podem ser recarregados a fim de seus dados serem utilizados ou mesmo editados. Finalmente, os arquivos podem ser compactados para diminuir o espaço ocupado na memória secundária.
+
+NOTA DE CORTE USADA: 66.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 66.3%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #146 - (EF67LP36) | SIMILARIDADE: 66.3%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF67LP36) Utilizar, ao produzir texto, recursos de coesão referencial (léxica e pronominal) e sequencial e outros recursos expressivos adequados ao gênero textual.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade de suas ideias, sequência lógica e compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #147 - (EF67LP36) | SIMILARIDADE: 66.3%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF67LP36) Utilizar, ao produzir texto, recursos de coesão referencial (léxica e pronominal) e sequencial e outros recursos expressivos adequados ao gênero textual.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Apresentar textos para serem destacados os recursos de coesão neles existentes, identificando sua importância para a continuidade de suas ideias, sequência lógica e compreensão. Realizar fixação através de textos com lacunas para que os alunos possam utilizar esses recursos, completando, assim, o sentido do texto.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #51 - (EF69CO09)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF69CO09) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.
+
+EXEMPLOS BNCC: O aluno deve compreender que o paralelismo permite a utilização de diferentes recursos para executar partes de uma tarefa que podem ser realizadas simultaneamente. Paralelismo ocorre quando mais de uma tarefa é executada ao mesmo tempo. Normalmente, se usa paralelismo para melhorar o tempo de execução de uma solução, mas também para que o processo possa ser executado por várias pessoas trabalhando concomitantemente. Para construir uma solução usando paralelismo, deve-se identificar quais partes da solução são independentes, podendo ser executadas simultaneamente. Pode-se também replicar a mesma tarefa para otimizar a execução.
+
+NOTA DE CORTE USADA: 72.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 2
+MAIOR SIMILARIDADE ENCONTRADA: 73.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #423 - (EF09HI06) | SIMILARIDADE: 73.0%
+   
+   DISCIPLINA: HISTÓRIA
+   
+   HABILIDADE: (EF09HI06) Identificar e discutir o papel do trabalhismo como força política, social e cultural no Brasil, em diferentes escalas (nacional, regional, cidade, comunidade).
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar com os processos de urbanização e industrialização que aconteceram nos grandes centros e os problemas por eles desencadeados, ampliando as desigualdades; Trabalhar com o movimento operário que desencadeou grandes conquistas trabalhistas; Relacionar a temática com as condições de trabalho hoje, refletindo sobre os direitos que ainda precisam ser alcançados, os que já foram e os que estão ameaçados; Trabalhar os conceitos de trabalhismo como imposição do Estado Novo e compreender o populismo como ideologia da Era Vargas.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #934 - (EF89EF16) | SIMILARIDADE: 73.0%
+   
+   DISCIPLINA: EDUCAÇÃO FÍSICA
+   
+   HABILIDADE: (EF89EF16) Experimentar e fruir a execução dos movimentos pertencentes às lutas do mundo, adotando procedimentos de segurança e respeitando o oponente.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Diferenciar as variadas formas apresentadas pelas lutas do mundo, considerando suas características filosóficas e os contextos históricos, culturais e sociais.  Compreender a apropriação das lutas pela Indústria Cultural. Oportunizar a realização dos movimentos técnicos básicos: ser atento e vigilante, aceitar as regras, situar-se no espaço limitado, opor-se ao deslocamento do outro, alterar posições, estudar o adversário, realizar ataques-surpresa, usar a força no momento adequado, apropriar-se da intenção do outro, mudar de estratégia, valorizar a derrota e reconhecer a vitória.         Vivenciar a luta como forma de defesa pessoal.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #52 - (EF69CO10)
+================================================================================
+
+EIXO BNCC: MUNDO DIGITAL
+
+OBJETIVO BNCC: (EF69CO10) Entender como é a estrutura e funcionamento da internet
+
+EXEMPLOS BNCC: A internet é uma rede composta por muitas redes, as quais compartilham o protocolo Internet. Essas redes são agrupadas em sistemas autônomos, conjuntos de redes que possuem uma política de operação comum. A definição desses sistemas autônomos é realizada por entidades que operam na organização dos recursos da Internet.
+
+NOTA DE CORTE USADA: 68.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 69.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #970 - (EF06GE14MEX) | SIMILARIDADE: 69.0%
+   
+   DISCIPLINA: GEOGRAFIA
+   
+   HABILIDADE: (EF06GE14MEX) Identificar e discutir o papel das redes virtuais e analisar a exclusão digital, usando a vivência da escola (conflitos gerados pela rede social).
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Trabalhar e problematizar as vantagens e desvantagens das redes sociais, conscientizando sobre os conflitos, perigos e pontos positivos de se lidar e relacionar com a internet; Relacionar a internet a ferramentas de aprendizagem.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #53 - (EF69CO11)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF69CO11) Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considerando a ética e o respeito.
+
+EXEMPLOS BNCC: Nesta habilidade é importante destacar as formas de comunicação na internet, em fóruns, em sites, em redes sociais, considerando a empatia, os direitos e deveres, as leis como o marco civil. Importante que o aluno possa refletir sobre as consequências de sua conduta online.
+
+NOTA DE CORTE USADA: 77.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 3
+MAIOR SIMILARIDADE ENCONTRADA: 77.8%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 77.8%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #1373 - (EF89LP02) | SIMILARIDADE: 77.8%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #1492 - (EF89LP02) | SIMILARIDADE: 77.8%
+   
+   DISCIPLINA: PORTUGUÊS
+   
+   HABILIDADE: (EF89LP02) Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif , comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Proporcionar aos alunos uma análise de diferentes práticas da cultura digital, levando-os a refletir sobre a necessidade de uma postura ética e respeitosa em seus posicionamentos.
+   
+   ──────────────────────────────────────────────────
+
+================================================================================
+HABILIDADE BNCC #54 - (EF69CO12)
+================================================================================
+
+EIXO BNCC: CULTURA DIGITAL
+
+OBJETIVO BNCC: (EF69CO12) Analisar o consumo de tecnologia na sociedade, compreendendo criticamente o caminho da produção dos recursos bem como aspectos ligados à obsolescência e a sustentabilidade.
+
+EXEMPLOS BNCC: Importante aqui o aluno identificar e refletir sobre o caminho e impactos em que a produção da tecnologia tem em nossa sociedade. Assim, espera-se que o aluno reconheça a cadeia de produção da tecnologia, seus usos no cotidiano do ser humano e os impactos no meio ambiente.
+
+NOTA DE CORTE USADA: 71.0% (adaptativa)
+QUANTIDADE DE HABILIDADES SIMILARES: 1
+MAIOR SIMILARIDADE ENCONTRADA: 71.0%
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+
+1. CURRÍCULO #880 - (EF67EF02) | SIMILARIDADE: 71.0%
+   
+   DISCIPLINA: EDUCAÇÃO FÍSICA
+   
+   HABILIDADE: (EF67EF02) Identificar as transformações nas características dos jogos eletrônicos em função dos avanços das tecnologias e nas respectivas exigências corporais colocadas por esses diferentes tipos de jogos.
+   
+   ORIENTAÇÕES PEDAGÓGICAS: Utilizar jogos eletrônicos como recurso didático para o desenvolvimento do raciocínio lógico e a sua aplicação na pratica do cotidiano. Identificar as transformações nas características dos jogos de tabuleiro para jogos eletrônicos, em função dos avanços tecnológicos, considerando sua origem e inserção na cultura local.
+   
+   ──────────────────────────────────────────────────

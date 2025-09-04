@@ -468,8 +468,8 @@ HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
 #                           SALVAMENTO DOS ARQUIVOS
 # ==================================================================================
 
-# Criar pasta docs se não existir
-docs_path = "docs"
+# Criar pasta docs/anos iniciais se não existir
+docs_path = os.path.join("docs", "anos iniciais")
 if not os.path.exists(docs_path):
     os.makedirs(docs_path)
     print(f"📁 Pasta '{docs_path}' criada para organizar os relatórios")

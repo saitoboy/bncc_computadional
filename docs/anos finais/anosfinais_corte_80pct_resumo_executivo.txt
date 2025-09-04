@@ -1,0 +1,332 @@
+
+==================================================================================
+                            RESUMO EXECUTIVO
+==================================================================================
+Data: 2025-09-04 15:01:39
+Nota de corte inicial: 80.0%
+Busca adaptativa: ATIVADA
+Modelo: all-MiniLM-L6-v2
+
+PRINCIPAIS DESCOBERTAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 2 de 54 habilidades da BNCC (3.7%) têm correspondência com nota de corte original ≥ 80.0%
+
+• 54 de 54 habilidades da BNCC (100.0%) têm correspondência usando busca adaptativa
+
+• Total de 6 conexões identificadas acima da nota de corte original
+
+• Nota de corte média usada: 68.6%
+• Nota de corte mínima usada: 54.0%
+
+HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ 1. (EF69CO07) - 6 correspondências (máx: 72.0%)
+    MUNDO DIGITAL
+    Nota de corte usada: 71.0% (adaptativa)
+ 2. (EF08CO01) - 6 correspondências (máx: 67.9%)
+    PENSAMENTO COMPUTACIONAL
+    Nota de corte usada: 67.0% (adaptativa)
+ 3. (EF09CO07) - 6 correspondências (máx: 69.0%)
+    CULTURA DIGITAL
+    Nota de corte usada: 68.0% (adaptativa)
+ 4. (EF69CO01) - 6 correspondências (máx: 67.8%)
+    PENSAMENTO COMPUTACIONAL
+    Nota de corte usada: 67.0% (adaptativa)
+ 5. (EF69CO03) - 5 correspondências (máx: 70.7%)
+    PENSAMENTO COMPUTACIONAL
+    Nota de corte usada: 70.0% (adaptativa)
+ 6. (EF08CO02) - 5 correspondências (máx: 71.0%)
+    PENSAMENTO COMPUTACIONAL
+    Nota de corte usada: 70.0% (adaptativa)
+ 7. (EF69CO03) - 5 correspondências (máx: 70.7%)
+    PENSAMENTO COMPUTACIONAL
+    Nota de corte usada: 70.0% (adaptativa)
+ 8. (EF07CO02) - 4 correspondências (máx: 61.9%)
+    PENSAMENTO COMPUTACIONAL
+    Nota de corte usada: 61.0% (adaptativa)
+ 9. (EF09CO03) - 4 correspondências (máx: 55.0%)
+    PENSAMENTO COMPUTACIONAL
+    Nota de corte usada: 54.0% (adaptativa)
+10. (EF09CO04) - 4 correspondências (máx: 56.3%)
+    MUNDO DIGITAL
+    Nota de corte usada: 56.0% (adaptativa)
+11. (EF69CO09) - 3 correspondências (máx: 77.9%)
+    CULTURA DIGITAL
+    Nota de corte usada: 77.0% (adaptativa)
+12. (EF69CO10) - 3 correspondências (máx: 70.7%)
+    CULTURA DIGITAL
+    Nota de corte usada: 70.0% (adaptativa)
+13. (EF07CO07) - 3 correspondências (máx: 60.5%)
+    MUNDO DIGITAL
+    Nota de corte usada: 60.0% (adaptativa)
+14. (EF07CO08) - 3 correspondências (máx: 73.9%)
+    CULTURA DIGITAL
+    Nota de corte usada: 73.0% (adaptativa)
+15. (EF07CO09) - 3 correspondências (máx: 55.9%)
+    CULTURA DIGITAL
+    Nota de corte usada: 55.0% (adaptativa)
+
+HABILIDADES QUE PRECISARAM DE BUSCA ADAPTATIVA:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• (EF69CO01) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 69.0%
+  Máx. similaridade: 69.9%
+  (EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a...
+
+• (EF69CO02) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.6%
+  (EF69CO02) Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando...
+
+• (EF69CO03) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.7%
+  (EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a ...
+
+• (EF69CO04) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 71.0%
+  Máx. similaridade: 71.2%
+  (EF69CO04) Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluç...
+
+• (EF69CO05) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.5%
+  (EF69CO05) Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, ...
+
+• (EF69CO06) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 69.0%
+  Máx. similaridade: 69.6%
+  (EF69CO06) Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando a...
+
+• (EF69CO07) - MUNDO DIGITAL
+  Nota de corte usada: 71.0%
+  Máx. similaridade: 72.0%
+  (EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, tra...
+
+• (EF69CO08) - MUNDO DIGITAL
+  Nota de corte usada: 66.0%
+  Máx. similaridade: 66.3%
+  (EF69CO08) Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar a...
+
+• (EF69CO09) - CULTURA DIGITAL
+  Nota de corte usada: 77.0%
+  Máx. similaridade: 77.9%
+  (EF69CO09) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento dist...
+
+• (EF69CO10) - CULTURA DIGITAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.7%
+  (EF69CO10) Entender como é a estrutura e funcionamento da internet.
+
+• (EF07CO01) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 68.0%
+  Máx. similaridade: 68.0%
+  (EF07CO01) Criar soluções de problemas para os quais seja adequado o uso de registros e matrizes uni...
+
+• (EF07CO02) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 61.0%
+  Máx. similaridade: 61.9%
+  (EF07CO02) Analisar programas para detectar e remover erros, ampliando a confiança na sua correção.
+
+• (EF07CO03) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 65.0%
+  Máx. similaridade: 65.3%
+  (EF07CO03) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de fo...
+
+• (EF07CO04) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 66.0%
+  Máx. similaridade: 66.1%
+  (EF07CO04) Explorar propriedades básicas de grafos.
+
+• (EF07CO05) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 69.0%
+  Máx. similaridade: 69.1%
+  (EF07CO05) Criar algoritmos fazendo uso da decomposição e do reúso no processo de solução de forma c...
+
+• (EF07CO06) - MUNDO DIGITAL
+  Nota de corte usada: 60.0%
+  Máx. similaridade: 60.2%
+  (EF07CO06) Compreender o papel de protocolos para a transmissão de dados.
+
+• (EF07CO07) - MUNDO DIGITAL
+  Nota de corte usada: 60.0%
+  Máx. similaridade: 60.5%
+  (EF07CO07) Identificar problemas de segurança cibernética e experimentar formas de proteção.
+
+• (EF07CO08) - CULTURA DIGITAL
+  Nota de corte usada: 73.0%
+  Máx. similaridade: 73.9%
+  (EF07CO08) Demonstrar empatia sobre opiniões divergentes na web.
+
+• (EF07CO09) - CULTURA DIGITAL
+  Nota de corte usada: 55.0%
+  Máx. similaridade: 55.9%
+  (EF07CO09) Reconhecer e debater sobre cyberbullying.
+
+• (EF07CO10) - CULTURA DIGITAL
+  Nota de corte usada: 67.0%
+  Máx. similaridade: 67.7%
+  (EF07CO10) Identificar os impactos ambientais do descarte de peças de computadores e eletrônicos, be...
+
+• (EF07CO11) - CULTURA DIGITAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.1%
+  (EF07CO11) Criar, documentar e publicar, de forma individual ou colaborativa, produtos (vídeos, podc...
+
+• (EF08CO01) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 67.0%
+  Máx. similaridade: 67.9%
+  (EF08CO01) Construir soluções de problemas usando a técnica de recursão e automatizar tais soluções ...
+
+• (EF08CO02) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 71.0%
+  (EF08CO02) Criar soluções de problemas para os quais seja adequado o uso de listas para descrever su...
+
+• (EF08CO03) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 57.0%
+  Máx. similaridade: 57.4%
+  (EF08CO03) Utilizar algoritmos clássicos de manipulação sobre listas.
+
+• (EF08CO04) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 65.0%
+  Máx. similaridade: 65.3%
+  (EF08CO04) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de fo...
+
+• (EF08CO05) - MUNDO DIGITAL
+  Nota de corte usada: 73.0%
+  Máx. similaridade: 73.1%
+  (EF08CO05) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento dist...
+
+• (EF08CO06) - MUNDO DIGITAL
+  Nota de corte usada: 68.0%
+  Máx. similaridade: 68.3%
+  (EF08CO06) Entender como é a estrutura e funcionamento da internet.
+
+• (EF08CO08) - CULTURA DIGITAL
+  Nota de corte usada: 71.0%
+  Máx. similaridade: 71.2%
+  (EF08CO08) Distinguir os tipos de dados pessoais que são solicitados em espaços digitais e os riscos...
+
+• (EF08CO09) - CULTURA DIGITAL
+  Nota de corte usada: 74.0%
+  Máx. similaridade: 74.6%
+  (EF08CO09) Analisar criticamente as políticas de termos de uso das redes sociais e demais plataforma...
+
+• (EF08CO10) - CULTURA DIGITAL
+  Nota de corte usada: 73.0%
+  Máx. similaridade: 73.7%
+  (EF08CO10) Discutir questões sobre segurança e privacidade relacionadas ao uso dos ambientes virtuai...
+
+• (EF08CO11) - CULTURA DIGITAL
+  Nota de corte usada: 76.0%
+  Máx. similaridade: 76.1%
+  (EF08CO11) Avaliar a precisão, relevância, adequação, abrangência e vieses que ocorrem em fontes de ...
+
+• (EF09CO01) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 73.0%
+  Máx. similaridade: 74.0%
+  (EF09CO01) Criar soluções de problemas para os quais seja adequado o uso de árvores e grafos para de...
+
+• (EF09CO02) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 65.0%
+  Máx. similaridade: 65.5%
+  (EF09CO02) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de fo...
+
+• (EF09CO03) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 54.0%
+  Máx. similaridade: 55.0%
+  (EF09CO03) Usar autômatos para descrever comportamentos de forma abstrata automatizando-os através d...
+
+• (EF09CO04) - MUNDO DIGITAL
+  Nota de corte usada: 56.0%
+  Máx. similaridade: 56.3%
+  (EF09CO04) Compreender o funcionamento de malwares e outros ataques cibernéticos.
+
+• (EF09CO05) - MUNDO DIGITAL
+  Nota de corte usada: 67.0%
+  Máx. similaridade: 67.2%
+  (EF09CO05) Analisar técnicas de criptografia para armazenamento e transmissão de dados.
+
+• (EF09CO06) - CULTURA DIGITAL
+  Nota de corte usada: 65.0%
+  Máx. similaridade: 65.7%
+  (EF09CO06) Analisar problemas sociais de sua cidade e estado a partir de ambientes digitais, propond...
+
+• (EF09CO07) - CULTURA DIGITAL
+  Nota de corte usada: 68.0%
+  Máx. similaridade: 69.0%
+  (EF09CO07) Avaliar aplicações e implicações políticas, socioambientais e culturais das tecnologias d...
+
+• (EF09CO08) - CULTURA DIGITAL
+  Nota de corte usada: 75.0%
+  Máx. similaridade: 75.2%
+  (EF09CO08) Discutir como a distribuição desigual de recursos de computação em uma economia global le...
+
+• (EF09CO09) - CULTURA DIGITAL
+  Nota de corte usada: 68.0%
+  Máx. similaridade: 68.3%
+  (EF09CO09) Criar ou utilizar conteúdo em meio digital, compreendendo questões éticas relacionadas a ...
+
+• (EF69CO01) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 67.0%
+  Máx. similaridade: 67.8%
+  (EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a...
+
+• (EF69CO02) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.6%
+  (EF69CO02) Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando...
+
+• (EF69CO03) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.7%
+  (EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a ...
+
+• (EF69CO04) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 71.0%
+  Máx. similaridade: 71.2%
+  (EF69CO04) Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluç...
+
+• (EF69CO05) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 70.0%
+  Máx. similaridade: 70.5%
+  (EF69CO05) Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, ...
+
+• (EF69CO06) - PENSAMENTO COMPUTACIONAL
+  Nota de corte usada: 69.0%
+  Máx. similaridade: 69.6%
+  (EF69CO06) Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando a...
+
+• (EF69CO07) - MUNDO DIGITAL
+  Nota de corte usada: 72.0%
+  Máx. similaridade: 72.0%
+  (EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, tra...
+
+• (EF69CO08) - MUNDO DIGITAL
+  Nota de corte usada: 66.0%
+  Máx. similaridade: 66.3%
+  (EF69CO08) Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar a...
+
+• (EF69CO09) - MUNDO DIGITAL
+  Nota de corte usada: 72.0%
+  Máx. similaridade: 73.0%
+  (EF69CO09) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento dist...
+
+• (EF69CO10) - MUNDO DIGITAL
+  Nota de corte usada: 68.0%
+  Máx. similaridade: 69.0%
+  (EF69CO10) Entender como é a estrutura e funcionamento da internet
+
+• (EF69CO11) - CULTURA DIGITAL
+  Nota de corte usada: 77.0%
+  Máx. similaridade: 77.8%
+  (EF69CO11) Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considera...
+
+• (EF69CO12) - CULTURA DIGITAL
+  Nota de corte usada: 71.0%
+  Máx. similaridade: 71.0%
+  (EF69CO12) Analisar o consumo de tecnologia na sociedade, compreendendo criticamente o caminho da pr...

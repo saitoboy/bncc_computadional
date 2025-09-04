@@ -41,8 +41,8 @@ from datetime import datetime
 # ==================================================================================
 CONFIGURACOES = {
     'NOTA_CORTE': 0.80,
-    'ARQUIVO_BNCC': "bncc_df_inf.xlsx",
-    'ARQUIVO_CURRICULO': "curriculo_df_inf.xlsx",
+    'ARQUIVO_BNCC': "bncc_df_anosfinais (2).xlsx",
+    'ARQUIVO_CURRICULO': "Anos_Finais_Curriculo_Normalizado.xlsx",
     'MODELO_EMBEDDINGS': 'all-MiniLM-L6-v2',
     'MOSTRAR_TOP_MATCHES_TERMINAL': 10,
     'MOSTRAR_TOP_CORRESPONDENCIAS': 15,
@@ -76,14 +76,20 @@ except Exception as e:
     raise
 
 # Verificação das colunas necessárias nos DataFrames
-def checar_colunas(df, nome_df):
-    colunas_necessarias = ['EIXO', 'OBJETIVO DE APRENDIZAGEM', 'EXEMPLOS']
+def checar_colunas_bncc(df):
+    colunas_necessarias = ['EIXO', 'HABILIDADE', 'EXEMPLOS']
     for col in colunas_necessarias:
-        assert col in df.columns, f"{nome_df} deve ter a coluna '{col}'"
-    print(f"✅ Colunas verificadas em {nome_df}")
+        assert col in df.columns, f"BNCC deve ter a coluna '{col}'"
+    print("✅ Colunas verificadas na BNCC")
 
-checar_colunas(bncc_df_inf, 'BNCC')
-checar_colunas(curriculo_df_inf, 'Currículo')
+def checar_colunas_curriculo(df):
+    colunas_necessarias = ['DISCIPLINA', 'HABILIDADES', 'ORIENTACOES_PEDAGOGICAS']
+    for col in colunas_necessarias:
+        assert col in df.columns, f"Currículo deve ter a coluna '{col}'"
+    print("✅ Colunas verificadas no Currículo")
+
+checar_colunas_bncc(bncc_df_inf)
+checar_colunas_curriculo(curriculo_df_inf)
 
 # Normaliza os nomes das colunas para evitar problemas de espaço/acentuação
 curriculo_df_inf.columns = curriculo_df_inf.columns.str.strip()
@@ -126,22 +132,29 @@ def extrair_codigo(obj):
 print("\n🔍 TESTE DA FUNÇÃO DE EXTRAÇÃO DE CÓDIGOS:")
 print("-" * 50)
 for i in range(min(5, len(bncc_df_inf))):
-    obj_original = bncc_df_inf['OBJETIVO DE APRENDIZAGEM'].iloc[i]
+    obj_original = bncc_df_inf['HABILIDADE'].iloc[i]
     codigo_extraido = extrair_codigo(obj_original)
     print(f"Original: {obj_original}")
     print(f"Código:   {codigo_extraido}")
     print("-" * 30)
 
 # Função para concatenar as features relevantes
-def concat_features(df):
+def concat_features_bncc(df):
     return (
         df['EIXO'].astype(str) + " | " +
-        df['OBJETIVO DE APRENDIZAGEM'].astype(str) + " | " +
+        df['HABILIDADE'].astype(str) + " | " +
         df['EXEMPLOS'].astype(str)
     )
 
-bncc_texts = concat_features(bncc_df_inf)
-curriculo_texts = concat_features(curriculo_df_inf)
+def concat_features_curriculo(df):
+    return (
+        df['DISCIPLINA'].astype(str) + " | " +
+        df['HABILIDADES'].astype(str) + " | " +
+        df['ORIENTACOES_PEDAGOGICAS'].astype(str)
+    )
+
+bncc_texts = concat_features_bncc(bncc_df_inf)
+curriculo_texts = concat_features_curriculo(curriculo_df_inf)
 
 # Carregar modelo de embeddings
 try:
@@ -243,8 +256,8 @@ for idx_bncc, linha_bncc in enumerate(bncc_df_inf.itertuples(index=False)):
     indices_similares, nota_corte_usada = encontrar_similaridade_adaptativa(similaridades_bncc, NOTA_CORTE)
     estatisticas['notas_corte_usadas'].append(nota_corte_usada)
     
-    # CORREÇÃO: Usar o índice direto do DataFrame em vez de itertuples()
-    objetivo_aprendizagem = bncc_df_inf['OBJETIVO DE APRENDIZAGEM'].iloc[idx_bncc]
+    # CORREÇÃO: Usar o índice direto do DataFrame
+    objetivo_aprendizagem = bncc_df_inf['HABILIDADE'].iloc[idx_bncc]
     bncc_codigo = extrair_codigo(objetivo_aprendizagem)
     
     habilidade_bncc = {
@@ -263,14 +276,14 @@ for idx_bncc, linha_bncc in enumerate(bncc_df_inf.itertuples(index=False)):
     # Adicionar habilidades similares do currículo
     for idx_similar in indices_similares:
         linha_curriculo = curriculo_df_inf.iloc[idx_similar]
-        curriculo_codigo = extrair_codigo(linha_curriculo['OBJETIVO DE APRENDIZAGEM'])
+        curriculo_codigo = extrair_codigo(linha_curriculo['HABILIDADES'])
         
         habilidade_similar = {
             'curriculo_indice': idx_similar + 1,
             'curriculo_codigo': curriculo_codigo,
-            'curriculo_eixo': linha_curriculo['EIXO'],
-            'curriculo_objetivo': linha_curriculo['OBJETIVO DE APRENDIZAGEM'],
-            'curriculo_exemplos': linha_curriculo['EXEMPLOS'],
+            'curriculo_eixo': linha_curriculo['DISCIPLINA'],
+            'curriculo_objetivo': linha_curriculo['HABILIDADES'],
+            'curriculo_exemplos': linha_curriculo['ORIENTACOES_PEDAGOGICAS'],
             'similaridade': similaridades_bncc[idx_similar]
         }
         habilidade_bncc['habilidades_similares'].append(habilidade_similar)
@@ -369,11 +382,11 @@ MAIOR SIMILARIDADE ENCONTRADA: {habilidade['maior_similaridade']:.1%}
             relatorio_txt += f"""
 {i}. CURRÍCULO #{similar['curriculo_indice']} - {similar['curriculo_codigo']} | SIMILARIDADE: {similar['similaridade']:.1%}
    
-   EIXO CURRÍCULO: {similar['curriculo_eixo']}
+   DISCIPLINA: {similar['curriculo_eixo']}
    
-   OBJETIVO CURRÍCULO: {similar['curriculo_objetivo']}
+   HABILIDADE: {similar['curriculo_objetivo']}
    
-   EXEMPLOS CURRÍCULO: {similar['curriculo_exemplos']}
+   ORIENTAÇÕES PEDAGÓGICAS: {similar['curriculo_exemplos']}
    
    {'─' * 50}
 """
@@ -455,20 +468,16 @@ HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
 #                           SALVAMENTO DOS ARQUIVOS
 # ==================================================================================
 
-# ==================================================================================
-#                           SALVAMENTO DOS ARQUIVOS
-# ==================================================================================
-
-# Criar pasta docs/infantil se não existir
-docs_path = os.path.join("docs", "infantil")
+# Criar pasta docs/anos finais se não existir
+docs_path = os.path.join("docs", "anos finais")
 if not os.path.exists(docs_path):
     os.makedirs(docs_path)
     print(f"📁 Pasta '{docs_path}' criada para organizar os relatórios")
 
-nome_relatorio_completo = os.path.join(docs_path, f"infantil_{CONFIGURACOES['PREFIXO_ARQUIVOS']}relatorio_completo.txt")
-nome_relatorio_csv = os.path.join(docs_path, f"infantil_{CONFIGURACOES['PREFIXO_ARQUIVOS']}relatorio.csv")
-nome_resumo = os.path.join(docs_path, f"infantil_{CONFIGURACOES['PREFIXO_ARQUIVOS']}resumo_executivo.txt")
-nome_heatmap = os.path.join(docs_path, f"infantil_{CONFIGURACOES['PREFIXO_ARQUIVOS']}heatmap_similaridade.png")
+nome_relatorio_completo = os.path.join(docs_path, f"anosfinais_{CONFIGURACOES['PREFIXO_ARQUIVOS']}relatorio_completo.txt")
+nome_relatorio_csv = os.path.join(docs_path, f"anosfinais_{CONFIGURACOES['PREFIXO_ARQUIVOS']}relatorio.csv")
+nome_resumo = os.path.join(docs_path, f"anosfinais_{CONFIGURACOES['PREFIXO_ARQUIVOS']}resumo_executivo.txt")
+nome_heatmap = os.path.join(docs_path, f"anosfinais_{CONFIGURACOES['PREFIXO_ARQUIVOS']}heatmap_similaridade.png")
 
 try:
     # Relatório completo em texto
@@ -494,9 +503,9 @@ except Exception as e:
 # Gerar heatmap se configurado
 if CONFIGURACOES['GERAR_HEATMAP']:
     try:
-        # Extrai códigos para usar como índices
-        bncc_codigos = bncc_df_inf['OBJETIVO DE APRENDIZAGEM'].apply(extrair_codigo).tolist()
-        curriculo_codigos = curriculo_df_inf['OBJETIVO DE APRENDIZAGEM'].apply(extrair_codigo).tolist()
+        # Extrai códigos para usar como índices (usando as colunas corretas)
+        bncc_codigos = bncc_df_inf['HABILIDADE'].apply(extrair_codigo).tolist()
+        curriculo_codigos = curriculo_df_inf['HABILIDADES'].apply(extrair_codigo).tolist()
         
         # Cria DataFrame de similaridade
         sim_df = pd.DataFrame(grau_similaridade, 
