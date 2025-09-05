@@ -1,0 +1,52 @@
+
+==================================================================================
+                            RESUMO EXECUTIVO
+==================================================================================
+Data: 2025-09-05 12:59:36
+Nota de corte inicial: 80.0%
+Busca adaptativa: ATIVADA
+Modelo: all-MiniLM-L6-v2
+
+PRINCIPAIS DESCOBERTAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 285 de 285 habilidades da BNCC (100.0%) têm correspondência com nota de corte original ≥ 80.0%
+
+• 285 de 285 habilidades da BNCC (100.0%) têm correspondência usando busca adaptativa
+
+• Nota de corte média usada: 80.0%
+• Nota de corte mínima usada: 80.0%
+
+HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ 1. (EI03ET01) - 66 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 2. (EI03TS01ME01) - 45 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 3. (EI03EF05) - 40 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 4. (EI03EF05ME03) - 40 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 5. (EI03EF05ME04) - 39 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 6. (EI03TS03) - 39 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 7. (EI03EF04ME01) - 37 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 8. (EI03EF04ME02) - 37 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 9. (EI03TS01) - 37 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+10. (EI03TS01ME02) - 37 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+11. (EI03EF05ME01) - 36 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+12. (EI03EF06ME01) - 36 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+13. (EI02TS01) - 36 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+14. (EI03EF06ME03) - 35 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+15. (EI03EF03ME01) - 34 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A

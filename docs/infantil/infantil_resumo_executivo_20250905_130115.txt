@@ -1,0 +1,52 @@
+
+==================================================================================
+                            RESUMO EXECUTIVO
+==================================================================================
+Data: 2025-09-05 13:01:15
+Nota de corte inicial: 95.0%
+Busca adaptativa: ATIVADA
+Modelo: all-MiniLM-L6-v2
+
+PRINCIPAIS DESCOBERTAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 285 de 285 habilidades da BNCC (100.0%) têm correspondência com nota de corte original ≥ 95.0%
+
+• 285 de 285 habilidades da BNCC (100.0%) têm correspondência usando busca adaptativa
+
+• Nota de corte média usada: 95.0%
+• Nota de corte mínima usada: 95.0%
+
+HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ 1. (EI03ET01) - 18 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 2. (EI03EF09ME03) - 15 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 3. (EI03EF09ME05) - 15 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 4. (EI03EF09ME06) - 13 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 5. (EI03EF09ME04) - 12 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 6. (EI03EF09ME07) - 11 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 7. (EI03EF05) - 10 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 8. (EI03EF05ME01) - 10 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+ 9. (EI03EF05ME02) - 10 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+10. (EI03EF05ME03) - 10 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+11. (EI03EF05ME04) - 10 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+12. (EI03EF09ME02) - 10 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+13. (EI03TS01ME01) - 9 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+14. (EI03EF09ME09) - 8 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A
+15. (EI03EF06) - 7 correspondências (máx: 100.0%)
+    Nota de corte usada: N/A

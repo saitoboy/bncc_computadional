@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparador BNCC x Currículo Municipal</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            padding: 40px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+            font-size: 2.2rem;
+        }
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 40px;
+            font-size: 1.1rem;
+        }
+        .upload-area {
+            border: 3px dashed #667eea;
+            border-radius: 10px;
+            padding: 40px;
+            text-align: center;
+            background: #f8f9ff;
+            margin-bottom: 30px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        .upload-area:hover {
+            border-color: #764ba2;
+            background: #f0f2ff;
+        }
+        .upload-area.dragover {
+            border-color: #4CAF50;
+            background: #e8f5e8;
+        }
+        .upload-icon {
+            font-size: 3rem;
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+        .form-group {
+            margin-bottom: 25px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+        }
+        select, input[type="range"] {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e1e5e9;
+            border-radius: 8px;
+            font-size: 1rem;
+            transition: border-color 0.3s ease;
+        }
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        .range-container {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .range-value {
+            background: #667eea;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-weight: 600;
+            min-width: 60px;
+            text-align: center;
+        }
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            border-radius: 50px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            width: 100%;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+        }
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+        .alert {
+            padding: 12px 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .alert-error {
+            background: #fee;
+            border: 1px solid #fcc;
+            color: #c66;
+        }
+        .file-info {
+            margin-top: 15px;
+            padding: 10px;
+            background: #e8f5e8;
+            border-radius: 5px;
+            font-size: 0.9rem;
+            color: #2e7d32;
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 15px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        /* Estilos para Templates */
+        .templates-section {
+            margin-bottom: 40px;
+        }
+        .templates-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .template-card {
+            background: linear-gradient(135deg, #f8f9ff 0%, #e8f2ff 100%);
+            border: 2px solid #e1e8ff;
+            border-radius: 12px;
+            padding: 25px;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .template-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.2);
+            border-color: #667eea;
+        }
+        .template-icon {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+        .template-card h3 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 1.2rem;
+        }
+        .template-card p {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 20px;
+            line-height: 1.4;
+        }
+        .template-btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .template-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        .template-divider {
+            height: 2px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 1px;
+            margin: 30px 0;
+            opacity: 0.3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎯 Comparador BNCC x Currículo</h1>
+        <p class="subtitle">Arraste seu arquivo de currículo municipal e compare com a BNCC usando IA</p>
+
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                {% for message in messages %}
+                    <div class="alert alert-error">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <!-- Seção de Templates -->
+        <div class="templates-section">
+            <h2 style="color: #333; margin-bottom: 20px; text-align: center;">📋 Templates de Currículo</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 30px;">
+                Baixe o template do seu segmento, preencha com o currículo municipal e envie para análise
+            </p>
+            
+            <div class="templates-grid">
+                <div class="template-card">
+                    <div class="template-icon">🎨</div>
+                    <h3>Educação Infantil</h3>
+                    <p>Template para currículos da Educação Infantil com campos de experiência da BNCC</p>
+                    <a href="/download_template/infantil" class="template-btn">📥 Baixar Template</a>
+                </div>
+                
+                <div class="template-card">
+                    <div class="template-icon">📚</div>
+                    <h3>Anos Iniciais</h3>
+                    <p>Template para currículos do 1º ao 5º ano com disciplinas e habilidades da BNCC</p>
+                    <a href="/download_template/anos_iniciais" class="template-btn">📥 Baixar Template</a>
+                </div>
+                
+                <div class="template-card">
+                    <div class="template-icon">🎓</div>
+                    <h3>Anos Finais</h3>
+                    <p>Template para currículos do 6º ao 9º ano com disciplinas e habilidades da BNCC</p>
+                    <a href="/download_template/anos_finais" class="template-btn">📥 Baixar Template</a>
+                </div>
+            </div>
+            
+            <div class="template-divider"></div>
+        </div>
+
+        <form id="uploadForm" action="/process" method="post" enctype="multipart/form-data">
+            <div class="upload-area" id="uploadArea">
+                <div class="upload-icon">📁</div>
+                <h3>Envie seu arquivo de currículo preenchido</h3>
+                <p>Formatos aceitos: .xlsx, .xls, .csv</p>
+                <input type="file" id="fileInput" name="file" accept=".xlsx,.xls,.csv" style="display: none;" required>
+                <div id="fileInfo" class="file-info" style="display: none;"></div>
+            </div>
+
+            <div class="form-group">
+                <label for="segment">Segmento para comparação:</label>
+                <select id="segment" name="segment" required>
+                    <option value="">Selecione o segmento...</option>
+                    <option value="infantil">Educação Infantil</option>
+                    <option value="anos iniciais">Anos Iniciais (1º ao 5º ano)</option>
+                    <option value="anos finais">Anos Finais (6º ao 9º ano)</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="nota_corte">Nota de corte inicial (similaridade mínima):</label>
+                <div class="range-container">
+                    <input type="range" id="nota_corte" name="nota_corte" min="0.5" max="0.95" step="0.05" value="0.8">
+                    <span class="range-value" id="rangeValue">80%</span>
+                </div>
+                <small style="color: #666; margin-top: 5px; display: block;">
+                    💡 A busca adaptativa garantirá pelo menos uma correspondência por habilidade, mesmo abaixo desta nota.
+                </small>
+            </div>
+
+            <button type="submit" class="btn" id="submitBtn">
+                🚀 Analisar Similaridade
+            </button>
+
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Processando análise de similaridade...<br>Isso pode levar alguns minutos.</p>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        // Drag and drop functionality
+        const uploadArea = document.getElementById('uploadArea');
+        const fileInput = document.getElementById('fileInput');
+        const fileInfo = document.getElementById('fileInfo');
+        const form = document.getElementById('uploadForm');
+        const submitBtn = document.getElementById('submitBtn');
+        const loading = document.getElementById('loading');
+
+        // Range slider
+        const rangeSlider = document.getElementById('nota_corte');
+        const rangeValue = document.getElementById('rangeValue');
+        
+        rangeSlider.addEventListener('input', function() {
+            rangeValue.textContent = Math.round(this.value * 100) + '%';
+        });
+
+        // Upload area click
+        uploadArea.addEventListener('click', () => fileInput.click());
+
+        // Drag events
+        uploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadArea.classList.add('dragover');
+        });
+
+        uploadArea.addEventListener('dragleave', () => {
+            uploadArea.classList.remove('dragover');
+        });
+
+        uploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadArea.classList.remove('dragover');
+            
+            const files = e.dataTransfer.files;
+            if (files.length > 0) {
+                fileInput.files = files;
+                showFileInfo(files[0]);
+            }
+        });
+
+        // File input change
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                showFileInfo(e.target.files[0]);
+            }
+        });
+
+        // Show file info
+        function showFileInfo(file) {
+            const sizeStr = (file.size / 1024 / 1024).toFixed(2);
+            fileInfo.innerHTML = `
+                <strong>✅ Arquivo selecionado:</strong><br>
+                📄 ${file.name}<br>
+                📏 ${sizeStr} MB
+            `;
+            fileInfo.style.display = 'block';
+        }
+
+        // Form submission
+        form.addEventListener('submit', (e) => {
+            submitBtn.disabled = true;
+            submitBtn.textContent = '⏳ Processando...';
+            loading.style.display = 'block';
+        });
+    </script>
+</body>
+</html>

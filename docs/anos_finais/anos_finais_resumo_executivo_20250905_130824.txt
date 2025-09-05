@@ -1,0 +1,52 @@
+
+==================================================================================
+                            RESUMO EXECUTIVO
+==================================================================================
+Data: 2025-09-05 13:08:24
+Nota de corte inicial: 95.0%
+Busca adaptativa: ATIVADA
+Modelo: all-MiniLM-L6-v2
+
+PRINCIPAIS DESCOBERTAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 0 de 54 habilidades da BNCC (0.0%) têm correspondência com nota de corte original ≥ 95.0%
+
+• 54 de 54 habilidades da BNCC (100.0%) têm correspondência usando busca adaptativa
+
+• Nota de corte média usada: 68.6%
+• Nota de corte mínima usada: 54.0%
+
+HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ 1. (EF69CO03) - 10 correspondências (máx: 70.7%)
+    Nota de corte usada: N/A
+ 2. (EF69CO01) - 8 correspondências (máx: 69.9%)
+    Nota de corte usada: N/A
+ 3. (EF69CO07) - 7 correspondências (máx: 72.0%)
+    Nota de corte usada: N/A
+ 4. (EF08CO01) - 6 correspondências (máx: 67.9%)
+    Nota de corte usada: N/A
+ 5. (EF09CO07) - 6 correspondências (máx: 69.0%)
+    Nota de corte usada: N/A
+ 6. (EF69CO09) - 5 correspondências (máx: 77.9%)
+    Nota de corte usada: N/A
+ 7. (EF08CO02) - 5 correspondências (máx: 71.0%)
+    Nota de corte usada: N/A
+ 8. (EF69CO02) - 4 correspondências (máx: 70.6%)
+    Nota de corte usada: N/A
+ 9. (EF69CO05) - 4 correspondências (máx: 70.5%)
+    Nota de corte usada: N/A
+10. (EF69CO08) - 4 correspondências (máx: 66.3%)
+    Nota de corte usada: N/A
+11. (EF69CO10) - 4 correspondências (máx: 70.7%)
+    Nota de corte usada: N/A
+12. (EF07CO02) - 4 correspondências (máx: 61.9%)
+    Nota de corte usada: N/A
+13. (EF09CO03) - 4 correspondências (máx: 55.0%)
+    Nota de corte usada: N/A
+14. (EF09CO04) - 4 correspondências (máx: 56.3%)
+    Nota de corte usada: N/A
+15. (EF07CO07) - 3 correspondências (máx: 60.5%)
+    Nota de corte usada: N/A
