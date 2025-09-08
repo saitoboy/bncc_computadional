@@ -1,0 +1,13 @@
+﻿bncc_indice,bncc_codigo,bncc_objetivo,curriculo_indice,curriculo_codigo,similaridade
+1,(EI03CO01),"(EI03CO01) Reconhecer padrão de repetição em sequência de sons, movimentos, desenhos.",128,(EI03ET02ME02),0.5558226
+2,(EI03CO02),(EI03CO02) Expressar as etapas para a realização de uma tarefa de forma clara e ordenada.,211,(EI02EO02),0.61649364
+3,(EI03CO03),(EI03CO03) Experienciar a execução de algoritmos brincando com objetos (des)plugados.,169,(EI01EF07),0.6634852
+4,(EI03CO04),(EI03CO04) Criar e representar algoritmos para resolver problemas.,39,(EI03EF09ME05),0.6614473
+5,(EI03CO05),(EI03CO05) Comparar soluções algorítmicas para resolver um mesmo problema.,125,(EI03ET01ME02),0.61142
+6,(EI03CO06),(EI03CO06) Compreender decisões em dois estados (verdadeiro ou falso).,235,(EI02EF07ME01),0.71562505
+7,(EI03CO07),"(EI03CO07) Reconhecer dispositivos eletrônicos (e não-eletrônicos), identificando quando estão ligados ou desligados (abertos ou fechados).",154,(EI03TS02),0.687295
+8,(EI03CO08),(EI03CO08) Compreender o conceito de interfaces para comunicação com objetos (des)plugados.,169,(EI01EF07),0.6650946
+9,(EI03CO09),(EI03CO09) Identificar dispositivos computacionais e as diferentes formas de interação.,169,(EI01EF07),0.70202065
+10,(EI03CO10),"(EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.",71,(EI03EO06),0.62984526
+10,(EI03CO10),"(EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.",72,(EI03EO06ME01),0.62718874
+11,(EI03CO11),"(EI03CO11) Adotar hábitos saudáveis de uso de artefatos computacionais, seguindo recomendações de órgãos de saúde competentes.",130,(EI03ET03ME01),0.64485645
