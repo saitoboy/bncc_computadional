@@ -1,0 +1,139 @@
+﻿bncc_indice,bncc_codigo,bncc_objetivo,curriculo_indice,curriculo_codigo,similaridade
+1,(EF69CO01),"(EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.",1221,(EF69LP32),0.6991616
+1,(EF69CO01),"(EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.",1328,(EF69LP32),0.6900617
+2,(EF69CO02),"(EF69CO02) Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação.",98,(EF07LI06),0.7058561
+2,(EF69CO02),"(EF69CO02) Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação.",1549,(EF69LP42B),0.70008373
+3,(EF69CO03),"(EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",1540,(EF89LP29AX),0.70725965
+3,(EF69CO03),"(EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",342,(EF89LP29AX),0.7007293
+3,(EF69CO03),"(EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",343,(EF89LP29AX),0.7007293
+3,(EF69CO03),"(EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",1287,(EF89LP29AX),0.7007293
+3,(EF69CO03),"(EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",1444,(EF89LP29AX),0.7007293
+4,(EF69CO04),(EF69CO04) Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluções usando uma linguagem de programação.,893,(EF67EF05P2),0.7117944
+5,(EF69CO05),"(EF69CO05) Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados, e estabelecendo a definição de problema como uma relação entre entrada e saída.",1504,(EF89LP16),0.70545363
+5,(EF69CO05),"(EF69CO05) Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados, e estabelecendo a definição de problema como uma relação entre entrada e saída.",57,(EF06MA03X),0.70413816
+6,(EF69CO06),"(EF69CO06) Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando as semelhanças e diferenças entre eles, e criar um algoritmo para resolver todos, fazendo uso de variáveis (parâmetros) para permitir o tratamento de todos os casos de forma genérica.",57,(EF06MA03X),0.6959063
+7,(EF69CO07),"(EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",1555,(EF69LP35BX),0.7198254
+7,(EF69CO07),"(EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",1251,(EF69LP39BX),0.7165139
+7,(EF69CO07),"(EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",1405,(EF69LP39BX),0.7165139
+7,(EF69CO07),"(EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",1284,(EF89LP02),0.7100324
+7,(EF69CO07),"(EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",1373,(EF89LP02),0.7100324
+7,(EF69CO07),"(EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",1492,(EF89LP02),0.7100324
+8,(EF69CO08),"(EF69CO08) Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados.",146,(EF67LP36),0.6630898
+8,(EF69CO08),"(EF69CO08) Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados.",147,(EF67LP36),0.6630898
+9,(EF69CO09),"(EF69CO09) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.",1284,(EF89LP02),0.77882457
+9,(EF69CO09),"(EF69CO09) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.",1373,(EF89LP02),0.77882457
+9,(EF69CO09),"(EF69CO09) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.",1492,(EF89LP02),0.77882457
+10,(EF69CO10),(EF69CO10) Entender como é a estrutura e funcionamento da internet.,1284,(EF89LP02),0.70658094
+10,(EF69CO10),(EF69CO10) Entender como é a estrutura e funcionamento da internet.,1373,(EF89LP02),0.70658094
+10,(EF69CO10),(EF69CO10) Entender como é a estrutura e funcionamento da internet.,1492,(EF89LP02),0.70658094
+11,(EF07CO01),(EF07CO01) Criar soluções de problemas para os quais seja adequado o uso de registros e matrizes unidimensionais para descrever suas informações e automatizá-las usando uma linguagem de programação.,1251,(EF69LP39BX),0.6804288
+11,(EF07CO01),(EF07CO01) Criar soluções de problemas para os quais seja adequado o uso de registros e matrizes unidimensionais para descrever suas informações e automatizá-las usando uma linguagem de programação.,1405,(EF69LP39BX),0.6804288
+12,(EF07CO02),"(EF07CO02) Analisar programas para detectar e remover erros, ampliando a confiança na sua correção.",1273,(EF69LP01C),0.6194991
+12,(EF07CO02),"(EF07CO02) Analisar programas para detectar e remover erros, ampliando a confiança na sua correção.",1368,(EF69LP01C),0.6194991
+12,(EF07CO02),"(EF07CO02) Analisar programas para detectar e remover erros, ampliando a confiança na sua correção.",1430,(EF69LP01C),0.6194991
+12,(EF07CO02),"(EF07CO02) Analisar programas para detectar e remover erros, ampliando a confiança na sua correção.",1482,(EF69LP01C),0.6194991
+13,(EF07CO03),"(EF07CO03) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.",818,(EF06CI18ME),0.6527183
+14,(EF07CO04),(EF07CO04) Explorar propriedades básicas de grafos.,75,(EF06MA31X),0.66136783
+15,(EF07CO05),(EF07CO05) Criar algoritmos fazendo uso da decomposição e do reúso no processo de solução de forma colaborativa e cooperativa e automatizá-los usando uma linguagem de programação.,1540,(EF89LP29AX),0.6906263
+16,(EF07CO06),(EF07CO06) Compreender o papel de protocolos para a transmissão de dados.,1251,(EF69LP39BX),0.60179543
+16,(EF07CO06),(EF07CO06) Compreender o papel de protocolos para a transmissão de dados.,1405,(EF69LP39BX),0.60179543
+17,(EF07CO07),(EF07CO07) Identificar problemas de segurança cibernética e experimentar formas de proteção.,1284,(EF89LP02),0.6052376
+17,(EF07CO07),(EF07CO07) Identificar problemas de segurança cibernética e experimentar formas de proteção.,1373,(EF89LP02),0.6052376
+17,(EF07CO07),(EF07CO07) Identificar problemas de segurança cibernética e experimentar formas de proteção.,1492,(EF89LP02),0.6052376
+18,(EF07CO08),(EF07CO08) Demonstrar empatia sobre opiniões divergentes na web.,1284,(EF89LP02),0.7394421
+18,(EF07CO08),(EF07CO08) Demonstrar empatia sobre opiniões divergentes na web.,1373,(EF89LP02),0.7394421
+18,(EF07CO08),(EF07CO08) Demonstrar empatia sobre opiniões divergentes na web.,1492,(EF89LP02),0.7394421
+19,(EF07CO09),(EF07CO09) Reconhecer e debater sobre cyberbullying.,1284,(EF89LP02),0.5592668
+19,(EF07CO09),(EF07CO09) Reconhecer e debater sobre cyberbullying.,1373,(EF89LP02),0.5592668
+19,(EF07CO09),(EF07CO09) Reconhecer e debater sobre cyberbullying.,1492,(EF89LP02),0.5592668
+20,(EF07CO10),"(EF07CO10) Identificar os impactos ambientais do descarte de peças de computadores e eletrônicos, bem como sua relação com a sustentabilidade",175,(EF07CI03A),0.67698556
+21,(EF07CO11),"(EF07CO11) Criar, documentar e publicar, de forma individual ou colaborativa, produtos (vídeos, podcasts, web sites) usando recursos de tecnologia.",1284,(EF89LP02),0.70081973
+21,(EF07CO11),"(EF07CO11) Criar, documentar e publicar, de forma individual ou colaborativa, produtos (vídeos, podcasts, web sites) usando recursos de tecnologia.",1373,(EF89LP02),0.70081973
+21,(EF07CO11),"(EF07CO11) Criar, documentar e publicar, de forma individual ou colaborativa, produtos (vídeos, podcasts, web sites) usando recursos de tecnologia.",1492,(EF89LP02),0.70081973
+22,(EF08CO01),(EF08CO01) Construir soluções de problemas usando a técnica de recursão e automatizar tais soluções usando uma linguagem de programação.,1540,(EF89LP29AX),0.67932177
+22,(EF08CO01),(EF08CO01) Construir soluções de problemas usando a técnica de recursão e automatizar tais soluções usando uma linguagem de programação.,580,(EF89LP29AX),0.67068434
+22,(EF08CO01),(EF08CO01) Construir soluções de problemas usando a técnica de recursão e automatizar tais soluções usando uma linguagem de programação.,342,(EF89LP29AX),0.6706544
+22,(EF08CO01),(EF08CO01) Construir soluções de problemas usando a técnica de recursão e automatizar tais soluções usando uma linguagem de programação.,343,(EF89LP29AX),0.6706544
+22,(EF08CO01),(EF08CO01) Construir soluções de problemas usando a técnica de recursão e automatizar tais soluções usando uma linguagem de programação.,1287,(EF89LP29AX),0.6706544
+22,(EF08CO01),(EF08CO01) Construir soluções de problemas usando a técnica de recursão e automatizar tais soluções usando uma linguagem de programação.,1444,(EF89LP29AX),0.6706544
+23,(EF08CO02),"(EF08CO02) Criar soluções de problemas para os quais seja adequado o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação, empregando ou não a recursão como uma técnica de resolver o problema.",1540,(EF89LP29AX),0.70985985
+23,(EF08CO02),"(EF08CO02) Criar soluções de problemas para os quais seja adequado o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação, empregando ou não a recursão como uma técnica de resolver o problema.",342,(EF89LP29AX),0.7003332
+23,(EF08CO02),"(EF08CO02) Criar soluções de problemas para os quais seja adequado o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação, empregando ou não a recursão como uma técnica de resolver o problema.",343,(EF89LP29AX),0.7003332
+23,(EF08CO02),"(EF08CO02) Criar soluções de problemas para os quais seja adequado o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação, empregando ou não a recursão como uma técnica de resolver o problema.",1287,(EF89LP29AX),0.7003332
+23,(EF08CO02),"(EF08CO02) Criar soluções de problemas para os quais seja adequado o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação, empregando ou não a recursão como uma técnica de resolver o problema.",1444,(EF89LP29AX),0.7003332
+24,(EF08CO03),(EF08CO03) Utilizar algoritmos clássicos de manipulação sobre listas.,818,(EF06CI18ME),0.5738753
+25,(EF08CO04),"(EF08CO04) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.",924,(EF89EF03P4),0.6530129
+26,(EF08CO05),"(EF08CO05) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.",934,(EF89EF16),0.73129636
+26,(EF08CO05),"(EF08CO05) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.",423,(EF09HI06),0.7305007
+27,(EF08CO06),(EF08CO06) Entender como é a estrutura e funcionamento da internet.,970,(EF06GE14MEX),0.6826413
+28,(EF08CO07),"(EF08CO07) Compartilhar informações por meio de redes sociais, compreendendo a sua dinâmica de funcionamento, de forma responsável e avaliando sua confiabilidade, considerando o respeito e a ética.",1284,(EF89LP02),0.8045405
+28,(EF08CO07),"(EF08CO07) Compartilhar informações por meio de redes sociais, compreendendo a sua dinâmica de funcionamento, de forma responsável e avaliando sua confiabilidade, considerando o respeito e a ética.",1373,(EF89LP02),0.8045405
+28,(EF08CO07),"(EF08CO07) Compartilhar informações por meio de redes sociais, compreendendo a sua dinâmica de funcionamento, de forma responsável e avaliando sua confiabilidade, considerando o respeito e a ética.",1492,(EF89LP02),0.8045405
+29,(EF08CO08),(EF08CO08) Distinguir os tipos de dados pessoais que são solicitados em espaços digitais e os riscos associados.,1284,(EF89LP02),0.7115253
+29,(EF08CO08),(EF08CO08) Distinguir os tipos de dados pessoais que são solicitados em espaços digitais e os riscos associados.,1373,(EF89LP02),0.7115253
+29,(EF08CO08),(EF08CO08) Distinguir os tipos de dados pessoais que são solicitados em espaços digitais e os riscos associados.,1492,(EF89LP02),0.7115253
+30,(EF08CO09),(EF08CO09) Analisar criticamente as políticas de termos de uso das redes sociais e demais plataformas.,1284,(EF89LP02),0.7457252
+30,(EF08CO09),(EF08CO09) Analisar criticamente as políticas de termos de uso das redes sociais e demais plataformas.,1373,(EF89LP02),0.7457252
+30,(EF08CO09),(EF08CO09) Analisar criticamente as políticas de termos de uso das redes sociais e demais plataformas.,1492,(EF89LP02),0.7457252
+31,(EF08CO10),(EF08CO10) Discutir questões sobre segurança e privacidade relacionadas ao uso dos ambientes virtuais.,1284,(EF89LP02),0.73692346
+31,(EF08CO10),(EF08CO10) Discutir questões sobre segurança e privacidade relacionadas ao uso dos ambientes virtuais.,1373,(EF89LP02),0.73692346
+31,(EF08CO10),(EF08CO10) Discutir questões sobre segurança e privacidade relacionadas ao uso dos ambientes virtuais.,1492,(EF89LP02),0.73692346
+32,(EF08CO11),"(EF08CO11) Avaliar a precisão, relevância, adequação, abrangência e vieses que ocorrem em fontes de informação eletrônica",1284,(EF89LP02),0.7612167
+32,(EF08CO11),"(EF08CO11) Avaliar a precisão, relevância, adequação, abrangência e vieses que ocorrem em fontes de informação eletrônica",1373,(EF89LP02),0.7612167
+32,(EF08CO11),"(EF08CO11) Avaliar a precisão, relevância, adequação, abrangência e vieses que ocorrem em fontes de informação eletrônica",1492,(EF89LP02),0.7612167
+33,(EF09CO01),(EF09CO01) Criar soluções de problemas para os quais seja adequado o uso de árvores e grafos para descrever suas informações e automatizá-las usando uma linguagem de programação.,1160,(EF67LP25),0.7395433
+34,(EF09CO02),"(EF09CO02) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.",818,(EF06CI18ME),0.6550981
+35,(EF09CO03),(EF09CO03) Usar autômatos para descrever comportamentos de forma abstrata automatizando-os através de uma linguagem de programação baseada em eventos.,98,(EF07LI06),0.5498949
+35,(EF09CO03),(EF09CO03) Usar autômatos para descrever comportamentos de forma abstrata automatizando-os através de uma linguagem de programação baseada em eventos.,1548,(EF69LP42AX),0.5480921
+35,(EF09CO03),(EF09CO03) Usar autômatos para descrever comportamentos de forma abstrata automatizando-os através de uma linguagem de programação baseada em eventos.,1205,(EF67LP10A),0.54800475
+35,(EF09CO03),(EF09CO03) Usar autômatos para descrever comportamentos de forma abstrata automatizando-os através de uma linguagem de programação baseada em eventos.,1204,(EF67LP09X),0.54401857
+36,(EF09CO04),(EF09CO04) Compreender o funcionamento de malwares e outros ataques cibernéticos.,589,(EF89LP37),0.56283617
+36,(EF09CO04),(EF09CO04) Compreender o funcionamento de malwares e outros ataques cibernéticos.,590,(EF89LP37),0.56283617
+36,(EF09CO04),(EF09CO04) Compreender o funcionamento de malwares e outros ataques cibernéticos.,591,(EF89LP37),0.56283617
+36,(EF09CO04),(EF09CO04) Compreender o funcionamento de malwares e outros ataques cibernéticos.,592,(EF89LP37),0.56283605
+37,(EF09CO05),(EF09CO05) Analisar técnicas de criptografia para armazenamento e transmissão de dados.,1214,(EF69LP09),0.67168915
+38,(EF09CO06),"(EF09CO06) Analisar problemas sociais de sua cidade e estado a partir de ambientes digitais, propondo soluções.",1284,(EF89LP02),0.65737224
+38,(EF09CO06),"(EF09CO06) Analisar problemas sociais de sua cidade e estado a partir de ambientes digitais, propondo soluções.",1373,(EF89LP02),0.65737224
+38,(EF09CO06),"(EF09CO06) Analisar problemas sociais de sua cidade e estado a partir de ambientes digitais, propondo soluções.",1492,(EF89LP02),0.65737224
+39,(EF09CO07),"(EF09CO07) Avaliar aplicações e implicações políticas, socioambientais e culturais das tecnologias digitais para propor alternativas aos desafios do mundo contemporâneo, incluindo aqueles relativos ao mundo do trabalho.",1284,(EF89LP02),0.6896926
+39,(EF09CO07),"(EF09CO07) Avaliar aplicações e implicações políticas, socioambientais e culturais das tecnologias digitais para propor alternativas aos desafios do mundo contemporâneo, incluindo aqueles relativos ao mundo do trabalho.",1373,(EF89LP02),0.6896926
+39,(EF09CO07),"(EF09CO07) Avaliar aplicações e implicações políticas, socioambientais e culturais das tecnologias digitais para propor alternativas aos desafios do mundo contemporâneo, incluindo aqueles relativos ao mundo do trabalho.",1492,(EF89LP02),0.6896926
+39,(EF09CO07),"(EF09CO07) Avaliar aplicações e implicações políticas, socioambientais e culturais das tecnologias digitais para propor alternativas aos desafios do mundo contemporâneo, incluindo aqueles relativos ao mundo do trabalho.",831,(EF06CI26ME),0.6878741
+39,(EF09CO07),"(EF09CO07) Avaliar aplicações e implicações políticas, socioambientais e culturais das tecnologias digitais para propor alternativas aos desafios do mundo contemporâneo, incluindo aqueles relativos ao mundo do trabalho.",824,(EF06CI10X),0.6832776
+39,(EF09CO07),"(EF09CO07) Avaliar aplicações e implicações políticas, socioambientais e culturais das tecnologias digitais para propor alternativas aos desafios do mundo contemporâneo, incluindo aqueles relativos ao mundo do trabalho.",178,(EF07CI06),0.6812371
+40,(EF09CO08),"(EF09CO08) Discutir como a distribuição desigual de recursos de computação em uma economia global levanta questões de equidade, acesso e poder.",1284,(EF89LP02),0.75231767
+40,(EF09CO08),"(EF09CO08) Discutir como a distribuição desigual de recursos de computação em uma economia global levanta questões de equidade, acesso e poder.",1373,(EF89LP02),0.75231767
+40,(EF09CO08),"(EF09CO08) Discutir como a distribuição desigual de recursos de computação em uma economia global levanta questões de equidade, acesso e poder.",1492,(EF89LP02),0.75231767
+41,(EF09CO09),"(EF09CO09) Criar ou utilizar conteúdo em meio digital, compreendendo questões éticas relacionadas a direitos autorais e de uso de imagem.",1284,(EF89LP02),0.68349266
+41,(EF09CO09),"(EF09CO09) Criar ou utilizar conteúdo em meio digital, compreendendo questões éticas relacionadas a direitos autorais e de uso de imagem.",1373,(EF89LP02),0.68349266
+41,(EF09CO09),"(EF09CO09) Criar ou utilizar conteúdo em meio digital, compreendendo questões éticas relacionadas a direitos autorais e de uso de imagem.",1492,(EF89LP02),0.68349266
+42,(EF09CO10),"(EF09CO10) Avaliar a veracidade, credibilidade e relevância da informação em seus diferentes formatos, sendo capaz de identificar o propósito pelo qual foi disseminada.",1284,(EF89LP02),0.81197476
+42,(EF09CO10),"(EF09CO10) Avaliar a veracidade, credibilidade e relevância da informação em seus diferentes formatos, sendo capaz de identificar o propósito pelo qual foi disseminada.",1373,(EF89LP02),0.81197476
+42,(EF09CO10),"(EF09CO10) Avaliar a veracidade, credibilidade e relevância da informação em seus diferentes formatos, sendo capaz de identificar o propósito pelo qual foi disseminada.",1492,(EF89LP02),0.81197476
+43,(EF69CO01),"(EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.",1554,(EF69LP35A),0.6783378
+43,(EF69CO01),"(EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.",1455,(EF89LP08A),0.67737794
+43,(EF69CO01),"(EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.",1456,(EF89LP08B),0.674985
+43,(EF69CO01),"(EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.",1299,(EF89LP08A),0.6745584
+43,(EF69CO01),"(EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.",1209,(EF67LP13BX),0.6718824
+43,(EF69CO01),"(EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.",285,(EF69LP34B),0.67158127
+44,(EF69CO02),"(EF69CO02) Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação.",98,(EF07LI06),0.7058561
+44,(EF69CO02),"(EF69CO02) Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação.",1549,(EF69LP42B),0.70008373
+45,(EF69CO03),"(EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",1540,(EF89LP29AX),0.70725965
+45,(EF69CO03),"(EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",342,(EF89LP29AX),0.7007293
+45,(EF69CO03),"(EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",343,(EF89LP29AX),0.7007293
+45,(EF69CO03),"(EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",1287,(EF89LP29AX),0.7007293
+45,(EF69CO03),"(EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",1444,(EF89LP29AX),0.7007293
+46,(EF69CO04),(EF69CO04) Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluções usando uma linguagem de programação.,893,(EF67EF05P2),0.7117944
+47,(EF69CO05),"(EF69CO05) Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados, e estabelecendo a definição de problema como uma relação entre entrada e saída.",1504,(EF89LP16),0.70545363
+47,(EF69CO05),"(EF69CO05) Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados, e estabelecendo a definição de problema como uma relação entre entrada e saída.",57,(EF06MA03X),0.70413816
+48,(EF69CO06),"(EF69CO06) Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando as semelhanças e diferenças entre eles, e criar um algoritmo para resolver todos, fazendo uso de variáveis (parâmetros) para permitir o tratamento de todos os casos de forma genérica.",57,(EF06MA03X),0.6959063
+49,(EF69CO07),"(EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",1555,(EF69LP35BX),0.72026396
+50,(EF69CO08),"(EF69CO08) Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados.",146,(EF67LP36),0.6630898
+50,(EF69CO08),"(EF69CO08) Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados.",147,(EF67LP36),0.6630898
+51,(EF69CO09),"(EF69CO09) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.",423,(EF09HI06),0.72973675
+51,(EF69CO09),"(EF69CO09) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.",934,(EF89EF16),0.72953665
+52,(EF69CO10),(EF69CO10) Entender como é a estrutura e funcionamento da internet,970,(EF06GE14MEX),0.68974435
+53,(EF69CO11),"(EF69CO11) Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considerando a ética e o respeito.",1284,(EF89LP02),0.7784438
+53,(EF69CO11),"(EF69CO11) Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considerando a ética e o respeito.",1373,(EF89LP02),0.7784438
+53,(EF69CO11),"(EF69CO11) Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considerando a ética e o respeito.",1492,(EF89LP02),0.7784438
+54,(EF69CO12),"(EF69CO12) Analisar o consumo de tecnologia na sociedade, compreendendo criticamente o caminho da produção dos recursos bem como aspectos ligados à obsolescência e a sustentabilidade.",880,(EF67EF02),0.7101122
