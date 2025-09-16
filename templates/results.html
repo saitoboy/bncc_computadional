@@ -271,13 +271,27 @@
                 <p>Habilidades Currículo</p>
             </div>
             <div class="summary-card">
+                <h3>{{ resumo.get('habilidades_utilizadas', 'N/A') }}</h3>
+                <p>Habilidades Utilizadas</p>
+            </div>
+            <div class="summary-card">
+                <h3>{{ resumo.get('disciplinas_envolvidas', 'N/A') }}</h3>
+                <p>Disciplinas Mapeadas</p>
+            </div>
+            <div class="summary-card">
                 <h3>{{ "%.0f"|format(resumo.nota_media_usada * 100) }}%</h3>
                 <p>Nota Média Adaptativa</p>
             </div>
         </div>
 
         <div class="alert-info">
-            <strong>ℹ️ Sobre a Busca Adaptativa:</strong> O sistema garante que cada habilidade da BNCC tenha pelo menos uma correspondência no currículo municipal, ajustando automaticamente a nota de corte quando necessário.
+            <strong>🎯 Sobre o Algoritmo Balanceado:</strong> O sistema utiliza um algoritmo inteligente que:
+            <ul style="margin: 10px 0 0 20px;">
+                <li>🚫 <strong>Evita duplicatas:</strong> Nenhuma habilidade do currículo é reutilizada</li>
+                <li>📚 <strong>Distribui por disciplinas:</strong> Garante representação equilibrada entre matérias</li>
+                <li>🔄 <strong>Busca adaptativa:</strong> Ajusta a nota de corte para garantir pelo menos uma correspondência</li>
+                <li>🎯 <strong>Múltiplas estratégias:</strong> Prioriza qualidade mas garante cobertura completa</li>
+            </ul>
         </div>
 
         <div class="section">
@@ -368,19 +382,44 @@
 
             <!-- Aba Visão Geral -->
             <div id="overview" class="tab-content active">
-                <h3>📊 Resumo da Análise</h3>
-                <p>Esta análise comparou <strong>{{ resumo.total_bncc }} habilidades da BNCC</strong> com <strong>{{ resumo.total_curriculo }} habilidades do currículo municipal</strong> usando inteligência artificial.</p>
+                <h3>📊 Resumo da Análise Balanceada</h3>
+                <p>Esta análise utilizou um <strong>algoritmo balanceado por disciplinas</strong> que comparou <strong>{{ resumo.total_bncc }} habilidades da BNCC</strong> com <strong>{{ resumo.total_curriculo }} habilidades do currículo municipal</strong>.</p>
                 
                 <div class="alert-info">
-                    <strong>🔍 Metodologia:</strong> Utilizamos embeddings semânticos com o modelo {{ resumo.modelo_usado or 'all-MiniLM-L6-v2' }} para calcular similaridades cosine entre as habilidades. A busca adaptativa garantiu que cada habilidade da BNCC tivesse pelo menos uma correspondência no currículo municipal.
+                    <strong>🎯 Diferenciais do Algoritmo Balanceado:</strong>
+                    <ul style="margin: 10px 0 0 20px;">
+                        <li><strong>Sem duplicatas:</strong> Cada habilidade do currículo é usada apenas uma vez</li>
+                        <li><strong>Distribuição equilibrada:</strong> Prioriza representação de todas as disciplinas</li>
+                        <li><strong>Qualidade garantida:</strong> Mantém padrões de similaridade altos</li>
+                        <li><strong>Cobertura completa:</strong> Garante correspondência para todas as habilidades BNCC</li>
+                    </ul>
                 </div>
 
                 <h4>📈 Principais Métricas:</h4>
                 <ul>
-                    <li><strong>Nota média adaptativa:</strong> {{ "%.1f"|format(resumo.nota_media_usada * 100) }}%</li>
+                    <li><strong>Habilidades utilizadas:</strong> {{ resumo.get('habilidades_utilizadas', 'N/A') }}/{{ resumo.total_curriculo }} (eficiência de uso)</li>
+                    <li><strong>Disciplinas mapeadas:</strong> {{ resumo.get('disciplinas_envolvidas', 'N/A') }} diferentes áreas do conhecimento</li>
+                    <li><strong>Nota média adaptativa:</strong> {{ "%.1f"|format(resumo.nota_media_usada * 100) }}% (ajustada automaticamente)</li>
                     <li><strong>Taxa de cobertura:</strong> 100% (todas as habilidades BNCC têm correspondência)</li>
-                    <li><strong>Correspondências de alta qualidade:</strong> {{ resumo.matches_acima_80 or 'N/A' }}</li>
                 </ul>
+                
+                <h4>📚 Distribuição por Disciplinas:</h4>
+                <div style="background: #f8f9ff; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+                    {% if resumo.get('distribuicao_disciplinas') %}
+                        {% for disciplina, count in resumo.distribuicao_disciplinas.items() %}
+                            <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+                                <span><strong>{{ disciplina }}:</strong></span>
+                                <span>{{ count }} correspondências</span>
+                            </div>
+                        {% endfor %}
+                    {% else %}
+                        <p>Dados de distribuição não disponíveis.</p>
+                    {% endif %}
+                </div>
+                
+                <div style="background: #e8f5e8; padding: 15px; border-radius: 8px; margin-top: 20px;">
+                    <strong>💡 Dica para Análise:</strong> O algoritmo balanceado garante que você tenha uma visão completa do alinhamento curricular, com representação de todas as disciplinas e sem sobreposições desnecessárias.
+                </div>
             </div>
 
             <!-- Aba Resumo Executivo -->

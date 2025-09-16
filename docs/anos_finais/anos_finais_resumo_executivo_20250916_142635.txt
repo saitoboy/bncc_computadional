@@ -1,0 +1,52 @@
+
+==================================================================================
+                            RESUMO EXECUTIVO
+==================================================================================
+Data: 2025-09-16 14:26:35
+Nota de corte inicial: 95.0%
+Busca adaptativa: ATIVADA
+Modelo: all-MiniLM-L6-v2
+
+PRINCIPAIS DESCOBERTAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 0 de 54 habilidades da BNCC (0.0%) têm correspondência com nota de corte original ≥ 95.0%
+
+• 54 de 54 habilidades da BNCC (100.0%) têm correspondência usando busca adaptativa
+
+• Nota de corte média usada: 64.5%
+• Nota de corte mínima usada: 51.0%
+
+HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ 1. (EF69CO02) - 6 correspondências (máx: 70.6%)
+    Nota de corte usada: 0.6999999999999997
+ 2. (EF69CO03) - 6 correspondências (máx: 68.9%)
+    Nota de corte usada: 0.6799999999999997
+ 3. (EF69CO04) - 6 correspondências (máx: 70.3%)
+    Nota de corte usada: 0.6999999999999997
+ 4. (EF69CO08) - 6 correspondências (máx: 66.3%)
+    Nota de corte usada: 0.6599999999999997
+ 5. (EF69CO05) - 5 correspondências (máx: 70.5%)
+    Nota de corte usada: 0.6999999999999997
+ 6. (EF69CO06) - 5 correspondências (máx: 67.4%)
+    Nota de corte usada: 0.6699999999999997
+ 7. (EF69CO07) - 5 correspondências (máx: 72.0%)
+    Nota de corte usada: 0.7099999999999997
+ 8. (EF69CO01) - 4 correspondências (máx: 69.9%)
+    Nota de corte usada: 0.6899999999999997
+ 9. (EF69CO09) - 4 correspondências (máx: 77.9%)
+    Nota de corte usada: 0.7699999999999998
+10. (EF69CO10) - 3 correspondências (máx: 68.2%)
+    Nota de corte usada: 0.6799999999999997
+11. (EF07CO01) - 3 correspondências (máx: 66.4%)
+    Nota de corte usada: 0.6599999999999997
+12. (EF07CO03) - 3 correspondências (máx: 65.3%)
+    Nota de corte usada: 0.6499999999999997
+13. (EF07CO05) - 3 correspondências (máx: 65.7%)
+    Nota de corte usada: 0.6499999999999997
+14. (EF07CO06) - 3 correspondências (máx: 57.4%)
+    Nota de corte usada: 0.5699999999999996
+15. (EF07CO07) - 3 correspondências (máx: 58.3%)
+    Nota de corte usada: 0.5799999999999996
