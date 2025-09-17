@@ -1,0 +1,44 @@
+
+==================================================================================
+                            RESUMO EXECUTIVO
+==================================================================================
+Data: 2025-09-17 15:37:23
+Nota de corte inicial: 95.0%
+Busca adaptativa: ATIVADA
+Modelo: all-MiniLM-L6-v2
+
+PRINCIPAIS DESCOBERTAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 0 de 11 habilidades da BNCC (0.0%) têm correspondência com nota de corte original ≥ 95.0%
+
+• 11 de 11 habilidades da BNCC (100.0%) têm correspondência usando busca adaptativa
+
+• Nota de corte média usada: 63.7%
+• Nota de corte mínima usada: 55.0%
+
+HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ 1. BNCC_0 - 3 correspondências (máx: 55.6%)
+    Nota de corte usada: 0.5499999999999996
+ 2. BNCC_2 - 3 correspondências (máx: 66.3%)
+    Nota de corte usada: 0.6599999999999997
+ 3. BNCC_3 - 3 correspondências (máx: 66.1%)
+    Nota de corte usada: 0.6599999999999997
+ 4. BNCC_4 - 3 correspondências (máx: 61.1%)
+    Nota de corte usada: 0.6099999999999997
+ 5. BNCC_5 - 3 correspondências (máx: 71.6%)
+    Nota de corte usada: 0.7099999999999997
+ 6. BNCC_6 - 3 correspondências (máx: 68.7%)
+    Nota de corte usada: 0.6799999999999997
+ 7. BNCC_7 - 3 correspondências (máx: 65.5%)
+    Nota de corte usada: 0.6499999999999997
+ 8. BNCC_8 - 3 correspondências (máx: 62.2%)
+    Nota de corte usada: 0.6199999999999997
+ 9. BNCC_9 - 3 correspondências (máx: 63.0%)
+    Nota de corte usada: 0.6199999999999997
+10. BNCC_10 - 3 correspondências (máx: 64.5%)
+    Nota de corte usada: 0.6399999999999997
+11. BNCC_1 - 2 correspondências (máx: 61.6%)
+    Nota de corte usada: 0.6099999999999997

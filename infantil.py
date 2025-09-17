@@ -1,40 +1,33 @@
 import os
+import sys
 from dotenv import load_dotenv
+
+# Adicionar o diretório raiz ao path para importar módulos
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 
 # Carrega variáveis do .env da raiz do projeto
 load_dotenv(dotenv_path=os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env'))
 
-# ==================================================================================
-#                           CONFIGURAÇÃO DE PROXY
-# ==================================================================================
-# Configurar proxy para conexões externas (Hugging Face)
-proxy_config = {
-    'http': 'http://guilherme.saito:890484gS@10.10.30.9:3128',
-    'https': 'http://guilherme.saito:890484gS@10.10.30.9:3128'  # Note: usando http:// mesmo para https
-}
-
-# Configurar variáveis de ambiente para o proxy
-os.environ['HTTP_PROXY'] = proxy_config['http']
-os.environ['HTTPS_PROXY'] = proxy_config['https']
-os.environ['http_proxy'] = proxy_config['http']
-os.environ['https_proxy'] = proxy_config['https']
-
-# Configurar requests para usar proxy
-import requests
-requests.adapters.DEFAULT_RETRIES = 3
-
-print("🔧 Proxy configurado para acessar Hugging Face")
-
 import pandas as pd
-from sentence_transformers import SentenceTransformer
-from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
-import re
 import matplotlib
 matplotlib.use('Agg')  # Garante que matplotlib só salve imagens, sem abrir janelas
 import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
+
+# Importar funções do módulo de similaridade refatorado
+from core.similarity import (
+    extrair_codigo,
+    concat_features_bncc,
+    concat_features_curriculo,
+    encontrar_similaridade_balanceada,
+    carregar_modelo_embeddings,
+    gerar_embeddings,
+    calcular_similaridades
+)
+
+print("🔧 Módulo infantil carregado com algoritmo balanceado")
 
 # ==================================================================================
 #                           CONFIGURAÇÕES DINÂMICAS
@@ -46,7 +39,6 @@ CONFIGURACOES = {
     'MODELO_EMBEDDINGS': 'all-MiniLM-L6-v2',
     'MOSTRAR_TOP_MATCHES_TERMINAL': 10,
     'MOSTRAR_TOP_CORRESPONDENCIAS': 15,
-    'PREFIXO_ARQUIVOS': f"corte_{int(0.80*100)}pct_",
     'GERAR_HEATMAP': True,
     'TAMANHO_HEATMAP': (20, 20),
 }
@@ -54,7 +46,8 @@ CONFIGURACOES = {
 CONFIGURACOES['PREFIXO_ARQUIVOS'] = f"corte_{int(CONFIGURACOES['NOTA_CORTE']*100)}pct_"
 
 print("="*80)
-print("🚀 ANALISADOR DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL")
+print("🚀 ANALISADOR DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL - INFANTIL")
+print("🎯 ALGORITMO BALANCEADO - EVITA DUPLICATAS E DISTRIBUI POR DISCIPLINAS")
 print("="*80)
 print(f"⚙️  CONFIGURAÇÕES ATIVAS:")
 print(f"   📊 Nota de corte: {CONFIGURACOES['NOTA_CORTE']*100}%")
@@ -85,235 +78,128 @@ def checar_colunas(df, nome_df):
 checar_colunas(bncc_df_inf, 'BNCC')
 checar_colunas(curriculo_df_inf, 'Currículo')
 
-# Normaliza os nomes das colunas para evitar problemas de espaço/acentuação
+# Normalizar os nomes das colunas para evitar problemas de espaço/acentuação
 curriculo_df_inf.columns = curriculo_df_inf.columns.str.strip()
 bncc_df_inf.columns = bncc_df_inf.columns.str.strip()
 
-# ==================================================================================
-#                    FUNÇÃO CORRIGIDA PARA EXTRAIR CÓDIGOS
-# ==================================================================================
+# Normalizar nomes das disciplinas (EIXOS) no currículo para evitar duplicatas
+def normalizar_disciplina(nome):
+    """Normaliza nomes de disciplinas removendo variações desnecessárias"""
+    if pd.isna(nome):
+        return "SEM_DISCIPLINA"
+    
+    nome_str = str(nome).strip().upper()
+    
+    # Mapear variações para nomes consistentes
+    mapeamento = {
+        "ESPAÇOS, TEMPOS, QUANTIDADES E RELAÇÕES": "ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES",
+        "ESCUTA, FALA, PENSAMENTOS E IMAGINAÇÃO": "ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO",
+        "TRAÇOS, SONS, CORES E FROMAS": "TRAÇOS, SONS, CORES E FORMAS",
+        "O EU, O OUTRO E O NÓS": "O EU, O OUTRO E O NÓS"
+    }
+    
+    return mapeamento.get(nome_str, nome_str)
 
-def extrair_codigo(obj):
-    """
-    Extrai códigos no formato (EI03CO01), (EF01CO01), etc.
-    """
-    if pd.isna(obj):
-        return "(SEM_COD)"
-    
-    obj_str = str(obj)
-    
-    # Padrão mais robusto para capturar códigos BNCC
-    patterns = [
-        r'\(([A-Z]{2}\d{2}[A-Z]{2}\d{2})\)',  # Padrão principal: EI03CO01
-        r'\(([A-Z]+\d+[A-Z]*\d*)\)',          # Padrão mais geral
-        r'\(([A-Z0-9]+)\)',                   # Padrão ainda mais geral
-    ]
-    
-    for pattern in patterns:
-        match = re.search(pattern, obj_str)
-        if match:
-            return f"({match.group(1)})"
-    
-    # Se não encontrou nenhum padrão, tenta extrair qualquer coisa entre parênteses no início
-    match_inicio = re.search(r'^\(([^)]+)\)', obj_str)
-    if match_inicio:
-        return f"({match_inicio.group(1)})"
-    
-    # Como último recurso, pega os primeiros 15 caracteres + "..."
-    return f"({obj_str[:15]}...)" if len(obj_str) > 15 else f"({obj_str})"
+# Aplicar normalização
+print("� Normalizando nomes das disciplinas/eixos...")
+bncc_df_inf['EIXO'] = bncc_df_inf['EIXO'].apply(normalizar_disciplina)
+curriculo_df_inf['EIXO'] = curriculo_df_inf['EIXO'].apply(normalizar_disciplina)
 
-# Testar a função de extração com alguns exemplos
-print("\n🔍 TESTE DA FUNÇÃO DE EXTRAÇÃO DE CÓDIGOS:")
-print("-" * 50)
-for i in range(min(5, len(bncc_df_inf))):
-    obj_original = bncc_df_inf['OBJETIVO DE APRENDIZAGEM'].iloc[i]
-    codigo_extraido = extrair_codigo(obj_original)
-    print(f"Original: {obj_original}")
-    print(f"Código:   {codigo_extraido}")
-    print("-" * 30)
+print("📊 Disciplinas BNCC após normalização:", bncc_df_inf['EIXO'].unique())
+print("📊 Disciplinas Currículo após normalização:", curriculo_df_inf['EIXO'].unique())
 
-# Função para concatenar as features relevantes
-def concat_features(df):
-    return (
-        df['EIXO'].astype(str) + " | " +
-        df['OBJETIVO DE APRENDIZAGEM'].astype(str) + " | " +
-        df['EXEMPLOS'].astype(str)
-    )
+# Carregar modelo e gerar embeddings usando o módulo refatorado
+print("🤖 Carregando modelo de embeddings...")
+model = carregar_modelo_embeddings(CONFIGURACOES['MODELO_EMBEDDINGS'])
 
-bncc_texts = concat_features(bncc_df_inf)
-curriculo_texts = concat_features(curriculo_df_inf)
+print("🔄 Gerando embeddings...")
+bncc_texts = concat_features_bncc(bncc_df_inf)
+curriculo_texts = concat_features_curriculo(curriculo_df_inf)
 
-# Carregar modelo de embeddings
-try:
-    # Configurações adicionais para contornar problemas de proxy/SSL
-    if 'HUGGINGFACE_HUB_DISABLE_SYMLINKS' in os.environ:
-        del os.environ['HUGGINGFACE_HUB_DISABLE_SYMLINKS']
-    
-    # Desabilitar verificação SSL se necessário (apenas para ambientes corporativos)
-    import ssl
-    ssl._create_default_https_context = ssl._create_unverified_context
-    
-    # Configurar timeout maior para downloads
-    os.environ['HF_HUB_TIMEOUT'] = '120'
-    
-    print(f"🤖 Carregando modelo {CONFIGURACOES['MODELO_EMBEDDINGS']}...")
-    print("📡 Conectando através do proxy corporativo...")
-    
-    model = SentenceTransformer(CONFIGURACOES['MODELO_EMBEDDINGS'])
-    print("✅ Modelo carregado com sucesso!")
-except Exception as e:
-    print(f"❌ Erro ao carregar o modelo: {e}")
-    print("💡 Tentativas de solução:")
-    print("   1. Verificar se o proxy está configurado corretamente")
-    print("   2. Tentar usar o modelo offline se já foi baixado antes")
-    print("   3. Verificar conectividade com a internet")
-    
-    # Tentar carregar um modelo local ou menor como fallback
-    try:
-        print("🔄 Tentando modelo alternativo...")
-        model = SentenceTransformer('all-MiniLM-L6-v2')
-        print("✅ Modelo alternativo carregado com sucesso!")
-    except:
-        raise Exception("Não foi possível carregar nenhum modelo. Verifique a configuração do proxy.")
+bncc_embeddings = gerar_embeddings(model, bncc_texts)
+curriculo_embeddings = gerar_embeddings(model, curriculo_texts)
 
-# Gerar embeddings
-try:
-    print("🔄 Gerando embeddings da BNCC...")
-    bncc_embeddings = model.encode(bncc_texts.tolist(), show_progress_bar=True)
-    print("🔄 Gerando embeddings do currículo...")
-    curriculo_embeddings = model.encode(curriculo_texts.tolist(), show_progress_bar=True)
-    print("✅ Embeddings gerados com sucesso!")
-except Exception as e:
-    print(f"❌ Erro ao gerar embeddings: {e}")
-    raise
-
-# Calcular similaridades
 print("🔄 Calculando similaridades...")
-grau_similaridade = cosine_similarity(bncc_embeddings, curriculo_embeddings)
-print("✅ Similaridades calculadas!")
+grau_similaridade = calcular_similaridades(bncc_embeddings, curriculo_embeddings)
 
 # ==================================================================================
-#                           ANÁLISE E RELATÓRIOS COM BUSCA ADAPTATIVA
+#                           ANÁLISE COM ALGORITMO BALANCEADO
 # ==================================================================================
-
-def encontrar_similaridade_adaptativa(similaridades_bncc, nota_corte_inicial):
-    """
-    Encontra pelo menos uma similaridade, diminuindo a nota de corte se necessário
-    """
-    nota_corte_atual = nota_corte_inicial
-    indices_similares = np.where(similaridades_bncc >= nota_corte_atual)[0]
-    
-    # Se não encontrou nada com a nota de corte inicial, vai diminuindo
-    while len(indices_similares) == 0 and nota_corte_atual > 0.1:
-        nota_corte_atual -= 0.01  # Diminui 1% por vez
-        indices_similares = np.where(similaridades_bncc >= nota_corte_atual)[0]
-    
-    # Se ainda não encontrou nada, pega pelo menos a melhor (mais similar)
-    if len(indices_similares) == 0:
-        idx_melhor = np.argmax(similaridades_bncc)
-        indices_similares = np.array([idx_melhor])
-        nota_corte_atual = similaridades_bncc[idx_melhor]
-    
-    return indices_similares, nota_corte_atual
 
 NOTA_CORTE = CONFIGURACOES['NOTA_CORTE']
 data_relatorio = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-print(f"📊 Gerando relatório com nota de corte inicial de {NOTA_CORTE*100}%...")
-print("🔄 Usando busca adaptativa para garantir pelo menos uma correspondência por habilidade...")
+print(f"📊 Aplicando algoritmo balanceado com nota de corte inicial de {NOTA_CORTE*100}%...")
+print("🎯 Garantindo distribuição equilibrada por disciplinas e evitando duplicatas...")
 
-# Criar relatório detalhado
-relatorio_completo = []
+# DEBUG: Verificar primeiras linhas dos dados antes do algoritmo
+print(f"\n🔍 DEBUG - VERIFICANDO ESTRUTURA DOS DADOS:")
+print(f"📊 BNCC - Primeiras 2 linhas da coluna 'OBJETIVO DE APRENDIZAGEM':")
+for i, (idx, linha) in enumerate(bncc_df_inf.head(2).iterrows()):
+    obj_aprendizagem = linha['OBJETIVO DE APRENDIZAGEM']
+    codigo_extraido = extrair_codigo(obj_aprendizagem)
+    print(f"   {i+1}. {str(obj_aprendizagem)[:60]}...")
+    print(f"      Código extraído: {codigo_extraido}")
+
+print(f"\n📊 CURRÍCULO - Primeiras 2 linhas da coluna 'OBJETIVO DE APRENDIZAGEM':")
+for i, (idx, linha) in enumerate(curriculo_df_inf.head(2).iterrows()):
+    obj_aprendizagem = linha['OBJETIVO DE APRENDIZAGEM']
+    codigo_extraido = extrair_codigo(obj_aprendizagem)
+    print(f"   {i+1}. {str(obj_aprendizagem)[:60]}...")
+    print(f"      Código extraído: {codigo_extraido}")
+
+print(f"\n🎯 Iniciando algoritmo balanceado...")
+
+# Usar o algoritmo balanceado do módulo de similaridade
+relatorio_completo = encontrar_similaridade_balanceada(
+    grau_similaridade, 
+    bncc_df_inf, 
+    curriculo_df_inf, 
+    NOTA_CORTE
+)
+
+# Calcular estatísticas
 estatisticas = {
     'total_bncc': len(bncc_df_inf),
-    'bncc_com_similaridade_original': 0,
-    'bncc_com_similaridade_adaptativa': 0,
-    'total_matches_acima_corte': 0,
-    'notas_corte_usadas': [],
+    'bncc_com_similaridade_original': sum(1 for h in relatorio_completo if h['tem_similaridade_original']),
+    'bncc_com_similaridade_balanceada': len(relatorio_completo),
+    'total_matches_acima_corte': sum(len([s for s in h['habilidades_similares'] if s['similaridade'] >= NOTA_CORTE]) for h in relatorio_completo),
     'nota_corte_original': NOTA_CORTE,
     'modelo_usado': CONFIGURACOES['MODELO_EMBEDDINGS'],
-    'data_analise': data_relatorio
+    'data_analise': data_relatorio,
+    'habilidades_unicas_usadas': len(set(s['curriculo_codigo'] for h in relatorio_completo for s in h['habilidades_similares'])),
+    'distribuicao_por_disciplina': {}
 }
 
-for idx_bncc, linha_bncc in enumerate(bncc_df_inf.itertuples(index=False)):
-    # Obter similaridades desta habilidade BNCC com todas do currículo
-    similaridades_bncc = grau_similaridade[idx_bncc]
-    
-    # Usar busca adaptativa para encontrar pelo menos uma correspondência
-    indices_similares, nota_corte_usada = encontrar_similaridade_adaptativa(similaridades_bncc, NOTA_CORTE)
-    estatisticas['notas_corte_usadas'].append(nota_corte_usada)
-    
-    # CORREÇÃO: Usar o índice direto do DataFrame em vez de itertuples()
-    objetivo_aprendizagem = bncc_df_inf['OBJETIVO DE APRENDIZAGEM'].iloc[idx_bncc]
-    bncc_codigo = extrair_codigo(objetivo_aprendizagem)
-    
-    habilidade_bncc = {
-        'bncc_indice': idx_bncc + 1,
-        'bncc_codigo': bncc_codigo,
-        'bncc_eixo': linha_bncc.EIXO,
-        'bncc_objetivo': objetivo_aprendizagem,
-        'bncc_exemplos': linha_bncc.EXEMPLOS,
-        'habilidades_similares': [],
-        'tem_similaridade_original': len(np.where(similaridades_bncc >= NOTA_CORTE)[0]) > 0,
-        'nota_corte_usada': nota_corte_usada,
-        'quantidade_similares': len(indices_similares),
-        'maior_similaridade': np.max(similaridades_bncc) if len(similaridades_bncc) > 0 else 0
-    }
-    
-    # Adicionar habilidades similares do currículo
-    for idx_similar in indices_similares:
-        linha_curriculo = curriculo_df_inf.iloc[idx_similar]
-        curriculo_codigo = extrair_codigo(linha_curriculo['OBJETIVO DE APRENDIZAGEM'])
-        
-        habilidade_similar = {
-            'curriculo_indice': idx_similar + 1,
-            'curriculo_codigo': curriculo_codigo,
-            'curriculo_eixo': linha_curriculo['EIXO'],
-            'curriculo_objetivo': linha_curriculo['OBJETIVO DE APRENDIZAGEM'],
-            'curriculo_exemplos': linha_curriculo['EXEMPLOS'],
-            'similaridade': similaridades_bncc[idx_similar]
-        }
-        habilidade_bncc['habilidades_similares'].append(habilidade_similar)
-        
-        # Contar apenas matches que atendem à nota de corte original
-        if similaridades_bncc[idx_similar] >= NOTA_CORTE:
-            estatisticas['total_matches_acima_corte'] += 1
-    
-    # Ordenar por similaridade (maior primeiro)
-    habilidade_bncc['habilidades_similares'].sort(key=lambda x: x['similaridade'], reverse=True)
-    
-    relatorio_completo.append(habilidade_bncc)
-    
-    # Atualizar estatísticas
-    if habilidade_bncc['tem_similaridade_original']:
-        estatisticas['bncc_com_similaridade_original'] += 1
-    
-    # Todas as habilidades terão pelo menos uma correspondência devido à busca adaptativa
-    estatisticas['bncc_com_similaridade_adaptativa'] += 1
+# Calcular distribuição por disciplina
+for habilidade in relatorio_completo:
+    for similar in habilidade['habilidades_similares']:
+        disciplina = similar.get('disciplina', similar.get('curriculo_eixo', 'SEM_DISCIPLINA'))
+        estatisticas['distribuicao_por_disciplina'][disciplina] = (
+            estatisticas['distribuicao_por_disciplina'].get(disciplina, 0) + 1
+        )
 
-print("✅ Relatório analisado! Salvando arquivos...")
+print("✅ Algoritmo balanceado aplicado! Gerando relatórios...")
 
-# Estatísticas das notas de corte usadas
-nota_corte_media = np.mean(estatisticas['notas_corte_usadas'])
-nota_corte_min = np.min(estatisticas['notas_corte_usadas'])
-nota_corte_max = np.max(estatisticas['notas_corte_usadas'])
-
-print(f"📈 Estatísticas da busca adaptativa:")
-print(f"   Nota de corte média usada: {nota_corte_media:.1%}")
-print(f"   Nota de corte mínima: {nota_corte_min:.1%}")
-print(f"   Nota de corte máxima: {nota_corte_max:.1%}")
+# Estatísticas do algoritmo balanceado
+print(f"📈 Resultados do algoritmo balanceado:")
+print(f"   🎯 {estatisticas['bncc_com_similaridade_original']}/{estatisticas['total_bncc']} habilidades com nota de corte original")
+print(f"   🔄 {estatisticas['bncc_com_similaridade_balanceada']}/{estatisticas['total_bncc']} habilidades com correspondências (balanceado)")
+print(f"   ✨ {estatisticas['habilidades_unicas_usadas']} habilidades únicas do currículo utilizadas")
+print(f"   📊 Distribuição por disciplina: {estatisticas['distribuicao_por_disciplina']}")
 
 # Verificar se os códigos estão sendo extraídos corretamente
-print("\n🔍 VERIFICAÇÃO FINAL DOS CÓDIGOS EXTRAÍDOS:")
+print("\n🔍 VERIFICAÇÃO DOS CÓDIGOS EXTRAÍDOS (ALGORITMO BALANCEADO):")
 print("-" * 50)
 for i in range(min(3, len(relatorio_completo))):
     hab = relatorio_completo[i]
     print(f"BNCC {i+1}: {hab['bncc_codigo']}")
-    print(f"Objetivo: {hab['bncc_objetivo'][:80]}...")
-    print(f"Nota de corte usada: {hab['nota_corte_usada']:.1%}")
-    print(f"Similaridades encontradas: {hab['quantidade_similares']}")
+    print(f"Eixo: {hab['bncc_eixo']}")
+    print(f"Correspondências encontradas: {len(hab['habilidades_similares'])}")
     if hab['habilidades_similares']:
-        print(f"Melhor match: {hab['habilidades_similares'][0]['curriculo_codigo']} ({hab['habilidades_similares'][0]['similaridade']:.1%})")
+        melhor = hab['habilidades_similares'][0]
+        print(f"Melhor match: {melhor['curriculo_codigo']} ({melhor['similaridade']:.1%})")
+        print(f"Disciplina: {melhor.get('disciplina', melhor.get('curriculo_eixo', 'N/A'))}")
     print("-" * 30)
 
 # ==================================================================================
@@ -323,21 +209,31 @@ for i in range(min(3, len(relatorio_completo))):
 def gerar_relatorio_texto():
     relatorio_txt = f"""
 ==================================================================================
-                    RELATÓRIO DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL
+                    RELATÓRIO DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL - INFANTIL
+                                  ALGORITMO BALANCEADO
 ==================================================================================
 Data do relatório: {estatisticas['data_analise']}
 Nota de corte inicial: {estatisticas['nota_corte_original']*100}% de similaridade
 Modelo utilizado: {estatisticas['modelo_usado']}
-Busca adaptativa: ATIVADA (garante pelo menos 1 correspondência por habilidade)
+Algoritmo: BALANCEADO (evita duplicatas e distribui por disciplinas)
 
 ESTATÍSTICAS GERAIS:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 • Total de habilidades BNCC analisadas: {estatisticas['total_bncc']}
 • Habilidades BNCC com similaridade ≥ {estatisticas['nota_corte_original']*100}% (nota original): {estatisticas['bncc_com_similaridade_original']} ({estatisticas['bncc_com_similaridade_original']/estatisticas['total_bncc']*100:.1f}%)
-• Habilidades BNCC com correspondência (busca adaptativa): {estatisticas['bncc_com_similaridade_adaptativa']} ({estatisticas['bncc_com_similaridade_adaptativa']/estatisticas['total_bncc']*100:.1f}%)
+• Habilidades BNCC com correspondência (algoritmo balanceado): {estatisticas['bncc_com_similaridade_balanceada']} ({estatisticas['bncc_com_similaridade_balanceada']/estatisticas['total_bncc']*100:.1f}%)
 • Total de matches acima da nota de corte original: {estatisticas['total_matches_acima_corte']}
-• Nota de corte média usada: {np.mean(estatisticas['notas_corte_usadas']):.1%}
-• Nota de corte mínima usada: {np.min(estatisticas['notas_corte_usadas']):.1%}
+• Habilidades únicas do currículo utilizadas: {estatisticas['habilidades_unicas_usadas']}
+• Taxa de aproveitamento das habilidades do currículo: {estatisticas['habilidades_unicas_usadas']/len(curriculo_df_inf)*100:.1f}%
+
+DISTRIBUIÇÃO POR DISCIPLINA/EIXO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"""
+    
+    for disciplina, count in estatisticas['distribuicao_por_disciplina'].items():
+        relatorio_txt += f"• {disciplina}: {count} correspondências\n"
+    
+    relatorio_txt += f"""
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 RELATÓRIO DETALHADO POR HABILIDADE BNCC:
@@ -356,9 +252,8 @@ OBJETIVO BNCC: {habilidade['bncc_objetivo']}
 
 EXEMPLOS BNCC: {habilidade['bncc_exemplos']}
 
-NOTA DE CORTE USADA: {habilidade['nota_corte_usada']:.1%} {'(original)' if habilidade['tem_similaridade_original'] else '(adaptativa)'}
-QUANTIDADE DE HABILIDADES SIMILARES: {habilidade['quantidade_similares']}
-MAIOR SIMILARIDADE ENCONTRADA: {habilidade['maior_similaridade']:.1%}
+ALGORITMO USADO: {'Original' if habilidade['tem_similaridade_original'] else 'Balanceado'}
+QUANTIDADE DE HABILIDADES SIMILARES: {len(habilidade['habilidades_similares'])}
 
 """
         
@@ -384,7 +279,6 @@ def gerar_relatorio_csv():
     dados_csv = []
     
     for habilidade in relatorio_completo:
-        # Com a busca adaptativa, todas as habilidades terão pelo menos uma correspondência
         for similar in habilidade['habilidades_similares']:
             dados_csv.append({
                 'BNCC_Indice': habilidade['bncc_indice'],
@@ -399,8 +293,9 @@ def gerar_relatorio_csv():
                 'Curriculo_Exemplos': similar['curriculo_exemplos'],
                 'Similaridade': similar['similaridade'],
                 'Similaridade_Percentual': f"{similar['similaridade']:.1%}",
-                'Nota_Corte_Usada': f"{habilidade['nota_corte_usada']:.1%}",
-                'Busca_Adaptativa': 'Não' if habilidade['tem_similaridade_original'] else 'Sim',
+                'Algoritmo_Usado': 'Original' if habilidade['tem_similaridade_original'] else 'Balanceado',
+                'Acima_Nota_Corte': 'Sim' if similar['similaridade'] >= NOTA_CORTE else 'Não',
+                'Disciplina': similar.get('disciplina', similar.get('curriculo_eixo', 'N/A')),
                 'Data_Analise': estatisticas['data_analise']
             })
     
@@ -409,11 +304,12 @@ def gerar_relatorio_csv():
 def gerar_resumo_executivo():
     resumo = f"""
 ==================================================================================
-                            RESUMO EXECUTIVO
+                            RESUMO EXECUTIVO - INFANTIL
+                                  ALGORITMO BALANCEADO
 ==================================================================================
 Data: {estatisticas['data_analise']}
 Nota de corte inicial: {estatisticas['nota_corte_original']*100}%
-Busca adaptativa: ATIVADA
+Algoritmo: BALANCEADO (evita duplicatas e distribui por disciplinas)
 Modelo: {estatisticas['modelo_usado']}
 
 PRINCIPAIS DESCOBERTAS:
@@ -421,33 +317,55 @@ PRINCIPAIS DESCOBERTAS:
 
 • {estatisticas['bncc_com_similaridade_original']} de {estatisticas['total_bncc']} habilidades da BNCC ({estatisticas['bncc_com_similaridade_original']/estatisticas['total_bncc']*100:.1f}%) têm correspondência com nota de corte original ≥ {estatisticas['nota_corte_original']*100}%
 
-• {estatisticas['bncc_com_similaridade_adaptativa']} de {estatisticas['total_bncc']} habilidades da BNCC ({estatisticas['bncc_com_similaridade_adaptativa']/estatisticas['total_bncc']*100:.1f}%) têm correspondência usando busca adaptativa
+• {estatisticas['bncc_com_similaridade_balanceada']} de {estatisticas['total_bncc']} habilidades da BNCC ({estatisticas['bncc_com_similaridade_balanceada']/estatisticas['total_bncc']*100:.1f}%) têm correspondência usando algoritmo balanceado
 
 • Total de {estatisticas['total_matches_acima_corte']} conexões identificadas acima da nota de corte original
 
-• Nota de corte média usada: {np.mean(estatisticas['notas_corte_usadas']):.1%}
-• Nota de corte mínima usada: {np.min(estatisticas['notas_corte_usadas']):.1%}
+• {estatisticas['habilidades_unicas_usadas']} habilidades únicas do currículo utilizadas de {len(curriculo_df_inf)} disponíveis ({estatisticas['habilidades_unicas_usadas']/len(curriculo_df_inf)*100:.1f}% de aproveitamento)
+
+DISTRIBUIÇÃO POR DISCIPLINA/EIXO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"""
+    
+    for disciplina, count in estatisticas['distribuicao_por_disciplina'].items():
+        percentual = count / sum(estatisticas['distribuicao_por_disciplina'].values()) * 100
+        resumo += f"\n• {disciplina}: {count} correspondências ({percentual:.1f}%)"
+    
+    resumo += f"""
 
 HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
     
-    top_correspondencias = sorted(relatorio_completo, key=lambda x: x['quantidade_similares'], reverse=True)[:CONFIGURACOES['MOSTRAR_TOP_CORRESPONDENCIAS']]
+    top_correspondencias = sorted(relatorio_completo, key=lambda x: len(x['habilidades_similares']), reverse=True)[:CONFIGURACOES['MOSTRAR_TOP_CORRESPONDENCIAS']]
     
     for i, hab in enumerate(top_correspondencias, 1):
-        resumo += f"\n{i:2d}. {hab['bncc_codigo']} - {hab['quantidade_similares']} correspondências (máx: {hab['maior_similaridade']:.1%})"
+        resumo += f"\n{i:2d}. {hab['bncc_codigo']} - {len(hab['habilidades_similares'])} correspondências"
         resumo += f"\n    {hab['bncc_eixo']}"
-        resumo += f"\n    Nota de corte usada: {hab['nota_corte_usada']:.1%} {'(original)' if hab['tem_similaridade_original'] else '(adaptativa)'}"
+        resumo += f"\n    Algoritmo: {'Original' if hab['tem_similaridade_original'] else 'Balanceado'}"
+        if hab['habilidades_similares']:
+            resumo += f"\n    Máx. similaridade: {max(s['similaridade'] for s in hab['habilidades_similares']):.1%}"
     
-    resumo += f"\n\nHABILIDADES QUE PRECISARAM DE BUSCA ADAPTATIVA:\n"
+    resumo += f"\n\nHABILIDADES QUE USARAM ALGORITMO BALANCEADO:\n"
     resumo += "━" * 70 + "\n"
     
-    busca_adaptativa = [h for h in relatorio_completo if not h['tem_similaridade_original']]
-    for hab in busca_adaptativa:
+    algoritmo_balanceado = [h for h in relatorio_completo if not h['tem_similaridade_original']]
+    for hab in algoritmo_balanceado:
         resumo += f"\n• {hab['bncc_codigo']} - {hab['bncc_eixo']}"
-        resumo += f"\n  Nota de corte usada: {hab['nota_corte_usada']:.1%}"
-        resumo += f"\n  Máx. similaridade: {hab['maior_similaridade']:.1%}"
+        if hab['habilidades_similares']:
+            resumo += f"\n  Máx. similaridade: {max(s['similaridade'] for s in hab['habilidades_similares']):.1%}"
         resumo += f"\n  {hab['bncc_objetivo'][:100]}{'...' if len(hab['bncc_objetivo']) > 100 else ''}\n"
+    
+    resumo += f"""
+
+VANTAGENS DO ALGORITMO BALANCEADO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Evita duplicação de habilidades do currículo
+• Garante distribuição equilibrada entre disciplinas/eixos
+• Maximiza o aproveitamento das habilidades disponíveis no currículo
+• Oferece correspondências mais diversificadas para planejamento pedagógico
+• Reduz a concentração em poucas habilidades do currículo
+"""
     
     return resumo
 
@@ -529,15 +447,19 @@ if CONFIGURACOES['GERAR_HEATMAP']:
 
 # Exibir resumo no terminal
 print("\n" + "="*80)
-print("📊 RESUMO DA ANÁLISE:")
+print("📊 RESUMO DA ANÁLISE - ALGORITMO BALANCEADO (INFANTIL):")
 print("="*80)
 print(f"✅ Análise concluída com sucesso!")
 print(f"⚙️  Nota de corte inicial: {CONFIGURACOES['NOTA_CORTE']*100}%")
 print(f"📊 {estatisticas['bncc_com_similaridade_original']}/{estatisticas['total_bncc']} habilidades BNCC têm correspondência ≥ {CONFIGURACOES['NOTA_CORTE']*100}%")
-print(f"� {estatisticas['bncc_com_similaridade_adaptativa']}/{estatisticas['total_bncc']} habilidades BNCC têm correspondência com busca adaptativa")
-print(f"�🔍 {estatisticas['total_matches_acima_corte']} conexões identificadas acima da nota de corte original")
-print(f"📈 Nota de corte média usada: {np.mean(estatisticas['notas_corte_usadas']):.1%}")
-print(f"📉 Nota de corte mínima usada: {np.min(estatisticas['notas_corte_usadas']):.1%}")
+print(f"🎯 {estatisticas['bncc_com_similaridade_balanceada']}/{estatisticas['total_bncc']} habilidades BNCC têm correspondência com algoritmo balanceado")
+print(f"🔍 {estatisticas['total_matches_acima_corte']} conexões identificadas acima da nota de corte original")
+print(f"✨ {estatisticas['habilidades_unicas_usadas']}/{len(curriculo_df_inf)} habilidades únicas do currículo utilizadas ({estatisticas['habilidades_unicas_usadas']/len(curriculo_df_inf)*100:.1f}%)")
+
+print(f"\n� DISTRIBUIÇÃO POR DISCIPLINA/EIXO:")
+for disciplina, count in estatisticas['distribuicao_por_disciplina'].items():
+    percentual = count / sum(estatisticas['distribuicao_por_disciplina'].values()) * 100
+    print(f"   • {disciplina}: {count} correspondências ({percentual:.1f}%)")
 
 # Mostrar algumas das melhores correspondências no terminal
 print(f"\n🏆 TOP {CONFIGURACOES['MOSTRAR_TOP_MATCHES_TERMINAL']} MELHORES CORRESPONDÊNCIAS:")
@@ -551,7 +473,8 @@ for hab in relatorio_completo:
             'curriculo_codigo': similar['curriculo_codigo'],
             'similaridade': similar['similaridade'],
             'bncc_eixo': hab['bncc_eixo'],
-            'curriculo_eixo': similar['curriculo_eixo']
+            'curriculo_eixo': similar['curriculo_eixo'],
+            'disciplina': similar.get('disciplina', similar.get('curriculo_eixo', 'N/A'))
         })
 
 top_matches = sorted(todos_matches, key=lambda x: x['similaridade'], reverse=True)[:CONFIGURACOES['MOSTRAR_TOP_MATCHES_TERMINAL']]
@@ -559,11 +482,14 @@ top_matches = sorted(todos_matches, key=lambda x: x['similaridade'], reverse=Tru
 for i, match in enumerate(top_matches, 1):
     print(f"{i:2d}. {match['bncc_codigo']} ↔ {match['curriculo_codigo']} | {match['similaridade']:.1%}")
     print(f"    BNCC: {match['bncc_eixo']}")
-    print(f"    Currículo: {match['curriculo_eixo']}")
+    print(f"    Currículo: {match['disciplina']}")
     print()
 
 print("="*80)
-print("💡 DICA: Para alterar a nota de corte inicial, modifique CONFIGURACOES['NOTA_CORTE'] no topo do script!")
-print("🔧 A busca adaptativa garante que toda habilidade BNCC tenha pelo menos uma correspondência!")
-print("📁 Consulte os arquivos de relatório para análise completa!")
+print("🎯 ALGORITMO BALANCEADO ATIVO:")
+print("   • Evita duplicação de habilidades do currículo")
+print("   • Garante distribuição equilibrada por disciplinas")
+print("   • Maximiza aproveitamento das habilidades disponíveis")
+print("💡 Para alterar a nota de corte, modifique CONFIGURACOES['NOTA_CORTE']")
+print("📁 Consulte os arquivos de relatório na pasta docs/infantil/ para análise completa!")
 print("="*80)

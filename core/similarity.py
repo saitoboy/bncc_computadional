@@ -32,18 +32,30 @@ def extrair_codigo(obj):
     if pd.isna(obj):
         return "(SEM_COD)"
     obj_str = str(obj)
+    
+    # Padrões específicos para diferentes tipos de códigos
     patterns = [
+        # Padrão infantil: (EI03CG01), (EI01EF23ME03), etc.
+        r'\(([A-Z]{2}\d{2}[A-Z]{2,4}\d{2}[A-Z]*\d*)\)',
+        # Padrão anos iniciais/finais: (EF15AR01), (EF67LP01), etc.
         r'\(([A-Z]{2}\d{2}[A-Z]{2}\d{2})\)',
+        # Padrão genérico para códigos alfanuméricos
         r'\(([A-Z]+\d+[A-Z]*\d*)\)',
+        # Qualquer código entre parênteses
         r'\(([A-Z0-9]+)\)'
     ]
+    
     for pattern in patterns:
         match = re.search(pattern, obj_str)
         if match:
             return f"({match.group(1)})"
+    
+    # Se não encontrou padrão específico, pegar o primeiro parênteses
     match_inicio = re.search(r'^\(([^)]+)\)', obj_str)
     if match_inicio:
         return f"({match_inicio.group(1)})"
+    
+    # Fallback para objetos sem código
     return f"({obj_str[:15]}...)" if len(obj_str) > 15 else f"({obj_str})"
 
 
@@ -101,39 +113,41 @@ def encontrar_similaridade_balanceada(grau_similaridade, bncc_df, curriculo_df, 
     
     # Agrupar currículo por disciplina
     disciplinas_curriculo = {}
-    for idx, linha in enumerate(curriculo_df.itertuples(index=False)):
-        disciplina = getattr(linha, 'DISCIPLINA', getattr(linha, 'EIXO', 'SEM_DISCIPLINA'))
+    for idx, row in curriculo_df.iterrows():
+        disciplina = row.get('DISCIPLINA', row.get('EIXO', 'SEM_DISCIPLINA'))
         if disciplina not in disciplinas_curriculo:
             disciplinas_curriculo[disciplina] = []
         
         # Extrair código da habilidade do currículo
-        if hasattr(linha, 'HABILIDADES'):
-            codigo = extrair_codigo(linha.HABILIDADES)
-        elif hasattr(linha, 'OBJETIVO_DE_APRENDIZAGEM'):
-            codigo = extrair_codigo(linha.OBJETIVO_DE_APRENDIZAGEM)
+        if 'HABILIDADES' in curriculo_df.columns:
+            codigo = extrair_codigo(row['HABILIDADES'])
+        elif 'OBJETIVO DE APRENDIZAGEM' in curriculo_df.columns:
+            codigo = extrair_codigo(row['OBJETIVO DE APRENDIZAGEM'])
+        elif 'HABILIDADE' in curriculo_df.columns:
+            codigo = extrair_codigo(row['HABILIDADE'])
         else:
             codigo = f"CURR_{idx}"
             
         disciplinas_curriculo[disciplina].append({
             'indice': idx,
             'codigo': codigo,
-            'linha': linha
+            'linha': row
         })
     
     print(f"🎯 Disciplinas encontradas: {list(disciplinas_curriculo.keys())}")
     print(f"📊 Distribuição por disciplina: {[(d, len(h)) for d, h in disciplinas_curriculo.items()]}")
     
     # Para cada habilidade BNCC
-    for idx_bncc, linha_bncc in enumerate(bncc_df.itertuples(index=False)):
+    for idx_bncc, row_bncc in bncc_df.iterrows():
         similaridades_bncc = grau_similaridade[idx_bncc]
         
         # Extrair código BNCC
-        if hasattr(linha_bncc, 'HABILIDADE'):
-            bncc_codigo = extrair_codigo(linha_bncc.HABILIDADE)
-            bncc_objetivo = linha_bncc.HABILIDADE
-        elif hasattr(linha_bncc, 'OBJETIVO_DE_APRENDIZAGEM'):
-            bncc_codigo = extrair_codigo(linha_bncc.OBJETIVO_DE_APRENDIZAGEM)
-            bncc_objetivo = linha_bncc.OBJETIVO_DE_APRENDIZAGEM
+        if 'HABILIDADE' in bncc_df.columns:
+            bncc_codigo = extrair_codigo(row_bncc['HABILIDADE'])
+            bncc_objetivo = row_bncc['HABILIDADE']
+        elif 'OBJETIVO DE APRENDIZAGEM' in bncc_df.columns:
+            bncc_codigo = extrair_codigo(row_bncc['OBJETIVO DE APRENDIZAGEM'])
+            bncc_objetivo = row_bncc['OBJETIVO DE APRENDIZAGEM']
         else:
             bncc_codigo = f"BNCC_{idx_bncc}"
             bncc_objetivo = "OBJETIVO NÃO ENCONTRADO"
@@ -230,9 +244,9 @@ def encontrar_similaridade_balanceada(grau_similaridade, bncc_df, curriculo_df, 
         habilidade_bncc = {
             'bncc_indice': idx_bncc + 1,
             'bncc_codigo': bncc_codigo,
-            'bncc_eixo': linha_bncc.EIXO,
+            'bncc_eixo': row_bncc['EIXO'],
             'bncc_objetivo': bncc_objetivo,
-            'bncc_exemplos': getattr(linha_bncc, 'EXEMPLOS', 'N/A'),
+            'bncc_exemplos': row_bncc.get('EXEMPLOS', 'N/A'),
             'habilidades_similares': [],
             'tem_similaridade_original': any(h['similaridade'] >= nota_corte_inicial for h in habilidades_similares),
             'nota_corte_usada': nota_corte_usada,
@@ -246,12 +260,15 @@ def encontrar_similaridade_balanceada(grau_similaridade, bncc_df, curriculo_df, 
             linha_curriculo = similar['linha']
             
             # Detectar coluna de habilidade do currículo
-            if hasattr(linha_curriculo, 'HABILIDADES'):
-                curriculo_objetivo = linha_curriculo.HABILIDADES
-                curriculo_exemplos = getattr(linha_curriculo, 'ORIENTACOES_PEDAGOGICAS', 'N/A')
-            elif hasattr(linha_curriculo, 'OBJETIVO_DE_APRENDIZAGEM'):
-                curriculo_objetivo = linha_curriculo.OBJETIVO_DE_APRENDIZAGEM
-                curriculo_exemplos = getattr(linha_curriculo, 'EXEMPLOS', 'N/A')
+            if 'HABILIDADES' in curriculo_df.columns:
+                curriculo_objetivo = linha_curriculo['HABILIDADES']
+                curriculo_exemplos = linha_curriculo.get('ORIENTACOES_PEDAGOGICAS', 'N/A')
+            elif 'OBJETIVO DE APRENDIZAGEM' in curriculo_df.columns:
+                curriculo_objetivo = linha_curriculo['OBJETIVO DE APRENDIZAGEM']
+                curriculo_exemplos = linha_curriculo.get('EXEMPLOS', 'N/A')
+            elif 'HABILIDADE' in curriculo_df.columns:
+                curriculo_objetivo = linha_curriculo['HABILIDADE']
+                curriculo_exemplos = linha_curriculo.get('ORIENTACOES_PEDAGOGICAS', 'N/A')
             else:
                 curriculo_objetivo = "OBJETIVO NÃO ENCONTRADO"
                 curriculo_exemplos = "N/A"
@@ -751,3 +768,75 @@ HABILIDADES SIMILARES DO CURRÍCULO:
 """
     
     return relatorio_txt
+
+def carregar_modelo_embeddings(modelo_nome):
+    """
+    Carrega o modelo de embeddings da SentenceTransformers
+    """
+    try:
+        # Configurações adicionais para contornar problemas de proxy/SSL
+        if 'HUGGINGFACE_HUB_DISABLE_SYMLINKS' in os.environ:
+            del os.environ['HUGGINGFACE_HUB_DISABLE_SYMLINKS']
+        
+        # Configurar timeout maior para downloads
+        os.environ['HF_HUB_TIMEOUT'] = '120'
+        
+        print(f"🤖 Carregando modelo {modelo_nome}...")
+        print("📡 Conectando através do proxy corporativo...")
+        
+        from sentence_transformers import SentenceTransformer
+        model = SentenceTransformer(modelo_nome)
+        print("✅ Modelo carregado com sucesso!")
+        return model
+        
+    except Exception as e:
+        print(f"❌ Erro ao carregar o modelo: {e}")
+        print("💡 Tentativas de solução:")
+        print("   1. Verificar se o proxy está configurado corretamente")
+        print("   2. Tentar usar o modelo offline se já foi baixado antes")
+        print("   3. Verificar conectividade com a internet")
+        
+        # Tentar carregar um modelo local ou menor como fallback
+        try:
+            print("🔄 Tentando modelo alternativo...")
+            from sentence_transformers import SentenceTransformer
+            model = SentenceTransformer('all-MiniLM-L6-v2')
+            print("✅ Modelo alternativo carregado com sucesso!")
+            return model
+        except:
+            raise Exception("Não foi possível carregar nenhum modelo. Verifique a configuração do proxy.")
+
+
+def gerar_embeddings(model, texts):
+    """
+    Gera embeddings para os textos usando o modelo carregado
+    """
+    try:
+        if isinstance(texts, pd.Series):
+            texts_list = texts.tolist()
+        else:
+            texts_list = texts
+            
+        embeddings = model.encode(texts_list, show_progress_bar=True)
+        print("✅ Embeddings gerados com sucesso!")
+        return embeddings
+        
+    except Exception as e:
+        print(f"❌ Erro ao gerar embeddings: {e}")
+        raise
+
+
+def calcular_similaridades(bncc_embeddings, curriculo_embeddings):
+    """
+    Calcula a matriz de similaridades usando cosine similarity
+    """
+    try:
+        from sklearn.metrics.pairwise import cosine_similarity
+        print("🔄 Calculando similaridades...")
+        grau_similaridade = cosine_similarity(bncc_embeddings, curriculo_embeddings)
+        print("✅ Similaridades calculadas!")
+        return grau_similaridade
+        
+    except Exception as e:
+        print(f"❌ Erro ao calcular similaridades: {e}")
+        raise

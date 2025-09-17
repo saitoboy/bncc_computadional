@@ -1,0 +1,194 @@
+
+==================================================================================
+                    RELATÓRIO DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL
+==================================================================================
+Data do relatório: 2025-09-17 15:37:23
+Nota de corte inicial: 95.0% de similaridade
+Modelo utilizado: all-MiniLM-L6-v2
+Busca adaptativa: ATIVADA (garante pelo menos 1 correspondência por habilidade)
+
+ESTATÍSTICAS GERAIS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Total de habilidades BNCC analisadas: 11
+• Habilidades BNCC com similaridade ≥ 95.0% (nota original): 0 (0.0%)
+• Habilidades BNCC com correspondência (busca adaptativa): 11 (100.0%)
+• Nota de corte média usada: 63.7%
+• Nota de corte mínima usada: 55.0%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RELATÓRIO DETALHADO POR CORRESPONDÊNCIA:
+
+
+================================================================================
+HABILIDADE BNCC #1 - BNCC_0
+================================================================================
+
+OBJETIVO BNCC: OBJETIVO NÃO ENCONTRADO
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #128 - CURR_127 | SIMILARIDADE: 55.6%
+
+2. CURRÍCULO #171 - CURR_170 | SIMILARIDADE: 53.4%
+
+3. CURRÍCULO #191 - CURR_190 | SIMILARIDADE: 53.0%
+
+================================================================================
+HABILIDADE BNCC #2 - BNCC_1
+================================================================================
+
+OBJETIVO BNCC: OBJETIVO NÃO ENCONTRADO
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #211 - CURR_210 | SIMILARIDADE: 61.6%
+
+2. CURRÍCULO #267 - CURR_266 | SIMILARIDADE: 55.7%
+
+================================================================================
+HABILIDADE BNCC #3 - BNCC_2
+================================================================================
+
+OBJETIVO BNCC: OBJETIVO NÃO ENCONTRADO
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #169 - CURR_168 | SIMILARIDADE: 66.3%
+
+2. CURRÍCULO #168 - CURR_167 | SIMILARIDADE: 62.4%
+
+3. CURRÍCULO #48 - CURR_47 | SIMILARIDADE: 59.7%
+
+================================================================================
+HABILIDADE BNCC #4 - BNCC_3
+================================================================================
+
+OBJETIVO BNCC: OBJETIVO NÃO ENCONTRADO
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #39 - CURR_38 | SIMILARIDADE: 66.1%
+
+2. CURRÍCULO #34 - CURR_33 | SIMILARIDADE: 64.9%
+
+3. CURRÍCULO #73 - CURR_72 | SIMILARIDADE: 60.4%
+
+================================================================================
+HABILIDADE BNCC #5 - BNCC_4
+================================================================================
+
+OBJETIVO BNCC: OBJETIVO NÃO ENCONTRADO
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #125 - CURR_124 | SIMILARIDADE: 61.1%
+
+2. CURRÍCULO #5 - CURR_4 | SIMILARIDADE: 56.1%
+
+3. CURRÍCULO #45 - CURR_44 | SIMILARIDADE: 55.2%
+
+================================================================================
+HABILIDADE BNCC #6 - BNCC_5
+================================================================================
+
+OBJETIVO BNCC: OBJETIVO NÃO ENCONTRADO
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #235 - CURR_234 | SIMILARIDADE: 71.6%
+
+2. CURRÍCULO #236 - CURR_235 | SIMILARIDADE: 69.4%
+
+3. CURRÍCULO #144 - CURR_143 | SIMILARIDADE: 64.8%
+
+================================================================================
+HABILIDADE BNCC #7 - BNCC_6
+================================================================================
+
+OBJETIVO BNCC: OBJETIVO NÃO ENCONTRADO
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #154 - CURR_153 | SIMILARIDADE: 68.7%
+
+2. CURRÍCULO #156 - CURR_155 | SIMILARIDADE: 66.5%
+
+3. CURRÍCULO #213 - CURR_212 | SIMILARIDADE: 62.8%
+
+================================================================================
+HABILIDADE BNCC #8 - BNCC_7
+================================================================================
+
+OBJETIVO BNCC: OBJETIVO NÃO ENCONTRADO
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #180 - CURR_179 | SIMILARIDADE: 65.5%
+
+2. CURRÍCULO #72 - CURR_71 | SIMILARIDADE: 62.1%
+
+3. CURRÍCULO #221 - CURR_220 | SIMILARIDADE: 60.5%
+
+================================================================================
+HABILIDADE BNCC #9 - BNCC_8
+================================================================================
+
+OBJETIVO BNCC: OBJETIVO NÃO ENCONTRADO
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #175 - CURR_174 | SIMILARIDADE: 62.2%
+
+2. CURRÍCULO #268 - CURR_267 | SIMILARIDADE: 59.3%
+
+3. CURRÍCULO #220 - CURR_219 | SIMILARIDADE: 58.1%
+
+================================================================================
+HABILIDADE BNCC #10 - BNCC_9
+================================================================================
+
+OBJETIVO BNCC: OBJETIVO NÃO ENCONTRADO
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #71 - CURR_70 | SIMILARIDADE: 63.0%
+
+2. CURRÍCULO #159 - CURR_158 | SIMILARIDADE: 59.1%
+
+3. CURRÍCULO #179 - CURR_178 | SIMILARIDADE: 57.9%
+
+================================================================================
+HABILIDADE BNCC #11 - BNCC_10
+================================================================================
+
+OBJETIVO BNCC: OBJETIVO NÃO ENCONTRADO
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #130 - CURR_129 | SIMILARIDADE: 64.5%
+
+2. CURRÍCULO #189 - CURR_188 | SIMILARIDADE: 60.2%
+
+3. CURRÍCULO #27 - CURR_26 | SIMILARIDADE: 59.8%

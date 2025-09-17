@@ -1,0 +1,746 @@
+
+==================================================================================
+                    RELATÓRIO DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL
+==================================================================================
+Data do relatório: 2025-09-17 15:35:57
+Nota de corte inicial: 95.0% de similaridade
+Modelo utilizado: all-MiniLM-L6-v2
+Busca adaptativa: ATIVADA (garante pelo menos 1 correspondência por habilidade)
+
+ESTATÍSTICAS GERAIS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Total de habilidades BNCC analisadas: 54
+• Habilidades BNCC com similaridade ≥ 95.0% (nota original): 0 (0.0%)
+• Habilidades BNCC com correspondência (busca adaptativa): 54 (100.0%)
+• Nota de corte média usada: 64.5%
+• Nota de corte mínima usada: 51.0%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RELATÓRIO DETALHADO POR CORRESPONDÊNCIA:
+
+
+================================================================================
+HABILIDADE BNCC #1 - (EF69CO01)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 4
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1221 - (EF69LP32) | SIMILARIDADE: 69.9%
+
+2. CURRÍCULO #1540 - (EF89LP29AX) | SIMILARIDADE: 66.0%
+
+3. CURRÍCULO #1554 - (EF69LP35A) | SIMILARIDADE: 67.8%
+
+4. CURRÍCULO #1455 - (EF89LP08A) | SIMILARIDADE: 67.7%
+
+================================================================================
+HABILIDADE BNCC #2 - (EF69CO02)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO02) Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 6
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #98 - (EF07LI06) | SIMILARIDADE: 70.6%
+
+2. CURRÍCULO #1549 - (EF69LP42B) | SIMILARIDADE: 70.0%
+
+3. CURRÍCULO #1160 - (EF67LP25) | SIMILARIDADE: 68.0%
+
+4. CURRÍCULO #1070 - (EF06LP12X) | SIMILARIDADE: 65.8%
+
+5. CURRÍCULO #298 - (EF08LP04) | SIMILARIDADE: 65.2%
+
+6. CURRÍCULO #1608 - (EF07Ll22) | SIMILARIDADE: 60.6%
+
+================================================================================
+HABILIDADE BNCC #3 - (EF69CO03)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 6
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1550 - (EF89LP21X) | SIMILARIDADE: 68.9%
+
+2. CURRÍCULO #344 - (EF89LP29CX) | SIMILARIDADE: 68.2%
+
+3. CURRÍCULO #893 - (EF67EF05P2) | SIMILARIDADE: 65.1%
+
+4. CURRÍCULO #29 - (EF06LP10) | SIMILARIDADE: 67.0%
+
+5. CURRÍCULO #18 - (EF67LP28AX) | SIMILARIDADE: 66.5%
+
+6. CURRÍCULO #413 - (EF89EF08) | SIMILARIDADE: 60.6%
+
+================================================================================
+HABILIDADE BNCC #4 - (EF69CO04)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO04) Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluções usando uma linguagem de programação.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 6
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #874 - (EF67EF05P1) | SIMILARIDADE: 70.3%
+
+2. CURRÍCULO #1222 - (EF67LP16X) | SIMILARIDADE: 68.0%
+
+3. CURRÍCULO #881 - (EF67EF06) | SIMILARIDADE: 66.8%
+
+4. CURRÍCULO #59 - (EF06MA37ME) | SIMILARIDADE: 66.1%
+
+5. CURRÍCULO #1551 - (EF69LP22) | SIMILARIDADE: 64.4%
+
+6. CURRÍCULO #935 - (EF89EF17) | SIMILARIDADE: 64.2%
+
+================================================================================
+HABILIDADE BNCC #5 - (EF69CO05)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO05) Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados, e estabelecendo a definição de problema como uma relação entre entrada e saída.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 5
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1504 - (EF89LP16) | SIMILARIDADE: 70.5%
+
+2. CURRÍCULO #57 - (EF06MA03X) | SIMILARIDADE: 70.4%
+
+3. CURRÍCULO #1086 - (EF67LP14DX) | SIMILARIDADE: 68.0%
+
+4. CURRÍCULO #1122 - (EF67LP17X) | SIMILARIDADE: 67.8%
+
+5. CURRÍCULO #1515 - (EF09LP03) | SIMILARIDADE: 67.8%
+
+================================================================================
+HABILIDADE BNCC #6 - (EF69CO06)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO06) Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando as semelhanças e diferenças entre eles, e criar um algoritmo para resolver todos, fazendo uso de variáveis (parâmetros) para permitir o tratamento de todos os casos de forma genérica.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 5
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1061 - (EF69LP34B) | SIMILARIDADE: 67.4%
+
+2. CURRÍCULO #1119 - (EF69LP25) | SIMILARIDADE: 64.2%
+
+3. CURRÍCULO #1117 - (EF69LP24A) | SIMILARIDADE: 63.1%
+
+4. CURRÍCULO #1315 - (EF69LP20) | SIMILARIDADE: 61.5%
+
+5. CURRÍCULO #632 - (EF09MA09) | SIMILARIDADE: 58.6%
+
+================================================================================
+HABILIDADE BNCC #7 - (EF69CO07)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 5
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1555 - (EF69LP35BX) | SIMILARIDADE: 72.0%
+
+2. CURRÍCULO #1251 - (EF69LP39BX) | SIMILARIDADE: 71.7%
+
+3. CURRÍCULO #1616 - (EF08LI05) | SIMILARIDADE: 66.1%
+
+4. CURRÍCULO #1456 - (EF89LP08B) | SIMILARIDADE: 69.2%
+
+5. CURRÍCULO #1552 - (EF69LP36AX) | SIMILARIDADE: 68.8%
+
+================================================================================
+HABILIDADE BNCC #8 - (EF69CO08)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO08) Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 6
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #146 - (EF67LP36) | SIMILARIDADE: 66.3%
+
+2. CURRÍCULO #1386 - (EF69LP18X) | SIMILARIDADE: 65.4%
+
+3. CURRÍCULO #12 - (EF06ER03) | SIMILARIDADE: 60.1%
+
+4. CURRÍCULO #352 - (EF08LP14) | SIMILARIDADE: 63.9%
+
+5. CURRÍCULO #1387 - (EF08LP16) | SIMILARIDADE: 63.7%
+
+6. CURRÍCULO #1560 - (EF06LI04) | SIMILARIDADE: 56.8%
+
+================================================================================
+HABILIDADE BNCC #9 - (EF69CO09)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO09) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 4
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1284 - (EF89LP02) | SIMILARIDADE: 77.9%
+
+2. CURRÍCULO #873 - (EF67EF04P1) | SIMILARIDADE: 68.8%
+
+3. CURRÍCULO #892 - (EF67EF04P2) | SIMILARIDADE: 68.3%
+
+4. CURRÍCULO #1026 - (EF08HI06) | SIMILARIDADE: 62.7%
+
+================================================================================
+HABILIDADE BNCC #10 - (EF69CO10)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO10) Entender como é a estrutura e funcionamento da internet.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1114 - (EF69LP09) | SIMILARIDADE: 68.2%
+
+2. CURRÍCULO #1426 - (EF89LP01A) | SIMILARIDADE: 63.5%
+
+3. CURRÍCULO #992 - (EF09GE14) | SIMILARIDADE: 60.1%
+
+================================================================================
+HABILIDADE BNCC #11 - (EF07CO01)
+================================================================================
+
+OBJETIVO BNCC: (EF07CO01) Criar soluções de problemas para os quais seja adequado o uso de registros e matrizes unidimensionais para descrever suas informações e automatizá-las usando uma linguagem de programação.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1278 - (EF69LP04) | SIMILARIDADE: 66.4%
+
+2. CURRÍCULO #1548 - (EF69LP42AX) | SIMILARIDADE: 65.8%
+
+3. CURRÍCULO #1587 - (EF07LI09) | SIMILARIDADE: 59.9%
+
+================================================================================
+HABILIDADE BNCC #12 - (EF07CO02)
+================================================================================
+
+OBJETIVO BNCC: (EF07CO02) Analisar programas para detectar e remover erros, ampliando a confiança na sua correção.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1273 - (EF69LP01C) | SIMILARIDADE: 61.9%
+
+2. CURRÍCULO #1234 - (EF07LP14) | SIMILARIDADE: 59.2%
+
+================================================================================
+HABILIDADE BNCC #13 - (EF07CO03)
+================================================================================
+
+OBJETIVO BNCC: (EF07CO03) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #818 - (EF06CI18ME) | SIMILARIDADE: 65.3%
+
+2. CURRÍCULO #187 - (EF89EF02P3) | SIMILARIDADE: 63.1%
+
+3. CURRÍCULO #1205 - (EF67LP10A) | SIMILARIDADE: 59.5%
+
+================================================================================
+HABILIDADE BNCC #14 - (EF07CO04)
+================================================================================
+
+OBJETIVO BNCC: (EF07CO04) Explorar propriedades básicas de grafos.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #75 - (EF06MA31X) | SIMILARIDADE: 66.1%
+
+2. CURRÍCULO #1733 - (EF08MA32ME) | SIMILARIDADE: 64.4%
+
+================================================================================
+HABILIDADE BNCC #15 - (EF07CO05)
+================================================================================
+
+OBJETIVO BNCC: (EF07CO05) Criar algoritmos fazendo uso da decomposição e do reúso no processo de solução de forma colaborativa e cooperativa e automatizá-los usando uma linguagem de programação.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #624 - (EF89LP35) | SIMILARIDADE: 65.7%
+
+2. CURRÍCULO #42 - (EF69LP51X) | SIMILARIDADE: 65.1%
+
+3. CURRÍCULO #924 - (EF89EF03P4) | SIMILARIDADE: 62.4%
+
+================================================================================
+HABILIDADE BNCC #16 - (EF07CO06)
+================================================================================
+
+OBJETIVO BNCC: (EF07CO06) Compreender o papel de protocolos para a transmissão de dados.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1128 - (EF67LP20) | SIMILARIDADE: 57.4%
+
+2. CURRÍCULO #1442 - (EF09LP11) | SIMILARIDADE: 57.2%
+
+3. CURRÍCULO #51 - (EF06Ll24) | SIMILARIDADE: 53.2%
+
+================================================================================
+HABILIDADE BNCC #17 - (EF07CO07)
+================================================================================
+
+OBJETIVO BNCC: (EF07CO07) Identificar problemas de segurança cibernética e experimentar formas de proteção.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #869 - (EF09CI05) | SIMILARIDADE: 58.3%
+
+2. CURRÍCULO #831 - (EF06CI26ME) | SIMILARIDADE: 55.5%
+
+3. CURRÍCULO #970 - (EF06GE14MEX) | SIMILARIDADE: 53.0%
+
+================================================================================
+HABILIDADE BNCC #18 - (EF07CO08)
+================================================================================
+
+OBJETIVO BNCC: (EF07CO08) Demonstrar empatia sobre opiniões divergentes na web.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #696 - (EF69AR09XP2) | SIMILARIDADE: 61.5%
+
+2. CURRÍCULO #159 - (EF67LP12X) | SIMILARIDADE: 60.7%
+
+3. CURRÍCULO #929 - (EF89EF24ME) | SIMILARIDADE: 56.3%
+
+================================================================================
+HABILIDADE BNCC #19 - (EF07CO09)
+================================================================================
+
+OBJETIVO BNCC: (EF07CO09) Reconhecer e debater sobre cyberbullying.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #949 - (EF09ER02X) | SIMILARIDADE: 51.4%
+
+2. CURRÍCULO #428 - (EF09LI03) | SIMILARIDADE: 47.9%
+
+3. CURRÍCULO #13 - (EF67LP23AX) | SIMILARIDADE: 46.4%
+
+================================================================================
+HABILIDADE BNCC #20 - (EF07CO10)
+================================================================================
+
+OBJETIVO BNCC: (EF07CO10) Identificar os impactos ambientais do descarte de peças de computadores e eletrônicos, bem como sua relação com a sustentabilidade
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #175 - (EF07CI03A) | SIMILARIDADE: 67.7%
+
+2. CURRÍCULO #176 - (EF07CI03B) | SIMILARIDADE: 65.4%
+
+================================================================================
+HABILIDADE BNCC #21 - (EF07CO11)
+================================================================================
+
+OBJETIVO BNCC: (EF07CO11) Criar, documentar e publicar, de forma individual ou colaborativa, produtos (vídeos, podcasts, web sites) usando recursos de tecnologia.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #163 - (EF67LP11X) | SIMILARIDADE: 64.4%
+
+2. CURRÍCULO #1257 - (EF89LP13B) | SIMILARIDADE: 63.8%
+
+3. CURRÍCULO #1635 - (EF09LI05) | SIMILARIDADE: 58.6%
+
+================================================================================
+HABILIDADE BNCC #22 - (EF08CO01)
+================================================================================
+
+OBJETIVO BNCC: (EF08CO01) Construir soluções de problemas usando a técnica de recursão e automatizar tais soluções usando uma linguagem de programação.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1383 - (EF89LP31CX) | SIMILARIDADE: 62.0%
+
+2. CURRÍCULO #1241 - (EF67LP19) | SIMILARIDADE: 61.0%
+
+3. CURRÍCULO #908 - (EF89EF03P3) | SIMILARIDADE: 58.7%
+
+================================================================================
+HABILIDADE BNCC #23 - (EF08CO02)
+================================================================================
+
+OBJETIVO BNCC: (EF08CO02) Criar soluções de problemas para os quais seja adequado o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação, empregando ou não a recursão como uma técnica de resolver o problema.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #128 - (EF07LP12A) | SIMILARIDADE: 68.4%
+
+2. CURRÍCULO #129 - (EF07LP12B) | SIMILARIDADE: 67.2%
+
+================================================================================
+HABILIDADE BNCC #24 - (EF08CO03)
+================================================================================
+
+OBJETIVO BNCC: (EF08CO03) Utilizar algoritmos clássicos de manipulação sobre listas.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #854 - (EF08CI02) | SIMILARIDADE: 53.4%
+
+2. CURRÍCULO #1704 - (EF07MA40ME) | SIMILARIDADE: 53.2%
+
+3. CURRÍCULO #897 - (EF67EF19) | SIMILARIDADE: 50.0%
+
+================================================================================
+HABILIDADE BNCC #25 - (EF08CO04)
+================================================================================
+
+OBJETIVO BNCC: (EF08CO04) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #85 - (EF67EF01) | SIMILARIDADE: 61.5%
+
+2. CURRÍCULO #172 - (EF07MA36X) | SIMILARIDADE: 61.1%
+
+3. CURRÍCULO #880 - (EF67EF02) | SIMILARIDADE: 60.7%
+
+================================================================================
+HABILIDADE BNCC #26 - (EF08CO05)
+================================================================================
+
+OBJETIVO BNCC: (EF08CO05) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #934 - (EF89EF16) | SIMILARIDADE: 73.1%
+
+2. CURRÍCULO #423 - (EF09HI06) | SIMILARIDADE: 73.1%
+
+3. CURRÍCULO #183 - (EF08HI03X) | SIMILARIDADE: 69.4%
+
+================================================================================
+HABILIDADE BNCC #27 - (EF08CO06)
+================================================================================
+
+OBJETIVO BNCC: (EF08CO06) Entender como é a estrutura e funcionamento da internet.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #977 - (EF07GE13ME) | SIMILARIDADE: 63.7%
+
+2. CURRÍCULO #1584 - (EF07LI04) | SIMILARIDADE: 57.3%
+
+3. CURRÍCULO #1331 - (EF89LP17C) | SIMILARIDADE: 56.8%
+
+================================================================================
+HABILIDADE BNCC #28 - (EF08CO07)
+================================================================================
+
+OBJETIVO BNCC: (EF08CO07) Compartilhar informações por meio de redes sociais, compreendendo a sua dinâmica de funcionamento, de forma responsável e avaliando sua confiabilidade, considerando o respeito e a ética.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1393 - (EF89LP10BX) | SIMILARIDADE: 64.2%
+
+2. CURRÍCULO #909 - (EF89EF04P3) | SIMILARIDADE: 58.6%
+
+3. CURRÍCULO #953 - (EFO7ER06) | SIMILARIDADE: 57.9%
+
+================================================================================
+HABILIDADE BNCC #29 - (EF08CO08)
+================================================================================
+
+OBJETIVO BNCC: (EF08CO08) Distinguir os tipos de dados pessoais que são solicitados em espaços digitais e os riscos associados.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1280 - (EF08LP01A) | SIMILARIDADE: 63.6%
+
+2. CURRÍCULO #1202 - (EF69LP17AX) | SIMILARIDADE: 62.0%
+
+3. CURRÍCULO #1564 - (EF06Ll12) | SIMILARIDADE: 57.8%
+
+================================================================================
+HABILIDADE BNCC #30 - (EF08CO09)
+================================================================================
+
+OBJETIVO BNCC: (EF08CO09) Analisar criticamente as políticas de termos de uso das redes sociais e demais plataformas.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1418 - (EF09LP02B) | SIMILARIDADE: 64.1%
+
+2. CURRÍCULO #1176 - (EF07LP01A) | SIMILARIDADE: 60.4%
+
+================================================================================
+HABILIDADE BNCC #31 - (EF08CO10)
+================================================================================
+
+OBJETIVO BNCC: (EF08CO10) Discutir questões sobre segurança e privacidade relacionadas ao uso dos ambientes virtuais.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1636 - (EF09LI08) | SIMILARIDADE: 72.0%
+
+2. CURRÍCULO #906 - (EF67EF20P2) | SIMILARIDADE: 65.4%
+
+3. CURRÍCULO #851 - (EF08CI06) | SIMILARIDADE: 64.1%
+
+================================================================================
+HABILIDADE BNCC #32 - (EF08CO11)
+================================================================================
+
+OBJETIVO BNCC: (EF08CO11) Avaliar a precisão, relevância, adequação, abrangência e vieses que ocorrem em fontes de informação eletrônica
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #117 - (EF69LP45X) | SIMILARIDADE: 60.4%
+
+2. CURRÍCULO #1425 - (EF09LP01) | SIMILARIDADE: 60.3%
+
+3. CURRÍCULO #46 - (EF06LI08) | SIMILARIDADE: 54.8%
+
+================================================================================
+HABILIDADE BNCC #33 - (EF09CO01)
+================================================================================
+
+OBJETIVO BNCC: (EF09CO01) Criar soluções de problemas para os quais seja adequado o uso de árvores e grafos para descrever suas informações e automatizá-las usando uma linguagem de programação.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1124 - (EF69LP33) | SIMILARIDADE: 69.7%
+
+2. CURRÍCULO #1399 - (EF08LP03BX) | SIMILARIDADE: 69.5%
+
+================================================================================
+HABILIDADE BNCC #34 - (EF09CO02)
+================================================================================
+
+OBJETIVO BNCC: (EF09CO02) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #188 - (EF89EF07) | SIMILARIDADE: 59.4%
+
+2. CURRÍCULO #1079 - (EF69LP07AX) | SIMILARIDADE: 59.0%
+
+3. CURRÍCULO #877 - (EF67EF11) | SIMILARIDADE: 58.3%
+
+================================================================================
+HABILIDADE BNCC #35 - (EF09CO03)
+================================================================================
+
+OBJETIVO BNCC: (EF09CO03) Usar autômatos para descrever comportamentos de forma abstrata automatizando-os através de uma linguagem de programação baseada em eventos.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1204 - (EF67LP09X) | SIMILARIDADE: 54.4%
+
+2. CURRÍCULO #1206 - (EF67LP10B) | SIMILARIDADE: 53.9%
+
+3. CURRÍCULO #416 - (EF89EF20) | SIMILARIDADE: 49.9%
+
+================================================================================
+HABILIDADE BNCC #36 - (EF09CO04)
+================================================================================
+
+OBJETIVO BNCC: (EF09CO04) Compreender o funcionamento de malwares e outros ataques cibernéticos.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #589 - (EF89LP37) | SIMILARIDADE: 56.3%
+
+2. CURRÍCULO #1184 - (EF67LP06) | SIMILARIDADE: 51.7%
+
+3. CURRÍCULO #835 - (EF07CI13BX) | SIMILARIDADE: 51.6%
+
+================================================================================
+HABILIDADE BNCC #37 - (EF09CO05)
+================================================================================
+
+OBJETIVO BNCC: (EF09CO05) Analisar técnicas de criptografia para armazenamento e transmissão de dados.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1542 - (EF89LP29B) | SIMILARIDADE: 64.6%
+
+2. CURRÍCULO #1428 - (EF69LP46X) | SIMILARIDADE: 61.7%
+
+3. CURRÍCULO #1626 - (EF08Ll11) | SIMILARIDADE: 58.4%
+
+================================================================================
+HABILIDADE BNCC #38 - (EF09CO06)
+================================================================================
+
+OBJETIVO BNCC: (EF09CO06) Analisar problemas sociais de sua cidade e estado a partir de ambientes digitais, propondo soluções.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #399 - (EF08MA04X) | SIMILARIDADE: 56.7%
+
+2. CURRÍCULO #1671 - (EF06MA11X) | SIMILARIDADE: 52.9%
+
+================================================================================
+HABILIDADE BNCC #39 - (EF09CO07)
+================================================================================
+
+OBJETIVO BNCC: (EF09CO07) Avaliar aplicações e implicações políticas, socioambientais e culturais das tecnologias digitais para propor alternativas aos desafios do mundo contemporâneo, incluindo aqueles relativos ao mundo do trabalho.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #824 - (EF06CI10X) | SIMILARIDADE: 68.3%
+
+2. CURRÍCULO #178 - (EF07CI06) | SIMILARIDADE: 68.1%
+
+================================================================================
+HABILIDADE BNCC #40 - (EF09CO08)
+================================================================================
+
+OBJETIVO BNCC: (EF09CO08) Discutir como a distribuição desigual de recursos de computação em uma economia global levanta questões de equidade, acesso e poder.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #81 - (EF06CI25MEX) | SIMILARIDADE: 70.2%
+
+2. CURRÍCULO #1392 - (EF89LP10A) | SIMILARIDADE: 64.1%
+
+3. CURRÍCULO #866 - (EF09CI13) | SIMILARIDADE: 63.6%
+
+================================================================================
+HABILIDADE BNCC #41 - (EF09CO09)
+================================================================================
+
+OBJETIVO BNCC: (EF09CO09) Criar ou utilizar conteúdo em meio digital, compreendendo questões éticas relacionadas a direitos autorais e de uso de imagem.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1195 - (EF69LP43X) | SIMILARIDADE: 60.2%
+
+2. CURRÍCULO #1093 - (EF67LP08) | SIMILARIDADE: 55.6%
+
+================================================================================
+HABILIDADE BNCC #42 - (EF09CO10)
+================================================================================
+
+OBJETIVO BNCC: (EF09CO10) Avaliar a veracidade, credibilidade e relevância da informação em seus diferentes formatos, sendo capaz de identificar o propósito pelo qual foi disseminada.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #614 - (EF69LP08X) | SIMILARIDADE: 65.7%
+
+2. CURRÍCULO #1394 - (EF89LP10CX) | SIMILARIDADE: 64.4%
+
+3. CURRÍCULO #834 - (EF07CI13A) | SIMILARIDADE: 58.5%
+
+================================================================================
+HABILIDADE BNCC #53 - (EF69CO11)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO11) Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considerando a ética e o respeito.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #1301 - (EF69LP06AX) | SIMILARIDADE: 62.0%
+
+2. CURRÍCULO #920 - (EF89EF06) | SIMILARIDADE: 58.2%
+
+3. CURRÍCULO #955 - (EF07ER02) | SIMILARIDADE: 56.6%
+
+================================================================================
+HABILIDADE BNCC #54 - (EF69CO12)
+================================================================================
+
+OBJETIVO BNCC: (EF69CO12) Analisar o consumo de tecnologia na sociedade, compreendendo criticamente o caminho da produção dos recursos bem como aspectos ligados à obsolescência e a sustentabilidade.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #170 - (EF07MA29X) | SIMILARIDADE: 66.6%
+
+2. CURRÍCULO #294 - (EF69LP44) | SIMILARIDADE: 63.8%
+
+3. CURRÍCULO #190 - (EF89EF19) | SIMILARIDADE: 59.5%

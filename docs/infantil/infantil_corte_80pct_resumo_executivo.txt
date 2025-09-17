@@ -1,10 +1,11 @@
 
 ==================================================================================
-                            RESUMO EXECUTIVO
+                            RESUMO EXECUTIVO - INFANTIL
+                                  ALGORITMO BALANCEADO
 ==================================================================================
-Data: 2025-09-04 14:20:41
+Data: 2025-09-17 16:04:33
 Nota de corte inicial: 80.0%
-Busca adaptativa: ATIVADA
+Algoritmo: BALANCEADO (evita duplicatas e distribui por disciplinas)
 Modelo: all-MiniLM-L6-v2
 
 PRINCIPAIS DESCOBERTAS:
@@ -12,104 +13,122 @@ PRINCIPAIS DESCOBERTAS:
 
 • 0 de 11 habilidades da BNCC (0.0%) têm correspondência com nota de corte original ≥ 80.0%
 
-• 11 de 11 habilidades da BNCC (100.0%) têm correspondência usando busca adaptativa
+• 11 de 11 habilidades da BNCC (100.0%) têm correspondência usando algoritmo balanceado
 
 • Total de 0 conexões identificadas acima da nota de corte original
 
-• Nota de corte média usada: 64.5%
-• Nota de corte mínima usada: 55.0%
+• 31 habilidades únicas do currículo utilizadas de 285 disponíveis (10.9% de aproveitamento)
+
+DISTRIBUIÇÃO POR DISCIPLINA/EIXO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES: 4 correspondências (12.9%)
+• ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO: 12 correspondências (38.7%)
+• CORPO, GESTOS E MOVIMENTOS: 4 correspondências (12.9%)
+• O EU, O OUTRO E O NÓS: 9 correspondências (29.0%)
+• ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES: 1 correspondências (3.2%)
+• TRAÇOS, SONS, CORES E FORMAS: 1 correspondências (3.2%)
 
 HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
- 1. (EI03CO10) - 2 correspondências (máx: 63.0%)
+ 1. (EI03CO01) - 3 correspondências
+    PENSAMENTO COMPUTACIONAL
+    Algoritmo: Balanceado
+    Máx. similaridade: 55.3%
+ 2. (EI03CO03) - 3 correspondências
+    PENSAMENTO COMPUTACIONAL
+    Algoritmo: Balanceado
+    Máx. similaridade: 66.3%
+ 3. (EI03CO04) - 3 correspondências
+    PENSAMENTO COMPUTACIONAL
+    Algoritmo: Balanceado
+    Máx. similaridade: 66.1%
+ 4. (EI03CO05) - 3 correspondências
+    PENSAMENTO COMPUTACIONAL
+    Algoritmo: Balanceado
+    Máx. similaridade: 61.0%
+ 5. (EI03CO06) - 3 correspondências
+    PENSAMENTO COMPUTACIONAL
+    Algoritmo: Balanceado
+    Máx. similaridade: 71.7%
+ 6. (EI03CO07) - 3 correspondências
+    MUNDO DIGITAL
+    Algoritmo: Balanceado
+    Máx. similaridade: 68.7%
+ 7. (EI03CO08) - 3 correspondências
+    MUNDO DIGITAL
+    Algoritmo: Balanceado
+    Máx. similaridade: 65.5%
+ 8. (EI03CO09) - 3 correspondências
+    MUNDO DIGITAL
+    Algoritmo: Balanceado
+    Máx. similaridade: 62.2%
+ 9. (EI03CO10) - 3 correspondências
     CULTURA DIGITAL
-    Nota de corte usada: 62.0% (adaptativa)
- 2. (EI03CO01) - 1 correspondências (máx: 55.6%)
-    PENSAMENTO COMPUTACIONAL
-    Nota de corte usada: 55.0% (adaptativa)
- 3. (EI03CO02) - 1 correspondências (máx: 61.6%)
-    PENSAMENTO COMPUTACIONAL
-    Nota de corte usada: 61.0% (adaptativa)
- 4. (EI03CO03) - 1 correspondências (máx: 66.3%)
-    PENSAMENTO COMPUTACIONAL
-    Nota de corte usada: 66.0% (adaptativa)
- 5. (EI03CO04) - 1 correspondências (máx: 66.1%)
-    PENSAMENTO COMPUTACIONAL
-    Nota de corte usada: 66.0% (adaptativa)
- 6. (EI03CO05) - 1 correspondências (máx: 61.1%)
-    PENSAMENTO COMPUTACIONAL
-    Nota de corte usada: 61.0% (adaptativa)
- 7. (EI03CO06) - 1 correspondências (máx: 71.6%)
-    PENSAMENTO COMPUTACIONAL
-    Nota de corte usada: 71.0% (adaptativa)
- 8. (EI03CO07) - 1 correspondências (máx: 68.7%)
-    MUNDO DIGITAL
-    Nota de corte usada: 68.0% (adaptativa)
- 9. (EI03CO08) - 1 correspondências (máx: 66.5%)
-    MUNDO DIGITAL
-    Nota de corte usada: 66.0% (adaptativa)
-10. (EI03CO09) - 1 correspondências (máx: 70.2%)
-    MUNDO DIGITAL
-    Nota de corte usada: 70.0% (adaptativa)
-11. (EI03CO11) - 1 correspondências (máx: 64.5%)
+    Algoritmo: Balanceado
+    Máx. similaridade: 63.0%
+10. (EI03CO11) - 3 correspondências
     CULTURA DIGITAL
-    Nota de corte usada: 64.0% (adaptativa)
+    Algoritmo: Balanceado
+    Máx. similaridade: 64.4%
+11. (EI03CO02) - 1 correspondências
+    PENSAMENTO COMPUTACIONAL
+    Algoritmo: Balanceado
+    Máx. similaridade: 61.6%
 
-HABILIDADES QUE PRECISARAM DE BUSCA ADAPTATIVA:
+HABILIDADES QUE USARAM ALGORITMO BALANCEADO:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 • (EI03CO01) - PENSAMENTO COMPUTACIONAL
-  Nota de corte usada: 55.0%
-  Máx. similaridade: 55.6%
+  Máx. similaridade: 55.3%
   (EI03CO01) Reconhecer padrão de repetição em sequência de sons, movimentos, desenhos.
 
 • (EI03CO02) - PENSAMENTO COMPUTACIONAL
-  Nota de corte usada: 61.0%
   Máx. similaridade: 61.6%
   (EI03CO02) Expressar as etapas para a realização de uma tarefa de forma clara e ordenada.
 
 • (EI03CO03) - PENSAMENTO COMPUTACIONAL
-  Nota de corte usada: 66.0%
   Máx. similaridade: 66.3%
   (EI03CO03) Experienciar a execução de algoritmos brincando com objetos (des)plugados.
 
 • (EI03CO04) - PENSAMENTO COMPUTACIONAL
-  Nota de corte usada: 66.0%
   Máx. similaridade: 66.1%
   (EI03CO04) Criar e representar algoritmos para resolver problemas.
 
 • (EI03CO05) - PENSAMENTO COMPUTACIONAL
-  Nota de corte usada: 61.0%
-  Máx. similaridade: 61.1%
+  Máx. similaridade: 61.0%
   (EI03CO05) Comparar soluções algorítmicas para resolver um mesmo problema.
 
 • (EI03CO06) - PENSAMENTO COMPUTACIONAL
-  Nota de corte usada: 71.0%
-  Máx. similaridade: 71.6%
+  Máx. similaridade: 71.7%
   (EI03CO06) Compreender decisões em dois estados (verdadeiro ou falso).
 
 • (EI03CO07) - MUNDO DIGITAL
-  Nota de corte usada: 68.0%
   Máx. similaridade: 68.7%
   (EI03CO07) Reconhecer dispositivos eletrônicos (e não-eletrônicos), identificando quando estão ligad...
 
 • (EI03CO08) - MUNDO DIGITAL
-  Nota de corte usada: 66.0%
-  Máx. similaridade: 66.5%
+  Máx. similaridade: 65.5%
   (EI03CO08) Compreender o conceito de interfaces para comunicação com objetos (des)plugados.
 
 • (EI03CO09) - MUNDO DIGITAL
-  Nota de corte usada: 70.0%
-  Máx. similaridade: 70.2%
+  Máx. similaridade: 62.2%
   (EI03CO09) Identificar dispositivos computacionais e as diferentes formas de interação.
 
 • (EI03CO10) - CULTURA DIGITAL
-  Nota de corte usada: 62.0%
   Máx. similaridade: 63.0%
   (EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.
 
 • (EI03CO11) - CULTURA DIGITAL
-  Nota de corte usada: 64.0%
-  Máx. similaridade: 64.5%
+  Máx. similaridade: 64.4%
   (EI03CO11) Adotar hábitos saudáveis de uso de artefatos computacionais, seguindo recomendações de ór...
+
+
+VANTAGENS DO ALGORITMO BALANCEADO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Evita duplicação de habilidades do currículo
+• Garante distribuição equilibrada entre disciplinas/eixos
+• Maximiza o aproveitamento das habilidades disponíveis no currículo
+• Oferece correspondências mais diversificadas para planejamento pedagógico
+• Reduz a concentração em poucas habilidades do currículo

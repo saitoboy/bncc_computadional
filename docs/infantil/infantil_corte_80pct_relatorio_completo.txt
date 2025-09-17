@@ -1,20 +1,31 @@
 
 ==================================================================================
-                    RELATÓRIO DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL
+                    RELATÓRIO DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL - INFANTIL
+                                  ALGORITMO BALANCEADO
 ==================================================================================
-Data do relatório: 2025-09-04 14:20:41
+Data do relatório: 2025-09-17 16:04:33
 Nota de corte inicial: 80.0% de similaridade
 Modelo utilizado: all-MiniLM-L6-v2
-Busca adaptativa: ATIVADA (garante pelo menos 1 correspondência por habilidade)
+Algoritmo: BALANCEADO (evita duplicatas e distribui por disciplinas)
 
 ESTATÍSTICAS GERAIS:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 • Total de habilidades BNCC analisadas: 11
 • Habilidades BNCC com similaridade ≥ 80.0% (nota original): 0 (0.0%)
-• Habilidades BNCC com correspondência (busca adaptativa): 11 (100.0%)
+• Habilidades BNCC com correspondência (algoritmo balanceado): 11 (100.0%)
 • Total de matches acima da nota de corte original: 0
-• Nota de corte média usada: 64.5%
-• Nota de corte mínima usada: 55.0%
+• Habilidades únicas do currículo utilizadas: 31
+• Taxa de aproveitamento das habilidades do currículo: 10.9%
+
+DISTRIBUIÇÃO POR DISCIPLINA/EIXO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES: 4 correspondências
+• ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO: 12 correspondências
+• CORPO, GESTOS E MOVIMENTOS: 4 correspondências
+• O EU, O OUTRO E O NÓS: 9 correspondências
+• ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES: 1 correspondências
+• TRAÇOS, SONS, CORES E FORMAS: 1 correspondências
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 RELATÓRIO DETALHADO POR HABILIDADE BNCC:
@@ -47,20 +58,39 @@ conseguiu observar? Você consegue reproduzir?
 3) Criar uma sequência a partir de um padrão de cores ou formas semelhantes, indicando a quantidade de
 repetições por meio de blocos de montar ou outros materiais
 
-NOTA DE CORTE USADA: 55.0% (adaptativa)
-QUANTIDADE DE HABILIDADES SIMILARES: 1
-MAIOR SIMILARIDADE ENCONTRADA: 55.6%
+ALGORITMO USADO: Balanceado
+QUANTIDADE DE HABILIDADES SIMILARES: 3
 
 HABILIDADES SIMILARES DO CURRÍCULO:
 ------------------------------------------------------------
 
-1. CURRÍCULO #128 - (EI03ET02ME02) | SIMILARIDADE: 55.6%
+1. CURRÍCULO #128 - (EI03ET02ME02) | SIMILARIDADE: 55.3%
    
-   EIXO CURRÍCULO: ESPAÇOS, TEMPOS, QUANTIDADES E RELAÇÕES
+   EIXO CURRÍCULO: ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES
    
    OBJETIVO CURRÍCULO: (EI03ET02ME02) Vivenciar situações e experiências que envolvam misturas, transformações, gravidades.
    
    EXEMPLOS CURRÍCULO: Nomear e descrever características e semelhanças frente aos fenômenos da natureza, estabelecendo algumas relações de causa e efeito, levantando hipóteses, utilizando diferentes técnicas e instrumentos para reconhecer algumas características e consequências para a vida das pessoas. Reunir informações de diferentes fontes para descobrir por que as coisas acontecem e como funcionam, registrando e comunicando suas descobertas de diferentes formas (oralmente, por meio da escrita, da representação gráfica, de encenações etc.). Reconhecer características geográficas e paisagens que identificam os lugares onde vivem, destacando aqueles que são típicos de sua região. Observar fenômenos naturais por meio de diferentes recursos e experiências. Utilizar a água para satisfazer suas necessidades (hidratação, higiene pessoal, alimentação, limpeza do espaço, etc.). Identificar os elementos e características do dia e da noite. Investigar e registrar as observações a seu modo, sobre os fenômenos e mistérios da natureza. Identificar os fenômenos naturais por meio de diferentes recursos e experiências. Observar o céu em diferentes momentos do dia. Expressar suas observações pela oralidade e registros. Experimentar sensações físicas, táteis em diversas situações da rotina. Observar e relatar sobre: o vento, a chuva, a luz do sol e outros. Experienciar simulações do dia e da noite com presença e ausência de luz e sol/lua. Explorar o efeito da luz por meio da sua presença ou ausência (luz e sombra). Explorar os quatro elementos por meio de experimentos (terra, fogo, ar e água). Fazer registros de suas observações por meio de desenhos, fotos, relatos, escrita espontânea e convencional. Fazer misturas, provocando mudanças físicas e químicas na realização de atividades de culinária, pinturas e experiências com água, terra, argila e outros. Perceber os elementos (terra, fogo, ar e água) enquanto produtores de fenômenos da natureza e reconhecer suas ações na vida humana (chuva, seca, frio e calor). Manipular tintas de diferentes cores e misturá-las identificando as cores que surgem, e registrando as constatações.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #171 - (EI01EF09) | SIMILARIDADE: 53.4%
+   
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
+   
+   OBJETIVO CURRÍCULO: (EI01EF09) Conhecer e manipular diferentes instrumentos e suportes de escrita.
+   
+   EXEMPLOS CURRÍCULO: - Participar de situações significativas de leitura e escrita. - Manipular e explorar revistas, livros e outros materiais impressos. - Explorar suportes textuais de materiais diversos: plástico, tecido, borracha, papel, dentre outros. - Registrar vivências utilizando diferentes suportes de escrita: tinta, giz de cera, carvão, dentre outros, conhecendo suas funções. - Explorar diferentes instrumentos e suportes de escrita em situações de brincadeira ou pequenos grupos. - Reconhecer os livros, demonstrando preferência por algumas histórias ou poemas ao apontar para solicitar a leitura.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #191 - (EI02CG05) | SIMILARIDADE: 53.0%
+   
+   EIXO CURRÍCULO: CORPO, GESTOS E MOVIMENTOS
+   
+   OBJETIVO CURRÍCULO: (EI02CG05) Desenvolver progressivamente as habilidades manuais, adquirindo controle para desenhar, pintar, rasgar, folhear, entre outros
+   
+   EXEMPLOS CURRÍCULO: •    Conhecer e explorar novos objetos, seus usos ou funções. •    Coordenar o movimento das mãos para segurar o giz de cera, canetas, lápis e fazer suas marcas gráficas •    Adaptar a forma como segura instrumen- tos gráficos: pincel grosso, pincel de rolinho, giz de cera, giz pastel e outros para conse- guir diferentes marcas gráficas. •    Manusear    diferentes    riscadores    em suportes e planos variados. •    Manusear   gradativamente   a   tesoura, descobrindo seu uso. •    Pintar, desenhar, rabiscar, folhear, recor- tar utilizando diferentes recursos e supor- tes. •    Explorar  jogos  de  montar,  empilhar  e encaixar. •    Participar de situações que envolvam o rasgar, o enrolar e o amassar. •    Modelar diferentes formas, de diferentes tamanhos com massinha ou argila. •    Explorar  livros  de  materiais  diversos: plástico, tecido, borracha, papel. •    Virar páginas de livros, revistas, jornais e etc. com crescente habilidade. •    Conhecer  brinquedos  ou  jogos  de  sua cultura local.
    
    ──────────────────────────────────────────────────
 
@@ -87,9 +117,8 @@ Exemplo de uma tarefa diária - Hora de dormir:
 (iv) ouvir uma história,
 (v) dormir.
 
-NOTA DE CORTE USADA: 61.0% (adaptativa)
+ALGORITMO USADO: Balanceado
 QUANTIDADE DE HABILIDADES SIMILARES: 1
-MAIOR SIMILARIDADE ENCONTRADA: 61.6%
 
 HABILIDADES SIMILARES DO CURRÍCULO:
 ------------------------------------------------------------
@@ -132,20 +161,39 @@ Passo (4) - Dobrar novamente ao meio;
 Avaliar o resultado refletindo sobre: (a) Quantas vezes pode-se repetir este passo? e (b) Existem formas
 diferentes de dobrar o papel ao meio?
 
-NOTA DE CORTE USADA: 66.0% (adaptativa)
-QUANTIDADE DE HABILIDADES SIMILARES: 1
-MAIOR SIMILARIDADE ENCONTRADA: 66.3%
+ALGORITMO USADO: Balanceado
+QUANTIDADE DE HABILIDADES SIMILARES: 3
 
 HABILIDADES SIMILARES DO CURRÍCULO:
 ------------------------------------------------------------
 
 1. CURRÍCULO #169 - (EI01EF07) | SIMILARIDADE: 66.3%
    
-   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTOS E IMAGINAÇÃO
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
    
    OBJETIVO CURRÍCULO: (EI01EF07) Conhecer e manipular materiais impressos e audiovisuais em diferentes portadores (livro, revista, gibi, jornal, cartaz, CD, tablet etc.).
    
    EXEMPLOS CURRÍCULO: - Manipular livros, cartazes, revistas e outros materiais. - Explorar diferentes tipos de materiais impressos imitando ações e comportamentos típicos de um leitor, como virar a página, apontar as imagens, usar palavras, gestos ou vocalizar na intenção de ler em voz alta o que está escrito. - Manipular e explorar instrumentos tecnológicos como microfone, telefone, dentre outros, percebendo suas funções. - Identificar o uso e a função de alguns recursos tecnológicos e midiáticos, por exemplo, dançando ou cantando quando o(a) professor(a) pega um CD, encenando frente a uma filmadora ou fazendo pose frente a uma máquina fotográfica.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #168 - (EI01EF06) | SIMILARIDADE: 62.2%
+   
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
+   
+   OBJETIVO CURRÍCULO: (EI01EF06) Comunicar-se com outras pessoas usando movimentos, gestos, balbucios, fala e outras formas de expressão.
+   
+   EXEMPLOS CURRÍCULO: - Comunicar-se com professor(a) e colegas realizando diferentes formas de expressão e buscando-se entender. - Responder a estímulos sorrindo ou parando de chorar. - Participar de experiências de interação que envolvem jogos corporais como, por exemplo, esconder partes do corpo e ter prazer ao encontrá-las, situações de dar e receber brinquedos ou outros objetos para que tenha a oportunidade de brincar, interagir e se comunicar. - Responder com gestos e outros movimentos com a intenção de comunicar-se. - Responder a perguntas simples com linguagem não verbal. - Executar gestos simples quando solicitada. - Usar palavras para designar objetos ou pessoas. - Imitar sons e gestos realizados por outras pessoas. - Expressar-se com gestos comuns de sua cultura, como: "dar tchau", brincar de barco emitindo o movimento e som do impacto nas águas, imitar o movimento e som do carro ao acelerar, dentre outras possibilidades.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #48 - (EI03ET01ME2) | SIMILARIDADE: 59.7%
+   
+   EIXO CURRÍCULO: ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES
+   
+   OBJETIVO CURRÍCULO: (EI03ET01ME2) Estabelecer relações entre partes e todo.
+   
+   EXEMPLOS CURRÍCULO: • Manipular objetos e brinquedos de materiais diversos, explorando suas características físicas e suas possibilidades: morder, chupar, produzir sons, apertar, encher, esvaziar, empilhar, colocar dentro, fora, fazer afundar, flutuar, soprar, montar, construir, lançar, jogar etc. • Identificar objetos pessoais e do meio em que vive, conhecendo suas características, propriedades e função social, para que possa utilizá-los de forma independente, de acordo com suas necessidades. • Manipular objetos e brinquedos explorando características, propriedades e possibilidades associativas (empilhar, rolar, transvasar, encaixar). • Pesquisar, experimentar e sentir os elementos naturais: areia, água, barro, pedras, plantas etc. • Usar características opostas das grandezas de objetos (grande/pequeno, comprido/curto etc.) ao falar sobre eles. • Diferenciar, diante de objetos ou figuras, características como aberto/fechado, todo/parte, interior/exterior. • Identificar fronteiras: fora/dentro. • Perceber semelhanças e diferenças, com apoio de imagens e objetos. • Manipular, explorar, comparar, organizar, sequenciar e ordenar diversos materiais. • Comparar, classificar e ordenar (seriação) os objetos seguindo alguns critérios, como cor, forma, textura, tamanho, função etc. • Participar de situações que envolvam unidades de medida: comprimento, massa e capacidade. • Comparar tamanhos, pesos, capacidades e temperaturas de objetos, estabelecendo relações. • Fazer uso de diferentes procedimentos ao comparar objetos. • Colecionar objetos com diferentes características físicas e reconhecer formas de organizá-los. • Observar e identificar no meio natural e social as formas geométricas, percebendo diferenças e semelhanças entre os objetos no espaço em situações diversas. • Reconhecer e nomear as figuras geométricas planas: triângulo, círculo, quadrado, retângulo. • Estabelecer relações entre os sólidos geométricos e os objetos presentes no seu ambiente. • Estimular brincadeiras com traçado das figuras geométricas no chão e construções de figuras geométricas planas e tridimensionais.
    
    ──────────────────────────────────────────────────
 
@@ -171,20 +219,39 @@ temos a "Minha Fábrica de Comida" (https://lifes.dc.ufscar.br/computar/minha-fa
 passos do trajeto. Como sugestão de material de apoio pedagógico, temos o “AlgoCards” (http://
 www.computacional.com.br/) e "Segue o Trilho" (https://lifes.dc.ufscar.br/computar/segue-o-trilho/).
 
-NOTA DE CORTE USADA: 66.0% (adaptativa)
-QUANTIDADE DE HABILIDADES SIMILARES: 1
-MAIOR SIMILARIDADE ENCONTRADA: 66.1%
+ALGORITMO USADO: Balanceado
+QUANTIDADE DE HABILIDADES SIMILARES: 3
 
 HABILIDADES SIMILARES DO CURRÍCULO:
 ------------------------------------------------------------
 
 1. CURRÍCULO #39 - (EI03EF09ME05) | SIMILARIDADE: 66.1%
    
-   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTOS E IMAGINAÇÃO
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
    
    OBJETIVO CURRÍCULO: (EI03EF09ME05) Utilizar práticas de escrita de acordo com o conhecimento de que dispõe sobre o sistema de escrita. 
    
    EXEMPLOS CURRÍCULO: Vivenciar experiências que possibilitem perceber a presença da escrita em diferentes ambientes. Escrever o próprio nome (Primeiro nome), praticando a escrita espontânea em situações em que isso é necessário. Com auxílio da ficha no 1º semestre, sem auxílio da ficha ao final do 2º semestre. Reconhecer o próprio nome dentro do conjunto de nomes da turma, em situações em que isso se faça necessário. Apresentar níveis de avanço com relação às hipóteses da evolução da escrita, atingindo o nível pré-silábico no 1º semestre. Apresentar níveis de avanço com relação às hipóteses da evolução da escrita, podendo atingir o nível silábico (SVS) ao final do 2º semestre. Vivenciar jogos e brincadeiras que envolvam a escrita (forca, bingos, cruzadinhas, etc.) e utilizar materiais escritos em brincadeiras de faz de conta. Escolher palavras-chave das parlendas para fazer comparação entre as palavras: palavra maior/menor, número de letras/sílabas, quantas vezes abre a boca para falar as palavras, letra inicial/final. Participar de jogos que relacionam imagens e palavras. Brincar com a sonoridade das palavras, explorando-as e estabelecendo relações com sua representação escrita. Utilizar suportes de escrita diversos para desenhar e escrever espontaneamente (cartolina, sulfite, livros, revistinhas e outros). Registrar suas ideias utilizando desenhos, símbolos e palavras, escritas à sua maneira. Realizar tentativas de escrita com recursos variados e em diferentes suportes. Participar   coletivamente   da   leitura   e escrita de listas, bilhetes, recados, convites, cantigas,  textos,  receitas  e  outros,  tendo o(a) professor(a) como leitor e escriba. Ter contato com o alfabeto em diferentes situações: brincadeiras, jogos e outros. Em situações de escrita verbalizar suas hipóteses sobre a escrita. Participar   de   atividades   coletivas   ou individuais    que    envolvam    letra/desenho/palavra. Em roda de histórias, parlendas, quadri- nhas,   músicas, etc, identificando início e final do texto, marcando e apontando. Em rodas de manipulação de livros, roda de  histórias,  rodas  de  poesias,  parlendas, identificar localização do título nos textos e livros. Com  palavras  que  fazem  parte  do  seu repertório (parlendas, poesias. quadrinhas, músicas)  com  a  intervenção  do  professor fazer  a  análise  graficamente  as  palavras (número de letras⁄sílabas, letra inicial⁄final).  Participar  de  atividades  lúdicas  (lista, chamadas, nome de histórias, etc) usando a escrita  espontânea  para  comunicar  suas ideias e opiniões aos colegas e professores(as). Participar  m  sala  de  atividades  onde utilize letras, números e desenhos em suas representações gráficas, progressivamente. Participar  m  sala  de  atividades  onde utilize letras, números e desenhos em suas representações gráficas, progressivamente. Em sala participar de atividades (chama- da, ficha de nome, bingo de nomes, jogo da memória,etc) identificando o próprio nome e dos colegas para o reconhecimento dos mesmos em situações da rotina escolar.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #34 - (EI03EF09) | SIMILARIDADE: 64.9%
+   
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
+   
+   OBJETIVO CURRÍCULO: (EI03EF09) Levantar hipóteses em relação à linguagem escrita, realizando registros de palavras e textos, por meio de escrita espontânea.
+   
+   EXEMPLOS CURRÍCULO: Vivenciar experiências que possibilitem perceber a presença da escrita em diferentes ambientes. Escrever o próprio nome (Primeiro nome), praticando a escrita espontânea em situações em que isso é necessário. Com auxílio da ficha no 1º semestre, sem auxílio da ficha ao final do 2º semestre. Reconhecer o próprio nome dentro do conjunto de nomes da turma, em situações em que isso se faça necessário. Apresentar níveis de avanço com relação às hipóteses da evolução da escrita, atingindo o nível pré-silábico no 1º semestre. Apresentar níveis de avanço com relação às hipóteses da evolução da escrita, podendo atingir o nível silábico (SVS) ao final do 2º semestre. Vivenciar jogos e brincadeiras que envolvam a escrita (forca, bingos, cruzadinhas, etc.) e utilizar materiais escritos em brincadeiras de faz de conta. Escolher palavras-chave das parlendas para fazer comparação entre as palavras: palavra maior/menor, número de letras/sílabas, quantas vezes abre a boca para falar as palavras, letra inicial/final. Participar de jogos que relacionam imagens e palavras. Brincar com a sonoridade das palavras, explorando-as e estabelecendo relações com sua representação escrita. Utilizar suportes de escrita diversos para desenhar e escrever espontaneamente (cartolina, sulfite, livros, revistinhas e outros). Registrar suas ideias utilizando desenhos, símbolos e palavras, escritas à sua maneira. Realizar tentativas de escrita com recursos variados e em diferentes suportes. Participar   coletivamente   da   leitura   e escrita de listas, bilhetes, recados, convites, cantigas,  textos,  receitas  e  outros,  tendo o(a) professor(a) como leitor e escriba. Ter contato com o alfabeto em diferentes situações: brincadeiras, jogos e outros. Em situações de escrita verbalizar suas hipóteses sobre a escrita. Participar   de   atividades   coletivas   ou individuais    que    envolvam    letra/desenho/palavra. Em roda de histórias, parlendas, quadri- nhas,   músicas, etc, identificando início e final do texto, marcando e apontando. Em rodas de manipulação de livros, roda de  histórias,  rodas  de  poesias,  parlendas, identificar localização do título nos textos e livros. Com  palavras  que  fazem  parte  do  seu repertório (parlendas, poesias. quadrinhas, músicas)  com  a  intervenção  do  professor fazer  a  análise  graficamente  as  palavras (número de letras⁄sílabas, letra inicial⁄final).  Participar  de  atividades  lúdicas  (lista, chamadas, nome de histórias, etc) usando a escrita  espontânea  para  comunicar  suas ideias e opiniões aos colegas e professores(as). Participar  m  sala  de  atividades  onde utilize letras, números e desenhos em suas representações gráficas, progressivamente. Participar  m  sala  de  atividades  onde utilize letras, números e desenhos em suas representações gráficas, progressivamente. Em sala participar de atividades (chama- da, ficha de nome, bingo de nomes, jogo da memória,etc) identificando o próprio nome e dos colegas para o reconhecimento dos mesmos em situações da rotina escolar.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #73 - (EI03EO07) | SIMILARIDADE: 60.4%
+   
+   EIXO CURRÍCULO: O EU, O OUTRO E O NÓS
+   
+   OBJETIVO CURRÍCULO: (EI03EO07) Usar estratégias pautadas no respeito mútuo para lidar com conflitos nas interações com crianças e adultos.
+   
+   EXEMPLOS CURRÍCULO: Expressar, reconhecer e nomear necessidades, emoções e sentimentos que vivencia e observa no outro. Cooperar, compartilhar objetos e receber auxílio quando necessário. Utilizar estratégias pacíficas ao tentar resolver conflitos com outras crianças, buscando compreender a posição e o sentimento do outro. Utilizar estratégias para resolver seus conflitos relacionais considerando soluções que satisfaçam a ambas as partes. Realizar a escuta do outro. Saber desculpar-se quando sua atitude desrespeitar o outro. Usar do diálogo e estratégias simples para resolver conflitos, reconhecendo as diferentes opiniões e aprendendo a respeitá-las.
    
    ──────────────────────────────────────────────────
 
@@ -205,20 +272,39 @@ Computação Desplugada:
 (ii) tomar banho,
 (iii) colocar roupa.
 
-NOTA DE CORTE USADA: 61.0% (adaptativa)
-QUANTIDADE DE HABILIDADES SIMILARES: 1
-MAIOR SIMILARIDADE ENCONTRADA: 61.1%
+ALGORITMO USADO: Balanceado
+QUANTIDADE DE HABILIDADES SIMILARES: 3
 
 HABILIDADES SIMILARES DO CURRÍCULO:
 ------------------------------------------------------------
 
-1. CURRÍCULO #125 - (EI03ET01ME02) | SIMILARIDADE: 61.1%
+1. CURRÍCULO #125 - (EI03ET01ME02) | SIMILARIDADE: 61.0%
    
-   EIXO CURRÍCULO: ESPAÇOS, TEMPOS, QUANTIDADES E RELAÇÕES
+   EIXO CURRÍCULO: ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES
    
    OBJETIVO CURRÍCULO: (EI03ET01ME02) Estabelecer relações entre partes e todo.
    
    EXEMPLOS CURRÍCULO: Comparar tamanhos, pesos, volumes e temperaturas de objetos, estabelecendo relações. Usar características opostas das grandezas de objetos (grande/pequeno, comprido/curto etc.) ao falar sobre eles. Fazer uso de diferentes procedimentos ao comparar objetos. Manipular e explorar objetos e brinquedos de materiais diversos, explorando suas características físicas e suas possibilidades: morder, chupar, produzir sons, apertar, encher, esvaziar, empilhar, colocar dentro, fora, fazer afundar, flutuar, soprar, montar, etc. Manipular, explorar, comparar, organizar, sequenciar e ordenar diversos materiais. Comparar, organizar, sequenciar, ordenar e classificar objetos e brinquedos seguindo critérios estabelecidos, como: cor, forma, tamanho e outros atributos. Identificar posições observando elementos no espaço: em cima, embaixo, dentro, fora, perto, longe, à frente, atrás, ao lado de, primeiro, último, de frente, de costas, no meio, entre, à esquerda, à direita. Observar e identificar no meio natural e social as formas geométricas, percebendo diferenças e semelhanças entre os objetos no espaço em situações diversas. Colecionar objetos com diferentes características físicas reconhecendo formas de organizá-los. Observar e reconhecer algumas características dos objetos produzidos em diferentes épocas e por diferentes grupos sociais percebendo suas transformações. Manipular objetos e brinquedos explorando  características,  propriedades e suas possibilidades associativas (empilhar, rolar, transvasar, encaixar e outros). Identificar objetos pessoais e do meio em que vive conhecendo suas características, propriedades  e  função  social  para  que possa  utilizá-los  de  forma  independente de acordo com suas necessidades. Participar de situações que envolvam a contagem  de  objetos,  medição  de  massa, volume e tempo. Reconhecer e nomear as figuras geométricas planas: triângulo, círculo, quadrado, retângulo. Estabelecer  relações  entre  os  sólidos geométricos e os objetos presentes no seu ambiente. Explorar semelhanças e diferenças, comparar,  classificar  e  ordenar  (seriação) os objetos seguindo alguns critérios, como cor, forma, textura, tamanho, função etc.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #5 - (EI03CG05) | SIMILARIDADE: 56.1%
+   
+   EIXO CURRÍCULO: CORPO, GESTOS E MOVIMENTOS
+   
+   OBJETIVO CURRÍCULO: (EI03CG05) Coordenar suas habilidades manuais no atendimento adequado a seus interesses e necessidades em situações diversas.
+   
+   EXEMPLOS CURRÍCULO: Manusear e nomear elementos do meio natural e objetos produzidos pelo homem, utilizando-os em suas produções manuais. Usar a tesoura sem ponta para recortar. Manipular objetos de diferentes tamanhos e pesos. Explorar materiais como argila, barro, massinha de modelar e outros, com variadas intenções de criação. Manipular objetos pequenos construindo brinquedos ou jogos e utilizar instrumentos como palitos, rolos e pequenas espátulas nas suas produções com cada vez maior destreza. Manusear diferentes riscadores em suportes e planos variados para perceber suas diferenças e registrar suas ideias. Vivenciar situações em que é feito o contorno do próprio corpo, nomeando suas partes e vestimentas. Participar de jogos e brincadeiras de construção utilizando elementos estruturados ou não, com o intuito de montar, empilhar, encaixar e outros. Virar páginas de livros, revistas, jornais e outros com crescente habilidade. Executar habilidades manuais utilizando recursos variados: linha, lã, canudinho, argola e outros. Realizar conquistas relacionadas às suas habilidades manuais.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #111 - (EI03EF07ME02) | SIMILARIDADE: 55.0%
+   
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
+   
+   OBJETIVO CURRÍCULO: (EI03EF07ME02) Participar de situações significativas de leitura de gêneros e tipologias textuais variados, através da leitura realizada pela professora, da leitura realizada pelas crianças que não sabem ler (“pseudoleitura”), leitura de ilustrações, de textos não-verbais.
+   
+   EXEMPLOS CURRÍCULO: Compreender a escrita por meio do manuseio de livros, revistas e outros portadores de textos e da participação em diversas situações nas quais seus usos se fazem necessários. Compreender como se organiza a escrita em nossa cultura: de cima para baixo, da esquerda para a direita. Identificar as letras do alfabeto em diversas situações da rotina escolar. Registrar o nome e outros textos significativos realizando tentativas de escrita. Identificar símbolos que representam ideias, locais, objetos e momentos da rotina: a marca do biscoito preferido, placa do banheiro, cartaz de rotina do dia etc. Observar o registro textual tendo o(a) professor(a) como escriba. Acompanhar a leitura apontada do texto realizada pelo(a) professor(a). Atentar-se para a escuta da leitura feita pelo(a) professor(a), em ocasiões variadas, sobretudo nas situações de leitura de histórias e na diversidade textual, ampliando seu repertório linguístico e observação gráfica das palavras.
    
    ──────────────────────────────────────────────────
 
@@ -244,20 +330,39 @@ criança apresenta o resultado da sua avaliação e, em conjunto, discutem os er
 sejam utilizadas frases passíveis de ser julgadas como verdadeiras (vivo) ou falsas (morto).
 3) “Verdadeiro ou Falso” / “Isso no meu mundo” (https://lifes.dc.ufscar.br/computar/verdadeiro-ou-falso/)."
 
-NOTA DE CORTE USADA: 71.0% (adaptativa)
-QUANTIDADE DE HABILIDADES SIMILARES: 1
-MAIOR SIMILARIDADE ENCONTRADA: 71.6%
+ALGORITMO USADO: Balanceado
+QUANTIDADE DE HABILIDADES SIMILARES: 3
 
 HABILIDADES SIMILARES DO CURRÍCULO:
 ------------------------------------------------------------
 
-1. CURRÍCULO #235 - (EI02EF07ME01) | SIMILARIDADE: 71.6%
+1. CURRÍCULO #235 - (EI02EF07ME01) | SIMILARIDADE: 71.7%
    
-   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTOS E IMAGINAÇÃO
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
    
    OBJETIVO CURRÍCULO: (EI02EF07ME01) Conhecer e identificar as gravuras que compõem as rotinas da turma.
    
    EXEMPLOS CURRÍCULO: • Participar de situações em que é convidado a contar ou criar histórias com ou sem o apoio de imagens, fotos ou temas disparadores.   • Dramatizar situações do dia a dia e narrativas tendo o professor como narrador (marcando com entonações diferentes e indicando o caminho) em textos literários, parlendas, poesias, cantigas.   • Ouvir e nomear objetos, pessoas, personagens, fotografias e gravuras para ampliar seu vocabulário.   • Oralizar contextos e histórias a seu modo.   • Recontar histórias ao brincar de faz de conta.   • Relacionar diferentes histórias conhecidas.   • Simular leituras por meio de brincadeiras de faz de conta.   • Narrar situações do dia a dia no sentido de manifestar experiências vividas e ouvidas.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #236 - (EI02EF06ME02) | SIMILARIDADE: 69.6%
+   
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
+   
+   OBJETIVO CURRÍCULO: (EI02EF06ME02) Reconhecer as características de objetos, personagens, cenas de histórias e situações cotidianas.
+   
+   EXEMPLOS CURRÍCULO: • Participar de situações em que é convidado a contar ou criar histórias com ou sem o apoio de imagens, fotos ou temas disparadores.   • Dramatizar situações do dia a dia e narrativas tendo o professor como narrador (marcando com entonações diferentes e indicando o caminho) em textos literários, parlendas, poesias, cantigas.   • Ouvir e nomear objetos, pessoas, personagens, fotografias e gravuras para ampliar seu vocabulário.   • Oralizar contextos e histórias a seu modo.   • Recontar histórias ao brincar de faz de conta.   • Relacionar diferentes histórias conhecidas.   • Simular leituras por meio de brincadeiras de faz de conta.   • Narrar situações do dia a dia no sentido de manifestar experiências vividas e ouvidas.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #144 - (EI03EO03) | SIMILARIDADE: 64.8%
+   
+   EIXO CURRÍCULO: O EU, O OUTRO E O NÓS
+   
+   OBJETIVO CURRÍCULO: (EI03EO03) Ampliar as relações interpessoais, desenvolvendo atitudes de participação e cooperação.
+   
+   EXEMPLOS CURRÍCULO: Participar de brincadeiras de faz de conta, compartilhando propósitos comuns, representando diferentes papéis e convidando outros colegas para participar. Levar em consideração o ponto de vista de seus colegas. Perceber a expressão de sentimentos e emoções de seus companheiros. Explorar os espaços da instituição, do bairro e da cidade conhecendo ambientes, fatos históricos e interagindo com diferentes pessoas e contextos sociais. Relacionar-se com crianças da mesma idade e com outras, colaborando em situações diversas. Participar de situações de interações e brincadeiras agindo de forma solidária e colaborativa. Compartilhar objetos e espaços com crianças e professores(as) manifestando curiosidade e autonomia. Participar de conversas com professores(as) e crianças. Participar de situações em que é instruída a levar objetos ou transmitir recados em outros locais da instituição. Realizar a guarda de seus pertences no local adequado. Participar de jogos, conduzidos pelas crianças ou pelos professores(as), seguindo regras. Esperar a vez quando está realizando atividades em grupo. Participar de brincadeiras coletivas, assumindo papéis e criando enredos com os colegas.
    
    ──────────────────────────────────────────────────
 
@@ -281,9 +386,8 @@ exemplo:
 (ii) Pega-gelo / Pega-congelou;
 (iii) Estátua.
 
-NOTA DE CORTE USADA: 68.0% (adaptativa)
-QUANTIDADE DE HABILIDADES SIMILARES: 1
-MAIOR SIMILARIDADE ENCONTRADA: 68.7%
+ALGORITMO USADO: Balanceado
+QUANTIDADE DE HABILIDADES SIMILARES: 3
 
 HABILIDADES SIMILARES DO CURRÍCULO:
 ------------------------------------------------------------
@@ -295,6 +399,26 @@ HABILIDADES SIMILARES DO CURRÍCULO:
    OBJETIVO CURRÍCULO: (EI03TS02) Expressar-se livremente por meio de desenho, pintura, colagem, dobradura e escultura, criando produções bidimensionais e tridimensionais.
    
    EXEMPLOS CURRÍCULO: Criar com jogos de encaixe e de construção, explorando cores, formas e texturas. Interpretar canções e participar de brincadeiras cantadas para que se estimule a concentração, a atenção e a coordenação motora. Manipular e identificar materiais de diferentes texturas: lisas, ásperas, macias, duras, moles etc. Explorar e criar a partir de diversos materiais: pedrinhas, sementes, algodão, argila e outros. Separar objetos por cores, tamanho, forma, etc. Experimentar diversas possibilidades de representação visual bidimensional e tridimensional, utilizando materiais diversos: caixas, tecidos, tampinhas, gravetos, pedrinhas, lápis de cor, giz de cera, papéis etc. Explorar formas variadas dos objetos, percebendo as características das mesmas e utilizá-las em suas composições. Apreciar e oralizar sobre diferentes imagens do seu dia a dia. Explorar os elementos das Artes Visuais (ponto, linha e plano) a fim de que sejam considerados em suas produções. Criar desenhos, pinturas, colagens, modelagens a partir de seu próprio repertório e da utilização dos elementos da linguagem das Artes Visuais: ponto, linha, cor, forma, espaço e textura. Conhecer e apreciar artesanato e obras de Artes Visuais de diferentes técnicas, movimentos, épocas, estilos e culturas. Reconhecer as cores presentes na natureza e no dia a dia, nomeando-as, com o objetivo de fazer a correspondência entre cores e elementos. Experimentar as diversas possibilidades do processo de produção das cores secundárias e reconhecê-las na natureza, no dia a dia e em obras de arte.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #213 - (EI02EO04) | SIMILARIDADE: 62.8%
+   
+   EIXO CURRÍCULO: O EU, O OUTRO E O NÓS
+   
+   OBJETIVO CURRÍCULO: (EI02EO04) Comunicar-se com os colegas e os adultos, buscando compreendê-los e fazendo-se compreender.
+   
+   EXEMPLOS CURRÍCULO: Participar de situações de brincadeira compartilhando enredos e cenários. Utilizar expressões faciais para apoiar seus relatos de situações vividas ou expressar sua opinião sobre uma história ou questionamentos. Expressar sensações, sentimentos, desejos e ideias por meio de diferentes linguagens. Demonstrar suas ideias, sentimentos e emoções através da dança, da música ou da arte. Participar de situações que envolvam relatos simples de acontecimentos vivenciados. Interagir com pessoas de diferentes idades em diversas situações do dia a dia. Estabelecer relações com os colegas por meio de diferentes brincadeiras. Reconhecer seu próprio nome e o dos colegas em diferentes situações. Cooperar com os colegas ou professor(a) quando solicitado(a).
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #193 - (EI02EF02) | SIMILARIDADE: 61.3%
+   
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
+   
+   OBJETIVO CURRÍCULO: (EI02EF02) Identificar e criar diferentes sons e reconhecer rimas e aliterações em cantigas de roda e textos poéticos.
+   
+   EXEMPLOS CURRÍCULO: Vivenciar brincadeiras com outras crianças e professores(as) acompanhando parlendas como "janela, janelinha", "serra, serra, serrador", "bambalalão" e outros. Confeccionar brinquedos a partir de materiais recicláveis para trabalhar sons e ritmos. Participar de brincadeiras cantadas. Escutar/imitar parlendas e participar de brincadeiras como corre-cotia produzindo diferentes entonações e ritmos. Completar cantigas e músicas. Participar de brincadeiras de linguagem que exploram a sonoridade das palavras. Explorar e brincar com a linguagem, criando sons e reproduzindo rimas e aliterações. Imitar diferentes sons da fala, de animais, barulhos, músicas e outros. Participar de momentos de contação de textos poéticos.
    
    ──────────────────────────────────────────────────
 
@@ -315,20 +439,39 @@ Computação Desplugada
 2) Criar desenhos representando diferentes formas de interface dos aparelhos e suas partes (e.g. criar as teclas
 de um telefone).
 
-NOTA DE CORTE USADA: 66.0% (adaptativa)
-QUANTIDADE DE HABILIDADES SIMILARES: 1
-MAIOR SIMILARIDADE ENCONTRADA: 66.5%
+ALGORITMO USADO: Balanceado
+QUANTIDADE DE HABILIDADES SIMILARES: 3
 
 HABILIDADES SIMILARES DO CURRÍCULO:
 ------------------------------------------------------------
 
-1. CURRÍCULO #169 - (EI01EF07) | SIMILARIDADE: 66.5%
+1. CURRÍCULO #180 - (EI01EO03) | SIMILARIDADE: 65.5%
    
-   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTOS E IMAGINAÇÃO
+   EIXO CURRÍCULO: O EU, O OUTRO E O NÓS
    
-   OBJETIVO CURRÍCULO: (EI01EF07) Conhecer e manipular materiais impressos e audiovisuais em diferentes portadores (livro, revista, gibi, jornal, cartaz, CD, tablet etc.).
+   OBJETIVO CURRÍCULO: (EI01EO03) Interagir com crianças da mesma faixa etária e adultos ao explorar espaços, materiais, objetos e brinquedos.
    
-   EXEMPLOS CURRÍCULO: - Manipular livros, cartazes, revistas e outros materiais. - Explorar diferentes tipos de materiais impressos imitando ações e comportamentos típicos de um leitor, como virar a página, apontar as imagens, usar palavras, gestos ou vocalizar na intenção de ler em voz alta o que está escrito. - Manipular e explorar instrumentos tecnológicos como microfone, telefone, dentre outros, percebendo suas funções. - Identificar o uso e a função de alguns recursos tecnológicos e midiáticos, por exemplo, dançando ou cantando quando o(a) professor(a) pega um CD, encenando frente a uma filmadora ou fazendo pose frente a uma máquina fotográfica.
+   EXEMPLOS CURRÍCULO: Conhecer e relacionar-se com as crianças e profissionais da instituição.  Interagir com os(as) professores(as), funcionários(as) e outras crianças estabelecendo vínculos afetivos.  Interagir com crianças de diferentes turmas, em situações coletivas e pequenos grupos.  Explorar materiais diversos como: caixas, bolas, chocalhos, chapéus, óculos, panelas, brinquedos, instrumentos musicais e outros, em situações de interação social.  Explorar objetos de nossa cultura tecnológica: livros, rádio, gravador, máquina de calcular, telefone e outros, interagindo com as demais crianças.  Brincar com jogos de encaixe e construção, experimentando possibilidades de montar, desmontar ou empilhar e derrubar.  Perceber por meio dos sentidos os atributos dos objetos, brincando entre pares. Experienciar coletivamente objetos que estimulam a percepção visual, tátil e sonora.  Vivenciar tarefas como guardar brinquedos. Participar de eventos culturais coletivos.  Oferecer brinquedos, objetos ou pedaços de alimento a outra pessoa.  Brincar livremente nos diversos espaços e ambientes escolares, interagindo com outras crianças e adultos. Visualizar imagens e escutar os nomes de meios de transportes que fazem parte do seu contexto.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #196 - (EI02EF05) | SIMILARIDADE: 62.7%
+   
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
+   
+   OBJETIVO CURRÍCULO: (EI02EF05) Relatar experiências e fatos acontecidos, histórias ouvidas, filmes ou peças teatrais assistidos, etc.
+   
+   EXEMPLOS CURRÍCULO: Participar de variadas situações de comunicação.  Expressar-se por meio de balbucios, palavras e frases simples, transmitindo suas necessidades, desejos, sentimentos e percepção de mundo em relação aos textos e recursos audiovisuais observados.  Emitir sons articulados e gestos observados nos recursos textuais e audiovisuais.  Expressar-se em conversas, narrações e brincadeiras, ampliando seu vocabulário e fazendo uso de estruturas orais que aprimorem suas competências comunicativas.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #72 - (EI03EO06ME01) | SIMILARIDADE: 62.1%
+   
+   EIXO CURRÍCULO: O EU, O OUTRO E O NÓS
+   
+   OBJETIVO CURRÍCULO: (EI03EO06ME01) Reconhecer que pertence a uma família, a um grupo, a uma escola e a uma comunidade.
+   
+   EXEMPLOS CURRÍCULO: Participar de brincadeiras que estimulam a relação entre o adulto/criança e criança/criança. Compreender e respeitar as diversas estruturas familiares. Reconhecer pessoas que fazem parte de sua comunidade, conversar com elas sobre o que fazem. Conhecer e se relacionar com crianças e pessoas de outros grupos sociais, seja por meio de situações presenciais, seja por outros meios de comunicação. Conhecer diferentes povos e suas culturas por meio de pesquisas, filmes, fotos, entrevistas, relatos e outros. Conhecer modos de vida urbana e rural. Ouvir relatos de familiares e pessoas de mais idade sobre outras épocas históricas. Conhecer objetos antigos e de outras culturas, como: ferro de passar roupa, escovão, fogão a lenha, lamparina e outros. Participar de diferentes eventos culturais para conhecer novos elementos como: dança, música, vestimentas, ornamentos e outros. Identificar as funções desempenhadas por diferentes profissionais. Conhecer e identificar profissões de pessoas que fazem parte de sua comunidade, como o padeiro, o fazendeiro, o pescador etc.
    
    ──────────────────────────────────────────────────
 
@@ -356,20 +499,39 @@ formas de interação entre os dispositivos;
 2) Representar as diferentes formas de interação (e.g. narrativas, storyboards) com dispositivos por meio de
 atividades manuais (e.g. desenhos, maquetes, colagem, modelagem).
 
-NOTA DE CORTE USADA: 70.0% (adaptativa)
-QUANTIDADE DE HABILIDADES SIMILARES: 1
-MAIOR SIMILARIDADE ENCONTRADA: 70.2%
+ALGORITMO USADO: Balanceado
+QUANTIDADE DE HABILIDADES SIMILARES: 3
 
 HABILIDADES SIMILARES DO CURRÍCULO:
 ------------------------------------------------------------
 
-1. CURRÍCULO #169 - (EI01EF07) | SIMILARIDADE: 70.2%
+1. CURRÍCULO #175 - (EI01ET04) | SIMILARIDADE: 62.2%
    
-   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTOS E IMAGINAÇÃO
+   EIXO CURRÍCULO: ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES
    
-   OBJETIVO CURRÍCULO: (EI01EF07) Conhecer e manipular materiais impressos e audiovisuais em diferentes portadores (livro, revista, gibi, jornal, cartaz, CD, tablet etc.).
+   OBJETIVO CURRÍCULO: (EI01ET04) Manipular, experimentar, arrumar e explorar o espaço por meio de experiências de deslocamentos de si e dos objetos.
    
-   EXEMPLOS CURRÍCULO: - Manipular livros, cartazes, revistas e outros materiais. - Explorar diferentes tipos de materiais impressos imitando ações e comportamentos típicos de um leitor, como virar a página, apontar as imagens, usar palavras, gestos ou vocalizar na intenção de ler em voz alta o que está escrito. - Manipular e explorar instrumentos tecnológicos como microfone, telefone, dentre outros, percebendo suas funções. - Identificar o uso e a função de alguns recursos tecnológicos e midiáticos, por exemplo, dançando ou cantando quando o(a) professor(a) pega um CD, encenando frente a uma filmadora ou fazendo pose frente a uma máquina fotográfica.
+   EXEMPLOS CURRÍCULO: Explorar elementos presentes no espaço percebendo suas características e possibilidades.  Brincar de deslocar elementos em um espaço como puxar carrinhos amarrados com barbante, empurrar carrinhos de boneca ou de supermercados, deslocar materiais de um lado para outro, etc.  Movimentar-se de forma a explorar os espaços da instituição de forma autônoma e participativa.  Deslocar-se de diferentes formas: engatinhando, andando, rolando, arrastando-se.  Lançar objetos.  Acompanhar com os olhos os movimentos dos materiais e usar o corpo para explorar o espaço, virando-se para diferentes lados ou arrastando-se.  Ajudar a organizar brinquedos e outros objetos nos seus respectivos espaços.  Participar de situações que envolvam a resolução de problemas (superar desafios, passar por obstáculos, etc.).
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #268 - (EI02EO03) | SIMILARIDADE: 59.3%
+   
+   EIXO CURRÍCULO: O EU, O OUTRO E O NÓS
+   
+   OBJETIVO CURRÍCULO: (EI02EO03) Compartilhar os objetos e os espaços com crianças da mesma faixa etária e adultos.      
+   
+   EXEMPLOS CURRÍCULO: • Compartilhar brinquedos em suas atividades de explorações, investigações ou de faz de conta. • Participar de situações de interações e brincadeiras agindo de forma solidária e colaborativa. • Buscar colegas para iniciar uma brincadeira. • Manter interações que gradativamente tenham uma maior duração, uma maior intenção de continuidade e uma maior complexidade de relações nas suas brincadeiras e jogos de exploração. • Brincar coletivamente em diversos espaços. • Organizar e utilizar diferentes espaços da instituição. • Compartilhar objetos e espaços com crianças e adultos manifestando curiosidade e autonomia. • Compartilhar instrumentos e objetos de nossa cultura como: óculos, chapéus, pentes, escovas, telefones, caixas, panelas, instrumentos musicais, livros, rádios, gravadores, máquinas de calcular, vestimentas e outros para conhecimento de suas funções sociais. • Participar progressivamente de brincadeiras coletivas assumindo papéis e compartilhando objetos. • Respeitar as regras dos diferentes espaços da escola. • Conhecer e reconhecer diferentes meios de transporte e suas características.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #117 - (EI03EF09ME02) | SIMILARIDADE: 58.2%
+   
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
+   
+   OBJETIVO CURRÍCULO: (EI03EF09ME02) Reconhecer palavras estáveis de uso frequente.
+   
+   EXEMPLOS CURRÍCULO: Aceitar o desafio de confrontar suas escritas espontâneas. Conhecer e verbalizar nome próprio de pessoas que fazem parte de seu círculo social. Participar de situações que envolvam a escrita do próprio nome e de outras palavras, levantando hipóteses. Realizar o traçado das letras. Participar de jogos que relacionem imagem e palavras. Ler e escrever o próprio nome. Realizar tentativas de escrita do próprio nome e de palavras com recursos variados e em diferentes suportes. Verbalizar suas hipóteses sobre a escrita. Ter contato com o alfabeto em diferentes situações: brincadeiras, jogos e outros. Vivenciar experiências que possibilitem perceber a presença da escrita em diferentes ambientes. Vivenciar jogos e brincadeiras que envolvam a escrita (forca, bingos, cruzadinhas etc.) e utilizar materiais escritos em brincadeiras de faz de conta. Realizar leitura de imagem ou pseudoleitura de diferentes gêneros textuais, observando a orientação, alinhamento e organização da escrita da língua portuguesa (da esquerda para direita, de cima para abaixo, espaço entre as palavras). Produzir escrita espontânea de textos tendo a memória como recurso. Utilizar suportes de escrita diversos para desenhar e escrever espontaneamente (cartolina, livros, revistas e outros). Compreender a função social da escrita. Diferenciar letras de números e de outros símbolos escritos. Registrar suas ideias utilizando desenhos, símbolos e palavras. Apresentar níveis de avanço com relação às hipóteses da evolução da escrita, atingindo o nível silábico 1º SEMESTRE. Apresentar níveis de avanço com relação às hipóteses da evolução da escrita, podendo atingir o nível silábico (SA) ao final do 2º SEMESTRE. Identificar palavras que começam com a mesma letra, com a mesma sílaba; palavras que começam ou terminam com o mesmo som. Palavra grande/pequena.
    
    ──────────────────────────────────────────────────
 
@@ -401,9 +563,8 @@ Situações de exemplo (caça ao tesouro):
 mora. Você conta?
 (iii) Todo jogo pode ser jogado por crianças da sua idade? Como você descobre se ele será legal ou não?
 
-NOTA DE CORTE USADA: 62.0% (adaptativa)
-QUANTIDADE DE HABILIDADES SIMILARES: 2
-MAIOR SIMILARIDADE ENCONTRADA: 63.0%
+ALGORITMO USADO: Balanceado
+QUANTIDADE DE HABILIDADES SIMILARES: 3
 
 HABILIDADES SIMILARES DO CURRÍCULO:
 ------------------------------------------------------------
@@ -418,13 +579,23 @@ HABILIDADES SIMILARES DO CURRÍCULO:
    
    ──────────────────────────────────────────────────
 
-2. CURRÍCULO #72 - (EI03EO06ME01) | SIMILARIDADE: 62.7%
+2. CURRÍCULO #159 - (EI01CG02) | SIMILARIDADE: 59.1%
+   
+   EIXO CURRÍCULO: CORPO, GESTOS E MOVIMENTOS
+   
+   OBJETIVO CURRÍCULO: (EI01CG02) Experimentar as possibilidades corporais nas brincadeiras e interações em ambientes acolhedores e desafiantes
+   
+   EXEMPLOS CURRÍCULO: Explorar os espaços da instituição utilizando habilidades corporais como sentar, subir, descer, engatinhar, ficar em pé, rolar, deitar dentre outras possibilidades.  Pegar objetos que estão próximos.  Agarrar objetos e explorá-los.  Transferir objetos de uma mão para outra.  Lançar objetos acompanhando seu trajeto.  Colocar objetos em um recipiente e tirá-los.  Brincar com o próprio corpo agindo progressivamente com autonomia para ficar em pé, andar com crescente destreza, subir pequenos degraus e depois descer.  Bater palmas e realizar outros movimentos coordenados com as mãos.  Movimentar-se para alcançar objetos distantes.  Percorrer circuito simples, organizados com materiais diversos de acordo com suas habilidades motoras.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #179 - (EI01EO02) | SIMILARIDADE: 57.9%
    
    EIXO CURRÍCULO: O EU, O OUTRO E O NÓS
    
-   OBJETIVO CURRÍCULO: (EI03EO06ME01) Reconhecer que pertence a uma família, a um grupo, a uma escola e a uma comunidade.
+   OBJETIVO CURRÍCULO: (EI01EO02) Perceber as possibilidades e os limites de seu corpo nas brincadeiras e interações das quais participa.
    
-   EXEMPLOS CURRÍCULO: Participar de brincadeiras que estimulam a relação entre o adulto/criança e criança/criança. Compreender e respeitar as diversas estruturas familiares. Reconhecer pessoas que fazem parte de sua comunidade, conversar com elas sobre o que fazem. Conhecer e se relacionar com crianças e pessoas de outros grupos sociais, seja por meio de situações presenciais, seja por outros meios de comunicação. Conhecer diferentes povos e suas culturas por meio de pesquisas, filmes, fotos, entrevistas, relatos e outros. Conhecer modos de vida urbana e rural. Ouvir relatos de familiares e pessoas de mais idade sobre outras épocas históricas. Conhecer objetos antigos e de outras culturas, como: ferro de passar roupa, escovão, fogão a lenha, lamparina e outros. Participar de diferentes eventos culturais para conhecer novos elementos como: dança, música, vestimentas, ornamentos e outros. Identificar as funções desempenhadas por diferentes profissionais. Conhecer e identificar profissões de pessoas que fazem parte de sua comunidade, como o padeiro, o fazendeiro, o pescador etc.
+   EXEMPLOS CURRÍCULO: Explorar o próprio corpo na perspectiva de conhecê-lo, sentindo os seus movimentos, ouvindo seus barulhos, conhecendo suas funções e formas de funcionamento.  Conhecer e identificar as partes do corpo.  Identificar e brincar com sua própria imagem no espelho.  Participar de experiências em que o(a) professor(a) realiza movimentos com o seu corpo como por exemplo, "Serra, serra, serrador".  Observar pessoas ou objetos que se movem em sua linha de visão e gradativamente ao seu redor.  Participar de brincadeiras que estimulem a relação com o outro.  Segurar e examinar objetos, explorando-os.  Explorar objetos de diversos materiais: borracha, madeira, metal, papel e outros, demonstrando curiosidade.  Experimentar novos movimentos ao explorar objetos ou brinquedos.  Esconder e achar objetos e pessoas. Realizar progressivamente ações de engatinhar, andar, levantar, sentar, carregar, rastejar e outros.  Vivenciar brincadeiras com obstáculos que permitam empurrar, rodopiar, balançar, escorregar, equilibrar-se, arrastar, engatinhar, levantar, subir, descer, passar por debaixo, por cima, saltar, rolar, virar cambalhotas, perseguir, procurar, pegar.  Experienciar atividades de apertar, tocar, balançar, arremessar, empurrar, rolar, engatinhar, dançar e outros.  Assistir e participar de apresentações de danças, de vários estilos e ritmos, segundo suas possibilidades.  Brincar livremente e, quando orientada, realizar jogos de comando.
    
    ──────────────────────────────────────────────────
 
@@ -455,19 +626,38 @@ v) Dialogar sobre a sensação que esses jogos geram nas crianças.
 Computação desplugada:
 1) Utilizar a mesma estratégia plugada (1), substituindo a tela do computador por um painel de fantoches.
 
-NOTA DE CORTE USADA: 64.0% (adaptativa)
-QUANTIDADE DE HABILIDADES SIMILARES: 1
-MAIOR SIMILARIDADE ENCONTRADA: 64.5%
+ALGORITMO USADO: Balanceado
+QUANTIDADE DE HABILIDADES SIMILARES: 3
 
 HABILIDADES SIMILARES DO CURRÍCULO:
 ------------------------------------------------------------
 
-1. CURRÍCULO #130 - (EI03ET03ME01) | SIMILARIDADE: 64.5%
+1. CURRÍCULO #130 - (EI03ET03ME01) | SIMILARIDADE: 64.4%
    
-   EIXO CURRÍCULO: ESPAÇOS, TEMPOS, QUANTIDADES E RELAÇÕES
+   EIXO CURRÍCULO: ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES
    
    OBJETIVO CURRÍCULO: (EI03ET03ME01) Participar em atividades de manutenção e preservação dos espaços coletivos e do meio ambiente.
    
    EXEMPLOS CURRÍCULO: Utilizar, com ou sem a ajuda do(a) professor(a), diferentes fontes para encontrar informações frente a hipóteses formuladas ou problemas a resolver relativos à natureza, seus fenômenos e sua conservação, como livros, revistas, pessoas da comunidade, fotografia, filmes ou documentários etc. Reunir informações de diferentes fontes e, com o apoio do(a) professor(a), ler e interpretar e produzir registros como desenhos, textos orais ou escritos (escrita espontânea), comunicação oral gravada, fotografia etc. Conhecer fontes de informações que são típicas de sua comunidade. Valorizar a pesquisa em diferentes fontes para encontrar informações sobre questões relacionadas à natureza, seus fenômenos e conservação. Ter contato com as partes das plantas e suas funções (legumes, frutas, verduras e outros). Auxiliar na construção de hortas, jardins, sementeiras, estufas e outros espaços para observação, experimentação e cuidado com as plantas. Fazer registros espontâneos sobre as observações feitas nos diferentes espaços de experimentação. Responsabilizar-se pelo cultivo e cuidado com as plantas. Construir aquários, terrários, minhocário e outros espaços para observação, experimentação e cuidados com os animais. Vivenciar momentos de cuidado com animais que não oferecem riscos. Observar animais no ecossistema, modos de vida, cadeia alimentar e outras características. Fazer registros espontâneos e convencionais sobre as observações feitas. Participar de situações de cuidado com o meio ambiente, preservação de plantas, cuidado com animais, separação de lixo, economia de água, reciclagem e outros. Coletar, selecionar e reaproveitar o lixo produzido no seu ambiente, compreendendo a importância de preservar a flora e a vida animal. Visitar áreas de preservação ambiental. Auxiliar nas práticas de compostagem. Identificar, com o auxílio do professor, problemas ambientais em lugares conhecidos. Assistir a vídeos, ouvir histórias, relatos e reportagens que abordem os problemas ambientais para se conscientizar do papel do homem frente à preservação do meio ambiente. Disseminar na comunidade, família e bairro os conhecimentos construídos sobre o tema. Observar o trajeto de casa até a escola e vice-versa, conhecendo e relatando os elementos que compõem a paisagem do percurso e suas modificações. Desenvolver ações referentes aos cuidados com o uso consciente da água, destinação correta do lixo, conservação do patrimônio natural e construído a fim de contribuir com a preservação do meio ambiente. Identificar os animais, suas características físicas e habitat. Perceber que os seres vivos possuem ciclo de vida, reconhecendo as diferentes fases da vida. Utilizar percepções gustativas e experiências com temperatura para realizar comparações e estabelecer relações, compreendendo os fenômenos quente, frio e gelado. Conhecer as relações entre os seres humanos e a natureza, adquirindo conhecimentos sobre as formas de transformação e utilização dos recursos naturais.
+   
+   ──────────────────────────────────────────────────
+
+2. CURRÍCULO #221 - (EI02EF01ME01) | SIMILARIDADE: 60.6%
+   
+   EIXO CURRÍCULO: ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO
+   
+   OBJETIVO CURRÍCULO: (EI02EF01ME01) Comunicar-se e interagir oralmente, ampliando gradualmente seu vocabulário para formular perguntas, iniciar diálogos e ter atenção para escutar o outro.
+   
+   EXEMPLOS CURRÍCULO: • Expressar ideias e sentimentos respondendo e formulando perguntas, comunicando suas experiências, descrevendo lugares, pessoas e objetos com mediação do professor para a organização do pensamento.   • Participar de variadas situações de comunicação utilizando diversas linguagens.   • Nomear objetos, pessoas, fotografias, gravuras.   • Combinar palavras para se expressar usando verbos e adjetivos.   • Interagir com outras pessoas por meio de situações comunicativas mediadas pelo(a) professor(a).   • Interagir com outras crianças fazendo uso da linguagem oral e tentando se fazer entender.   • Em roda ou nas brincadeiras, usar seu vocabulário por meio de músicas, narrativas, poemas, histórias, contos, parlendas, conversas e brincadeiras para desenvolver sua capacidade de comunicação.   • Levantar hipóteses sobre situações de aprendizagem, oralizando ideias e opiniões.   • Expressar suas ideias, sentimentos e emoções por meio de diferentes linguagens como: a dança, o desenho, a mímica, a música, a linguagem oral e a escrita.   • Falar e escutar atentamente em situações do dia a dia para interagir socialmente.   • Utilizar expressões de cortesia: cumprimentar, agradecer, despedir-se e outros.
+   
+   ──────────────────────────────────────────────────
+
+3. CURRÍCULO #189 - (EI02CG03) | SIMILARIDADE: 60.2%
+   
+   EIXO CURRÍCULO: CORPO, GESTOS E MOVIMENTOS
+   
+   OBJETIVO CURRÍCULO: (EI02CG03) Explorar formas de deslocamento no espaço (pular, saltar, dançar), combinando movimentos e seguindo orientações.
+   
+   EXEMPLOS CURRÍCULO: - Perceber sons do entorno e estar atento ao silêncio. Identificar sons da natureza, como o barulho de água/chuva, canto de pássaros, ruídos e sons dos animais, entre outros. - Explorar e identificar possibilidades sonoras de objetos do cotidiano ou de instrumentos musicais. Perceber o som de diferentes fontes sonoras presentes no dia a dia, como buzinas, despertadores, toques de telefone, sinos e apitos. - Ouvir a própria voz em gravações ou em músicas interpretadas pelo grupo e identificar-se. Ouvir vozes gravadas de pessoas conhecidas cantando. - Participar de canções e brincadeiras cantadas apresentadas pelo professor(a) ou colegas. Reproduzir sons ou canções conhecidas em suas brincadeiras. - Conhecer objetos, canções, instrumentos ou manifestações culturais típicas de sua cultura, região ou de outras culturas. Ouvir canções de diferentes culturas, buscando cantar e imitar gestos característicos. - Explorar possibilidades musicais para perceber diferentes sons, melodias e ritmos. Reconhecer cantigas de roda e suas formas de brincar. Participar de brincadeiras cantadas do folclore. - Apreciar produções audiovisuais, como musicais, brinquedos cantados e teatro de fantoches. Escutar e perceber músicas de diversos estilos musicais por meio de CDs, DVDs, rádio, MP3, computador ou intérpretes da comunidade. - Perceber sons graves e agudos, fortes e fracos, curtos e longos, produzidos pelo corpo, objetos e instrumentos musicais convencionais ou não. Imitar e reproduzir sonoplastias. Explorar possibilidades vocais ao cantar. - Compartilhar brinquedos em atividades de exploração, investigação ou faz de conta. - Participar de situações de interação e brincadeiras agindo de forma solidária e colaborativa. - Buscar colegas para iniciar uma brincadeira. - Manter interações que gradativamente tenham maior duração. - Brincar de faz de conta junto com outras crianças. - Brincar coletivamente em diversos espaços. - Utilizar e organizar diferentes espaços da instituição. - Participar progressivamente de brincadeiras coletivas, compartilhando objetos. - Manifestar curiosidade e autonomia ao explorar objetos e espaços. - Respeitar as regras dos espaços: banheiro, refeitório, sala de aula, conhecendo a função de cada um. - Identificar seus pertences, demonstrando cuidados com os mesmos e com os de seus colegas. - Conhecer e nomear os diferentes meios de transporte e suas características.
    
    ──────────────────────────────────────────────────
