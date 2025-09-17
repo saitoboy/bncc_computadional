@@ -1,0 +1,44 @@
+
+==================================================================================
+                            RESUMO EXECUTIVO
+==================================================================================
+Data: 2025-09-17 16:16:54
+Nota de corte inicial: 95.0%
+Busca adaptativa: ATIVADA
+Modelo: all-MiniLM-L6-v2
+
+PRINCIPAIS DESCOBERTAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 0 de 11 habilidades da BNCC (0.0%) têm correspondência com nota de corte original ≥ 95.0%
+
+• 11 de 11 habilidades da BNCC (100.0%) têm correspondência usando busca adaptativa
+
+• Nota de corte média usada: 60.4%
+• Nota de corte mínima usada: 56.0%
+
+HABILIDADES BNCC COM MAIOR NÚMERO DE CORRESPONDÊNCIAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ 1. (EI03CO02) - 3 correspondências (máx: 56.5%)
+    Nota de corte usada: 0.5599999999999996
+ 2. (EI03CO03) - 3 correspondências (máx: 60.3%)
+    Nota de corte usada: 0.5999999999999996
+ 3. (EI03CO04) - 3 correspondências (máx: 57.1%)
+    Nota de corte usada: 0.5699999999999996
+ 4. (EI03CO05) - 3 correspondências (máx: 60.4%)
+    Nota de corte usada: 0.5999999999999996
+ 5. (EI03CO06) - 3 correspondências (máx: 64.2%)
+    Nota de corte usada: 0.6399999999999997
+ 6. (EI03CO07) - 3 correspondências (máx: 66.4%)
+    Nota de corte usada: 0.6599999999999997
+ 7. (EI03CO08) - 3 correspondências (máx: 61.4%)
+    Nota de corte usada: 0.6099999999999997
+ 8. (EI03CO09) - 3 correspondências (máx: 58.5%)
+    Nota de corte usada: 0.5799999999999996
+ 9. (EI03CO10) - 3 correspondências (máx: 59.4%)
+    Nota de corte usada: 0.5899999999999996
+10. (EI03CO11) - 3 correspondências (máx: 62.8%)
+    Nota de corte usada: 0.6199999999999997
+11. (EI03CO01) - 1 correspondências (máx: 61.8%)
+    Nota de corte usada: 0.6099999999999997

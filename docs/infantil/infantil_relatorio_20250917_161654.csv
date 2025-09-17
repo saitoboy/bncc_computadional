@@ -1,0 +1,32 @@
+﻿bncc_indice,bncc_codigo,bncc_objetivo,curriculo_indice,curriculo_codigo,similaridade,nota_corte_usada
+1,(EI03CO01),"(EI03CO01) Reconhecer padrão de repetição em sequência de sons, movimentos, desenhos.",94,(EI03ET04),0.6177219,0.6099999999999997
+2,(EI03CO02),(EI03CO02) Expressar as etapas para a realização de uma tarefa de forma clara e ordenada.,49,(EI01EF01),0.56543475,0.5599999999999996
+2,(EI03CO02),(EI03CO02) Expressar as etapas para a realização de uma tarefa de forma clara e ordenada.,19,(EI03EO05),0.546515,0.5599999999999996
+2,(EI03CO02),(EI03CO02) Expressar as etapas para a realização de uma tarefa de forma clara e ordenada.,35,(EI03CG04),0.5143039,0.5599999999999996
+3,(EI03CO03),(EI03CO03) Experienciar a execução de algoritmos brincando com objetos (des)plugados.,13,(EI01EO05X),0.6027726,0.5999999999999996
+3,(EI03CO03),(EI03CO03) Experienciar a execução de algoritmos brincando com objetos (des)plugados.,3,(EI01EO03X),0.58163977,0.5999999999999996
+3,(EI03CO03),(EI03CO03) Experienciar a execução de algoritmos brincando com objetos (des)plugados.,29,(EI02CG03),0.55760336,0.5999999999999996
+4,(EI03CO04),(EI03CO04) Criar e representar algoritmos para resolver problemas.,11,(EI02EO04),0.57132435,0.5699999999999996
+4,(EI03CO04),(EI03CO04) Criar e representar algoritmos para resolver problemas.,8,(EI02EO01X),0.5706643,0.5699999999999996
+4,(EI03CO04),(EI03CO04) Criar e representar algoritmos para resolver problemas.,32,(EI03CG01),0.5258607,0.5699999999999996
+5,(EI03CO05),(EI03CO05) Comparar soluções algorítmicas para resolver um mesmo problema.,91,(EI03ET01),0.60418344,0.5999999999999996
+5,(EI03CO05),(EI03CO05) Comparar soluções algorítmicas para resolver um mesmo problema.,21,(EI03EO07),0.56453127,0.5999999999999996
+5,(EI03CO05),(EI03CO05) Comparar soluções algorítmicas para resolver um mesmo problema.,22,(EI01CG01),0.55686474,0.5999999999999996
+6,(EI03CO06),(EI03CO06) Compreender decisões em dois estados (verdadeiro ou falso).,54,(EI01EF06),0.6416494,0.6399999999999997
+6,(EI03CO06),(EI03CO06) Compreender decisões em dois estados (verdadeiro ou falso).,76,(EI03EF09),0.6326064,0.6399999999999997
+6,(EI03CO06),(EI03CO06) Compreender decisões em dois estados (verdadeiro ou falso).,4,(EI01EO04),0.5934472,0.6399999999999997
+7,(EI03CO07),"(EI03CO07) Reconhecer dispositivos eletrônicos (e não-eletrônicos), identificando quando estão ligados ou desligados (abertos ou fechados).",81,(EI01ET05),0.6638488,0.6599999999999997
+7,(EI03CO07),"(EI03CO07) Reconhecer dispositivos eletrônicos (e não-eletrônicos), identificando quando estão ligados ou desligados (abertos ou fechados).",57,(EI01EF09),0.63818574,0.6599999999999997
+7,(EI03CO07),"(EI03CO07) Reconhecer dispositivos eletrônicos (e não-eletrônicos), identificando quando estão ligados ou desligados (abertos ou fechados).",33,(EI03CG02),0.60247934,0.6599999999999997
+8,(EI03CO08),(EI03CO08) Compreender o conceito de interfaces para comunicação com objetos (des)plugados.,65,(EI02EF07),0.6135097,0.6099999999999997
+8,(EI03CO08),(EI03CO08) Compreender o conceito de interfaces para comunicação com objetos (des)plugados.,1,(EI01EO01X),0.5773972,0.6099999999999997
+8,(EI03CO08),(EI03CO08) Compreender o conceito de interfaces para comunicação com objetos (des)plugados.,58,(EI02EF01),0.57478905,0.6099999999999997
+9,(EI03CO09),(EI03CO09) Identificar dispositivos computacionais e as diferentes formas de interação.,26,(EI01CG05),0.58509874,0.5799999999999996
+9,(EI03CO09),(EI03CO09) Identificar dispositivos computacionais e as diferentes formas de interação.,9,(EI02EO02),0.583609,0.5799999999999996
+9,(EI03CO09),(EI03CO09) Identificar dispositivos computacionais e as diferentes formas de interação.,36,(EI03CG05),0.57427984,0.5799999999999996
+10,(EI03CO10),"(EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.",23,(EI01CG02),0.5937129,0.5899999999999996
+10,(EI03CO10),"(EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.",44,(EI02TS04 MG),0.5910896,0.5899999999999996
+10,(EI03CO10),"(EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.",15,(EI03EO01),0.57264006,0.5899999999999996
+11,(EI03CO11),"(EI03CO11) Adotar hábitos saudáveis de uso de artefatos computacionais, seguindo recomendações de órgãos de saúde competentes.",99,(EI03ET09MG),0.6282035,0.6199999999999997
+11,(EI03CO11),"(EI03CO11) Adotar hábitos saudáveis de uso de artefatos computacionais, seguindo recomendações de órgãos de saúde competentes.",95,(EI03ET05),0.6028621,0.6199999999999997
+11,(EI03CO11),"(EI03CO11) Adotar hábitos saudáveis de uso de artefatos computacionais, seguindo recomendações de órgãos de saúde competentes.",37,(EI01TS01),0.5638062,0.6199999999999997

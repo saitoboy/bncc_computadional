@@ -1,0 +1,192 @@
+
+==================================================================================
+                    RELATÓRIO DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL
+==================================================================================
+Data do relatório: 2025-09-17 16:16:54
+Nota de corte inicial: 95.0% de similaridade
+Modelo utilizado: all-MiniLM-L6-v2
+Busca adaptativa: ATIVADA (garante pelo menos 1 correspondência por habilidade)
+
+ESTATÍSTICAS GERAIS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Total de habilidades BNCC analisadas: 11
+• Habilidades BNCC com similaridade ≥ 95.0% (nota original): 0 (0.0%)
+• Habilidades BNCC com correspondência (busca adaptativa): 11 (100.0%)
+• Nota de corte média usada: 60.4%
+• Nota de corte mínima usada: 56.0%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RELATÓRIO DETALHADO POR CORRESPONDÊNCIA:
+
+
+================================================================================
+HABILIDADE BNCC #1 - (EI03CO01)
+================================================================================
+
+OBJETIVO BNCC: (EI03CO01) Reconhecer padrão de repetição em sequência de sons, movimentos, desenhos.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 1
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #94 - (EI03ET04) | SIMILARIDADE: 61.8%
+
+================================================================================
+HABILIDADE BNCC #2 - (EI03CO02)
+================================================================================
+
+OBJETIVO BNCC: (EI03CO02) Expressar as etapas para a realização de uma tarefa de forma clara e ordenada.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #49 - (EI01EF01) | SIMILARIDADE: 56.5%
+
+2. CURRÍCULO #19 - (EI03EO05) | SIMILARIDADE: 54.7%
+
+3. CURRÍCULO #35 - (EI03CG04) | SIMILARIDADE: 51.4%
+
+================================================================================
+HABILIDADE BNCC #3 - (EI03CO03)
+================================================================================
+
+OBJETIVO BNCC: (EI03CO03) Experienciar a execução de algoritmos brincando com objetos (des)plugados.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #13 - (EI01EO05X) | SIMILARIDADE: 60.3%
+
+2. CURRÍCULO #3 - (EI01EO03X) | SIMILARIDADE: 58.2%
+
+3. CURRÍCULO #29 - (EI02CG03) | SIMILARIDADE: 55.8%
+
+================================================================================
+HABILIDADE BNCC #4 - (EI03CO04)
+================================================================================
+
+OBJETIVO BNCC: (EI03CO04) Criar e representar algoritmos para resolver problemas.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #11 - (EI02EO04) | SIMILARIDADE: 57.1%
+
+2. CURRÍCULO #8 - (EI02EO01X) | SIMILARIDADE: 57.1%
+
+3. CURRÍCULO #32 - (EI03CG01) | SIMILARIDADE: 52.6%
+
+================================================================================
+HABILIDADE BNCC #5 - (EI03CO05)
+================================================================================
+
+OBJETIVO BNCC: (EI03CO05) Comparar soluções algorítmicas para resolver um mesmo problema.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #91 - (EI03ET01) | SIMILARIDADE: 60.4%
+
+2. CURRÍCULO #21 - (EI03EO07) | SIMILARIDADE: 56.5%
+
+3. CURRÍCULO #22 - (EI01CG01) | SIMILARIDADE: 55.7%
+
+================================================================================
+HABILIDADE BNCC #6 - (EI03CO06)
+================================================================================
+
+OBJETIVO BNCC: (EI03CO06) Compreender decisões em dois estados (verdadeiro ou falso).
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #54 - (EI01EF06) | SIMILARIDADE: 64.2%
+
+2. CURRÍCULO #76 - (EI03EF09) | SIMILARIDADE: 63.3%
+
+3. CURRÍCULO #4 - (EI01EO04) | SIMILARIDADE: 59.3%
+
+================================================================================
+HABILIDADE BNCC #7 - (EI03CO07)
+================================================================================
+
+OBJETIVO BNCC: (EI03CO07) Reconhecer dispositivos eletrônicos (e não-eletrônicos), identificando quando estão ligados ou desligados (abertos ou fechados).
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #81 - (EI01ET05) | SIMILARIDADE: 66.4%
+
+2. CURRÍCULO #57 - (EI01EF09) | SIMILARIDADE: 63.8%
+
+3. CURRÍCULO #33 - (EI03CG02) | SIMILARIDADE: 60.2%
+
+================================================================================
+HABILIDADE BNCC #8 - (EI03CO08)
+================================================================================
+
+OBJETIVO BNCC: (EI03CO08) Compreender o conceito de interfaces para comunicação com objetos (des)plugados.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #65 - (EI02EF07) | SIMILARIDADE: 61.4%
+
+2. CURRÍCULO #1 - (EI01EO01X) | SIMILARIDADE: 57.7%
+
+3. CURRÍCULO #58 - (EI02EF01) | SIMILARIDADE: 57.5%
+
+================================================================================
+HABILIDADE BNCC #9 - (EI03CO09)
+================================================================================
+
+OBJETIVO BNCC: (EI03CO09) Identificar dispositivos computacionais e as diferentes formas de interação.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #26 - (EI01CG05) | SIMILARIDADE: 58.5%
+
+2. CURRÍCULO #9 - (EI02EO02) | SIMILARIDADE: 58.4%
+
+3. CURRÍCULO #36 - (EI03CG05) | SIMILARIDADE: 57.4%
+
+================================================================================
+HABILIDADE BNCC #10 - (EI03CO10)
+================================================================================
+
+OBJETIVO BNCC: (EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #23 - (EI01CG02) | SIMILARIDADE: 59.4%
+
+2. CURRÍCULO #44 - (EI02TS04 MG) | SIMILARIDADE: 59.1%
+
+3. CURRÍCULO #15 - (EI03EO01) | SIMILARIDADE: 57.3%
+
+================================================================================
+HABILIDADE BNCC #11 - (EI03CO11)
+================================================================================
+
+OBJETIVO BNCC: (EI03CO11) Adotar hábitos saudáveis de uso de artefatos computacionais, seguindo recomendações de órgãos de saúde competentes.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #99 - (EI03ET09MG) | SIMILARIDADE: 62.8%
+
+2. CURRÍCULO #95 - (EI03ET05) | SIMILARIDADE: 60.3%
+
+3. CURRÍCULO #37 - (EI01TS01) | SIMILARIDADE: 56.4%
