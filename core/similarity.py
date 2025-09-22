@@ -11,20 +11,18 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
 
-# Configurar proxy para Hugging Face
-proxy_config = {
-    'http': 'http://guilherme.saito:890484gS@10.10.30.9:3128',
-    'https': 'http://guilherme.saito:890484gS@10.10.30.9:3128'
-}
-
-os.environ['HTTP_PROXY'] = proxy_config['http']
-os.environ['HTTPS_PROXY'] = proxy_config['https']
-os.environ['http_proxy'] = proxy_config['http']
-os.environ['https_proxy'] = proxy_config['https']
-
+# Configurar proxy para Hugging Face (DESATIVADO)
+#proxy_config = {
+#    'http': 'http://guilherme.saito:890484gS@10.10.30.9:3128',
+#    'https': 'http://guilherme.saito:890484gS@10.10.30.9:3128'
+#}
+#os.environ['HTTP_PROXY'] = proxy_config['http']
+#os.environ['HTTPS_PROXY'] = proxy_config['https']
+#os.environ['http_proxy'] = proxy_config['http']
+#os.environ['https_proxy'] = proxy_config['https']
 # Contornar problemas de SSL
-import ssl
-ssl._create_default_https_context = ssl._create_unverified_context
+#import ssl
+#ssl._create_default_https_context = ssl._create_unverified_context
 
 # Funções refatoradas para uso pelo Flask
 

@@ -1,3 +1,5 @@
+os.environ['http_proxy'] = proxy_config['http']
+os.environ['https_proxy'] = proxy_config['https']
 import os
 from dotenv import load_dotenv
 
@@ -5,25 +7,25 @@ from dotenv import load_dotenv
 load_dotenv(dotenv_path=os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env'))
 
 # ==================================================================================
-#                           CONFIGURAÇÃO DE PROXY
+#                           CONFIGURAÇÃO DE PROXY (DESATIVADA)
 # ==================================================================================
 # Configurar proxy para conexões externas (Hugging Face)
-proxy_config = {
-    'http': 'http://guilherme.saito:890484gS@10.10.30.9:3128',
-    'https': 'http://guilherme.saito:890484gS@10.10.30.9:3128'  # Note: usando http:// mesmo para https
-}
+#proxy_config = {
+#   'http': 'http://guilherme.saito:890484gS@10.10.30.9:3128',
+#   'https': 'http://guilherme.saito:890484gS@10.10.30.9:3128'  # Note: usando http:// mesmo para https
+#}
 
 # Configurar variáveis de ambiente para o proxy
-os.environ['HTTP_PROXY'] = proxy_config['http']
-os.environ['HTTPS_PROXY'] = proxy_config['https']
-os.environ['http_proxy'] = proxy_config['http']
-os.environ['https_proxy'] = proxy_config['https']
+#os.environ['HTTP_PROXY'] = proxy_config['http']
+#os.environ['HTTPS_PROXY'] = proxy_config['https']
+#os.environ['http_proxy'] = proxy_config['http']
+#os.environ['https_proxy'] = proxy_config['https']
 
 # Configurar requests para usar proxy
-import requests
-requests.adapters.DEFAULT_RETRIES = 3
+#import requests
+#requests.adapters.DEFAULT_RETRIES = 3
 
-print("🔧 Proxy configurado para acessar Hugging Face")
+#print("🔧 Proxy configurado para acessar Hugging Face")
 
 import pandas as pd
 from sentence_transformers import SentenceTransformer

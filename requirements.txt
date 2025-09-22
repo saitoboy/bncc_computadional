@@ -5,9 +5,10 @@ tabula-py
 pypdf
 reportlab
 openpyxl
-sentence-transformers scikit-learn
 streamlit
-sentence-transformers
 seaborn
 matplotlib
 plotext
+flask
+sentence-transformers
+scikit-learn

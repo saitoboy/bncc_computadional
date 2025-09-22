@@ -1,0 +1,790 @@
+
+==================================================================================
+                    RELATÓRIO DE SIMILARIDADE BNCC x CURRÍCULO MUNICIPAL
+==================================================================================
+Data do relatório: 2025-09-19 13:38:33
+Nota de corte inicial: 95.0% de similaridade
+Modelo utilizado: all-MiniLM-L6-v2
+Busca adaptativa: ATIVADA (garante pelo menos 1 correspondência por habilidade)
+
+ESTATÍSTICAS GERAIS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Total de habilidades BNCC analisadas: 50
+• Habilidades BNCC com similaridade ≥ 95.0% (nota original): 0 (0.0%)
+• Habilidades BNCC com correspondência (busca adaptativa): 50 (100.0%)
+• Nota de corte média usada: 66.4%
+• Nota de corte mínima usada: 55.0%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RELATÓRIO DETALHADO POR CORRESPONDÊNCIA:
+
+
+================================================================================
+HABILIDADE BNCC #1 - (EF01CO01)
+================================================================================
+
+OBJETIVO BNCC: (EF01CO01) Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #694 - (EF15LP11) | SIMILARIDADE: 66.1%
+
+2. CURRÍCULO #100 - (EF01LP03) | SIMILARIDADE: 65.4%
+
+3. CURRÍCULO #768 - (EF04MA08) | SIMILARIDADE: 63.4%
+
+================================================================================
+HABILIDADE BNCC #2 - (EF01CO02)
+================================================================================
+
+OBJETIVO BNCC: (EF01CO02) Identificar e seguir sequências de passos aplicados no dia a dia para resolver problemas.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #80 - (EF01LP01) | SIMILARIDADE: 68.5%
+
+2. CURRÍCULO #99 - (EF01LP02X) | SIMILARIDADE: 63.2%
+
+================================================================================
+HABILIDADE BNCC #3 - (EF01CO03)
+================================================================================
+
+OBJETIVO BNCC: (EF01CO03) Reorganizar e criar sequências de passos em meios físicos ou digitais, relacionando essas sequências à palavra ‘Algoritmos’.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #281 - (EF02LP16BX) | SIMILARIDADE: 75.6%
+
+2. CURRÍCULO #535 - (EF15LP07) | SIMILARIDADE: 75.2%
+
+3. CURRÍCULO #579 - (EF03MA01) | SIMILARIDADE: 70.7%
+
+================================================================================
+HABILIDADE BNCC #4 - (EF01CO04)
+================================================================================
+
+OBJETIVO BNCC: (EF01CO04) Reconhecer o que é a informação, que ela pode ser armazenada, transmitida como mensagem por diversos meios e descrita em várias linguagens.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #173 - (EF01LP23) | SIMILARIDADE: 74.3%
+
+2. CURRÍCULO #459 - (EF03LP22) | SIMILARIDADE: 72.0%
+
+================================================================================
+HABILIDADE BNCC #5 - (EF01CO05)
+================================================================================
+
+OBJETIVO BNCC: (EF01CO05) Representar informação usando diferentes codificações.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #376 - (EF02MA07) | SIMILARIDADE: 66.9%
+
+2. CURRÍCULO #920 - (EF05LP24) | SIMILARIDADE: 66.6%
+
+3. CURRÍCULO #57 - (EF01GE09) | SIMILARIDADE: 59.4%
+
+================================================================================
+HABILIDADE BNCC #6 - (EF01CO06)
+================================================================================
+
+OBJETIVO BNCC: (EF01CO06) Reconhecer e explorar artefatos computacionais voltados a atender necessidades pessoais ou coletivas.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #899 - (EF05LP17) | SIMILARIDADE: 60.8%
+
+2. CURRÍCULO #292 - (EF12LP11) | SIMILARIDADE: 60.8%
+
+================================================================================
+HABILIDADE BNCC #7 - (EF01CO07)
+================================================================================
+
+OBJETIVO BNCC: (EF01CO07) Conhecer as possibilidades de uso seguro das tecnologias computacionais para proteção dos dados pessoais e para garantir a própria segurança.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #743 - (EF04LP17) | SIMILARIDADE: 67.8%
+
+2. CURRÍCULO #915 - (EF05LP28) | SIMILARIDADE: 64.1%
+
+================================================================================
+HABILIDADE BNCC #8 - (EF02CO01)
+================================================================================
+
+OBJETIVO BNCC: (EF02CO01) Criar e comparar modelos (representações) de objetos, identificando padrões e atributos essenciais.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #162 - (EF01MA22X) | SIMILARIDADE: 61.5%
+
+2. CURRÍCULO #371 - (EF02MA20) | SIMILARIDADE: 59.2%
+
+3. CURRÍCULO #525 - (EF35LP01) | SIMILARIDADE: 56.0%
+
+================================================================================
+HABILIDADE BNCC #9 - (EF02CO02)
+================================================================================
+
+OBJETIVO BNCC: (EF02CO02) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, construídos como sequências com repetições simples (iterações definidas) com base em instruções preestabelecidas ou criadas, analisando como a precisão da instrução impacta na execução do algoritmo.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #283 - (EF02LP25) | SIMILARIDADE: 80.1%
+
+2. CURRÍCULO #522 - (EF15LP12) | SIMILARIDADE: 77.0%
+
+================================================================================
+HABILIDADE BNCC #10 - (EF02CO03)
+================================================================================
+
+OBJETIVO BNCC: (EF02CO03) Identificar que máquinas diferentes executam conjuntos próprios de instruções e que podem ser usadas para definir algoritmos.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #910 - (EF05LP23) | SIMILARIDADE: 64.4%
+
+2. CURRÍCULO #955 - (EF05MA25) | SIMILARIDADE: 64.3%
+
+3. CURRÍCULO #410 - (EF03CI01) | SIMILARIDADE: 60.6%
+
+================================================================================
+HABILIDADE BNCC #11 - (EF02CO04)
+================================================================================
+
+OBJETIVO BNCC: (EF02CO04) Diferenciar componentes físicos (hardware) e programas que fornecem as instruções (software) para o hardware.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #569 - (EF03MA02) | SIMILARIDADE: 60.3%
+
+2. CURRÍCULO #777 - (EF04MA03) | SIMILARIDADE: 60.1%
+
+3. CURRÍCULO #277 - (EF02LP04) | SIMILARIDADE: 57.8%
+
+================================================================================
+HABILIDADE BNCC #12 - (EF02CO05)
+================================================================================
+
+OBJETIVO BNCC: (EF02CO05) Reconhecer as características e usos das tecnologias computacionais no cotidiano dentro e fora da escola.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #756 - (EF04LP16) | SIMILARIDADE: 63.1%
+
+2. CURRÍCULO #234 - (EF12EF01P2) | SIMILARIDADE: 58.7%
+
+3. CURRÍCULO #816 - (EF15AR05P5) | SIMILARIDADE: 57.1%
+
+================================================================================
+HABILIDADE BNCC #13 - (EF02CO06)
+================================================================================
+
+OBJETIVO BNCC: (EF02CO06) Reconhecer os cuidados com a segurança no uso de dispositivos computacionais.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #753 - (EF04LP24) | SIMILARIDADE: 60.5%
+
+2. CURRÍCULO #259 - (EF02HI05) | SIMILARIDADE: 56.1%
+
+3. CURRÍCULO #21 - (EF01CI07ME) | SIMILARIDADE: 54.3%
+
+================================================================================
+HABILIDADE BNCC #14 - (EF03CO01)
+================================================================================
+
+OBJETIVO BNCC: (EF03CO01) Associar os valores 'verdadeiro' e 'falso' a sentenças lógicas que dizem respeito a situações do dia a dia, fazendo uso de termos que indicam negação.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #897 - (EF05LP27) | SIMILARIDADE: 74.4%
+
+2. CURRÍCULO #892 - (EF05LP16) | SIMILARIDADE: 72.8%
+
+3. CURRÍCULO #578 - (EF03MA28) | SIMILARIDADE: 69.6%
+
+================================================================================
+HABILIDADE BNCC #15 - (EF03CO02)
+================================================================================
+
+OBJETIVO BNCC: (EF03CO02) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples com condição (iterações indefinidas), para resolver problemas de forma independente e em colaboração.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #733 - (EF04LP23) | SIMILARIDADE: 72.8%
+
+2. CURRÍCULO #757 - (EF04LP21) | SIMILARIDADE: 72.4%
+
+3. CURRÍCULO #566 - (EF03MA24) | SIMILARIDADE: 70.6%
+
+================================================================================
+HABILIDADE BNCC #16 - (EF03CO03)
+================================================================================
+
+OBJETIVO BNCC: (EF03CO03) Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #166 - (EF01MA08) | SIMILARIDADE: 78.3%
+
+2. CURRÍCULO #347 - (EF02MA06) | SIMILARIDADE: 74.9%
+
+================================================================================
+HABILIDADE BNCC #17 - (EF03CO04)
+================================================================================
+
+OBJETIVO BNCC: (EF03CO04) Relacionar o conceito de informação com o de dado.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #486 - (EF03LP24) | SIMILARIDADE: 62.8%
+
+2. CURRÍCULO #261 - (EF02HI08) | SIMILARIDADE: 58.5%
+
+3. CURRÍCULO #225 - (EF02CI07) | SIMILARIDADE: 55.8%
+
+================================================================================
+HABILIDADE BNCC #18 - (EF03CO05)
+================================================================================
+
+OBJETIVO BNCC: (EF03CO05) Compreender que dados são estruturados em formatos específicos dependendo da informação armazenada.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #806 - (EF04MA10) | SIMILARIDADE: 69.6%
+
+2. CURRÍCULO #967 - (EF05MA05) | SIMILARIDADE: 68.6%
+
+3. CURRÍCULO #329 - (EF12LP16) | SIMILARIDADE: 66.7%
+
+================================================================================
+HABILIDADE BNCC #19 - (EF03CO06)
+================================================================================
+
+OBJETIVO BNCC: (EF03CO06) Reconhecer que, para um computador realizar tarefas, ele se comunica com o mundo exterior com o uso de interfaces físicas (dispositivos de entrada e saída).
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #270 - (EF02LP23) | SIMILARIDADE: 63.6%
+
+2. CURRÍCULO #266 - (EF02LP24) | SIMILARIDADE: 60.3%
+
+================================================================================
+HABILIDADE BNCC #20 - (EF03CO07)
+================================================================================
+
+OBJETIVO BNCC: (EF03CO07) Utilizar diferentes navegadores e ferramentas de busca para pesquisar e acessar informações.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #747 - (EF04LP14) | SIMILARIDADE: 66.2%
+
+2. CURRÍCULO #447 - (EF03HI09) | SIMILARIDADE: 60.2%
+
+3. CURRÍCULO #761 - (EF04CI10) | SIMILARIDADE: 60.1%
+
+================================================================================
+HABILIDADE BNCC #21 - (EF03CO08)
+================================================================================
+
+OBJETIVO BNCC: (EF03CO08) Usar ferramentas computacionais em situações didáticas para se expressar em diferentes formatos digitais.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #463 - (EF35LP17) | SIMILARIDADE: 64.4%
+
+2. CURRÍCULO #186 - (EF12LP02A) | SIMILARIDADE: 62.1%
+
+================================================================================
+HABILIDADE BNCC #22 - (EF03CO09)
+================================================================================
+
+OBJETIVO BNCC: (EF03CO09) Reconhecer o potencial impacto do compartilhamento de informações pessoais ou de seus pares em meio digital.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #891 - (EF05LP15) | SIMILARIDADE: 65.5%
+
+2. CURRÍCULO #711 - (EF04LP03) | SIMILARIDADE: 64.4%
+
+================================================================================
+HABILIDADE BNCC #23 - (EF04CO01)
+================================================================================
+
+OBJETIVO BNCC: (EF04CO01) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de matrizes que estabelecem uma organização na qual cada componente está em uma posição definida por coordenadas, fazendo manipulações simples sobre estas representações.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #726 - (EF04LP20) | SIMILARIDADE: 75.1%
+
+2. CURRÍCULO #907 - (EF35LP04) | SIMILARIDADE: 72.7%
+
+3. CURRÍCULO #373 - (EF02MA23) | SIMILARIDADE: 70.2%
+
+================================================================================
+HABILIDADE BNCC #24 - (EF04CO02)
+================================================================================
+
+OBJETIVO BNCC: (EF04CO02) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de registros que estabelecem uma organização na qual cada componente é identificado por um nome, fazendo manipulações sobre estas representações.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #754 - (EF35LP08) | SIMILARIDADE: 74.0%
+
+2. CURRÍCULO #260 - (EF02HI09) | SIMILARIDADE: 69.8%
+
+3. CURRÍCULO #613 - (EF04CI03) | SIMILARIDADE: 66.8%
+
+================================================================================
+HABILIDADE BNCC #25 - (EF04CO03)
+================================================================================
+
+OBJETIVO BNCC: (EF04CO03) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples e aninhadas (iterações definidas e indefinidas), para resolver problemas de forma independente e em colaboração.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #911 - (EF35LP31) | SIMILARIDADE: 76.0%
+
+2. CURRÍCULO #994 - (EF15LP04) | SIMILARIDADE: 74.7%
+
+================================================================================
+HABILIDADE BNCC #26 - (EF04CO04)
+================================================================================
+
+OBJETIVO BNCC: (EF04CO04) Entender que para guardar, manipular e transmitir dados deve-se codificá-los de alguma forma que seja compreendida pela máquina (formato digital).
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #470 - (EF03LP23) | SIMILARIDADE: 67.8%
+
+2. CURRÍCULO #565 - (EF03MA23) | SIMILARIDADE: 63.4%
+
+3. CURRÍCULO #526 - (EF35LP02) | SIMILARIDADE: 60.8%
+
+================================================================================
+HABILIDADE BNCC #27 - (EF04CO05)
+================================================================================
+
+OBJETIVO BNCC: (EF04CO05) Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB etc.).
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #497 - (EF03LP25) | SIMILARIDADE: 59.7%
+
+2. CURRÍCULO #680 - (EF35LP03) | SIMILARIDADE: 58.2%
+
+================================================================================
+HABILIDADE BNCC #28 - (EF04CO06)
+================================================================================
+
+OBJETIVO BNCC: (EF04CO06) Usar diferentes ferramentas computacionais para criação de conteúdo (textos, apresentações, vídeos etc.).
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #318 - (EF12LP05B) | SIMILARIDADE: 66.3%
+
+2. CURRÍCULO #133 - (EF12LP08A) | SIMILARIDADE: 66.2%
+
+3. CURRÍCULO #834 - (EF15AR25) | SIMILARIDADE: 60.1%
+
+================================================================================
+HABILIDADE BNCC #29 - (EF04CO07)
+================================================================================
+
+OBJETIVO BNCC: (EF04CO07) Demonstrar postura ética nas atividades de coleta, transferência, guarda e uso de dados.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #146 - (EF01CI04) | SIMILARIDADE: 58.1%
+
+2. CURRÍCULO #267 - (EF02LP13X) | SIMILARIDADE: 52.7%
+
+3. CURRÍCULO #22 - (EF01CI08ME) | SIMILARIDADE: 52.3%
+
+================================================================================
+HABILIDADE BNCC #30 - (EF04CO08)
+================================================================================
+
+OBJETIVO BNCC: (EF04CO08) Reconhecer a importância de verificar a confiabilidade das fontes de informações obtidas na Internet.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #906 - (EF15LP02) | SIMILARIDADE: 62.9%
+
+2. CURRÍCULO #272 - (EF15LP03) | SIMILARIDADE: 62.3%
+
+================================================================================
+HABILIDADE BNCC #31 - (EF05CO01)
+================================================================================
+
+OBJETIVO BNCC: (EF05CO01) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #948 - (EF05MA08) | SIMILARIDADE: 72.1%
+
+2. CURRÍCULO #157 - (EF01MA08X) | SIMILARIDADE: 71.8%
+
+3. CURRÍCULO #1029 - (EF35LP30) | SIMILARIDADE: 70.0%
+
+================================================================================
+HABILIDADE BNCC #32 - (EF05CO02)
+================================================================================
+
+OBJETIVO BNCC: (EF05CO02) Reconhecer objetos do mundo real e digital que podem ser representados através de grafos que estabelecem uma organização com uma quantidade variável de vértices conectados por arestas, fazendo manipulações simples sobre estas representações.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #951 - (EF05MA17) | SIMILARIDADE: 71.1%
+
+2. CURRÍCULO #796 - (EF04MA19) | SIMILARIDADE: 68.2%
+
+3. CURRÍCULO #466 - (EF35LP16) | SIMILARIDADE: 65.1%
+
+================================================================================
+HABILIDADE BNCC #33 - (EF05CO03)
+================================================================================
+
+OBJETIVO BNCC: (EF05CO03) Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #932 - (EF05LP07) | SIMILARIDADE: 65.9%
+
+2. CURRÍCULO #264 - (EF15LP10) | SIMILARIDADE: 64.5%
+
+3. CURRÍCULO #983 - (EF02ER04) | SIMILARIDADE: 59.1%
+
+================================================================================
+HABILIDADE BNCC #34 - (EF05CO04)
+================================================================================
+
+OBJETIVO BNCC: (EF05CO04) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências, repetições e seleções condicionais para resolver problemas de forma independente e em colaboração.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #293 - (EF02LP01X) | SIMILARIDADE: 78.3%
+
+2. CURRÍCULO #937 - (EF35LP07) | SIMILARIDADE: 74.7%
+
+================================================================================
+HABILIDADE BNCC #35 - (EF05CO05)
+================================================================================
+
+OBJETIVO BNCC: (EF05CO05) Identificar os componentes principais de um computador (dispositivos de entrada/saída, processadores e armazenamento).
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #361 - (EF02MA19) | SIMILARIDADE: 66.6%
+
+2. CURRÍCULO #576 - (EF03MA22) | SIMILARIDADE: 65.8%
+
+3. CURRÍCULO #939 - (EF05LP25) | SIMILARIDADE: 64.8%
+
+================================================================================
+HABILIDADE BNCC #36 - (EF05CO06)
+================================================================================
+
+OBJETIVO BNCC: (EF05CO06) Reconhecer que os dados podem ser armazenados em um dispositivo local ou remoto.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #917 - (EF15LP08) | SIMILARIDADE: 55.3%
+
+2. CURRÍCULO #268 - (EF02LP14) | SIMILARIDADE: 54.9%
+
+3. CURRÍCULO #793 - (EF04MA07) | SIMILARIDADE: 53.2%
+
+================================================================================
+HABILIDADE BNCC #37 - (EF05CO07)
+================================================================================
+
+OBJETIVO BNCC: (EF05CO07) Reconhecer a necessidade de um sistema operacional para a execução de programas e gerenciamento do hardware.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #885 - (EF05LP13) | SIMILARIDADE: 56.1%
+
+2. CURRÍCULO #317 - (EF12LP13) | SIMILARIDADE: 55.2%
+
+================================================================================
+HABILIDADE BNCC #38 - (EF05CO08)
+================================================================================
+
+OBJETIVO BNCC: (EF05CO08) Acessar as informações na Internet de forma crítica para distinguir os conteúdos confiáveis de não confiáveis.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #323 - (EF02LP21) | SIMILARIDADE: 62.7%
+
+2. CURRÍCULO #113 - (EF01LP26) | SIMILARIDADE: 61.3%
+
+3. CURRÍCULO #969 - (EF05MA07) | SIMILARIDADE: 57.4%
+
+================================================================================
+HABILIDADE BNCC #39 - (EF05CO09)
+================================================================================
+
+OBJETIVO BNCC: (EF05CO09) Usar informações considerando aplicações e limites dos direitos autorais em diferentes mídias digitais.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #830 - (EF15AR18P5) | SIMILARIDADE: 59.0%
+
+2. CURRÍCULO #831 - (EF15AR19P5) | SIMILARIDADE: 58.5%
+
+3. CURRÍCULO #265 - (EF12LP06B) | SIMILARIDADE: 58.0%
+
+================================================================================
+HABILIDADE BNCC #40 - (EF05CO10)
+================================================================================
+
+OBJETIVO BNCC: (EF05CO10) Expressar-se crítica e criativamente na compreensão das mudanças tecnológicas no mundo do trabalho e sobre a evolução da sociedade.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #517 - (EF03LP13) | SIMILARIDADE: 64.2%
+
+2. CURRÍCULO #418 - (EF35EF11P3) | SIMILARIDADE: 60.7%
+
+3. CURRÍCULO #44 - (EF01ER06) | SIMILARIDADE: 60.7%
+
+================================================================================
+HABILIDADE BNCC #41 - (EF05CO011)
+================================================================================
+
+OBJETIVO BNCC: (EF05CO011) Identificar a adequação de diferentes tecnologias computacionais na resolução de problemas.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 2
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #180 - (EF01LP22) | SIMILARIDADE: 57.1%
+
+2. CURRÍCULO #997 - (EF12LP02) | SIMILARIDADE: 56.9%
+
+================================================================================
+HABILIDADE BNCC #42 - (EF15CO01)
+================================================================================
+
+OBJETIVO BNCC: (EF15CO01) Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #109 - (EF01LP11A) | SIMILARIDADE: 67.4%
+
+2. CURRÍCULO #493 - (EF03LP26) | SIMILARIDADE: 67.2%
+
+3. CURRÍCULO #595 - (EF15AR08P4) | SIMILARIDADE: 61.7%
+
+================================================================================
+HABILIDADE BNCC #43 - (EF15CO02)
+================================================================================
+
+OBJETIVO BNCC: (EF15CO02) Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #572 - (EF03MA08) | SIMILARIDADE: 74.7%
+
+2. CURRÍCULO #856 - (EF35EF06P5) | SIMILARIDADE: 69.8%
+
+3. CURRÍCULO #999 - (EF12LP10P2) | SIMILARIDADE: 68.1%
+
+================================================================================
+HABILIDADE BNCC #44 - (EF15CO03)
+================================================================================
+
+OBJETIVO BNCC: (EF15CO03) Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #966 - (EF05MA04) | SIMILARIDADE: 70.2%
+
+2. CURRÍCULO #971 - (EF05MA12) | SIMILARIDADE: 68.7%
+
+3. CURRÍCULO #748 - (EF04LP15) | SIMILARIDADE: 65.7%
+
+================================================================================
+HABILIDADE BNCC #45 - (EF15CO04)
+================================================================================
+
+OBJETIVO BNCC: (EF15CO04) Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #785 - (EF04MA25X) | SIMILARIDADE: 69.0%
+
+2. CURRÍCULO #803 - (EF04MA06) | SIMILARIDADE: 67.8%
+
+3. CURRÍCULO #425 - (EF35EF13P3) | SIMILARIDADE: 62.9%
+
+================================================================================
+HABILIDADE BNCC #46 - (EF15CO05)
+================================================================================
+
+OBJETIVO BNCC: (EF15CO05) Codificar a informação de diferentes formas, entendendo a importância desta codificação para o armazenamento, manipulação e transmissão em dispositivos computacionais.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #134 - (EF12LP14A) | SIMILARIDADE: 69.6%
+
+2. CURRÍCULO #935 - (EF15LP05) | SIMILARIDADE: 67.4%
+
+3. CURRÍCULO #957 - (EF05MA02) | SIMILARIDADE: 67.2%
+
+================================================================================
+HABILIDADE BNCC #47 - (EF15CO06)
+================================================================================
+
+OBJETIVO BNCC: (EF15CO06) Conhecer os componentes básicos de dispositivos computacionais, entendendo os princípios de seu funcionamento.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #132 - (EF12LP02B) | SIMILARIDADE: 58.7%
+
+2. CURRÍCULO #217 - (EF15AR21P2) | SIMILARIDADE: 55.7%
+
+3. CURRÍCULO #941 - (EF05CI10) | SIMILARIDADE: 53.8%
+
+================================================================================
+HABILIDADE BNCC #48 - (EF15CO07)
+================================================================================
+
+OBJETIVO BNCC: (EF15CO07) Conhecer o conceito de Sistema Operacional e sua importância na integração entre software e hardware.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #528 - (EF35LP05) | SIMILARIDADE: 58.5%
+
+2. CURRÍCULO #82 - (EF12LP07X) | SIMILARIDADE: 55.8%
+
+3. CURRÍCULO #847 - (EF35EF08) | SIMILARIDADE: 52.3%
+
+================================================================================
+HABILIDADE BNCC #49 - (EF15CO08)
+================================================================================
+
+OBJETIVO BNCC: (EF15CO08) Reconhecer e utilizar tecnologias computacionais para pesquisar e acessar informações, expressar-se crítica e criativamente e resolver problemas.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #472 - (EF35LP15) | SIMILARIDADE: 67.2%
+
+2. CURRÍCULO #424 - (EF35EF06P3) | SIMILARIDADE: 63.4%
+
+3. CURRÍCULO #839 - (EF05CI05) | SIMILARIDADE: 60.5%
+
+================================================================================
+HABILIDADE BNCC #50 - (EF15CO09)
+================================================================================
+
+OBJETIVO BNCC: (EF15CO09) Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes.
+
+CORRESPONDÊNCIAS ENCONTRADAS: 3
+
+HABILIDADES SIMILARES DO CURRÍCULO:
+------------------------------------------------------------
+1. CURRÍCULO #20 - (EF01CI03) | SIMILARIDADE: 69.1%
+
+2. CURRÍCULO #838 - (EF05CI04) | SIMILARIDADE: 63.7%
+
+3. CURRÍCULO #65 - (EF01HI07) | SIMILARIDADE: 62.4%
