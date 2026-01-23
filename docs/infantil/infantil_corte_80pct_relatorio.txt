@@ -1,0 +1,93 @@
+RELATÓRIO INFANTIL - BNCC X CURRÍCULO
+Data: 2026-01-22 22:06:52
+Nota de Corte: 80%
+
+RESUMO:
+• Objetivos BNCC: 11
+• Matches Fortes: 0
+• Total Conexões Fortes: 0
+
+DETALHAMENTO:
+
+============================================================
+BNCC: () | PENSAMENTO COMPUTACIONAL
+Obj: 
+Corte Usado: 61.0%
+   -> (93) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES) | Sim: 61.8%
+      N/A
+
+============================================================
+BNCC: () | PENSAMENTO COMPUTACIONAL
+Obj: 
+Corte Usado: 56.0%
+   -> (48) (ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO) | Sim: 56.5%
+      N/A
+
+============================================================
+BNCC: () | PENSAMENTO COMPUTACIONAL
+Obj: 
+Corte Usado: 60.0%
+   -> (12) (O EU, O OUTRO E O NÓS) | Sim: 60.3%
+      N/A
+
+============================================================
+BNCC: () | PENSAMENTO COMPUTACIONAL
+Obj: 
+Corte Usado: 60.0%
+   -> (2) (O EU, O OUTRO E O NÓS) | Sim: 60.1%
+      N/A
+
+============================================================
+BNCC: () | PENSAMENTO COMPUTACIONAL
+Obj: 
+Corte Usado: 60.0%
+   -> (90) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES) | Sim: 60.4%
+      N/A
+
+============================================================
+BNCC: () | PENSAMENTO COMPUTACIONAL
+Obj: 
+Corte Usado: 65.0%
+   -> (7) (O EU, O OUTRO E O NÓS) | Sim: 65.9%
+      N/A
+
+============================================================
+BNCC: () | MUNDO DIGITAL
+Obj: 
+Corte Usado: 66.0%
+   -> (80) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES) | Sim: 66.4%
+      N/A
+
+============================================================
+BNCC: () | MUNDO DIGITAL
+Obj: 
+Corte Usado: 61.0%
+   -> (53) (ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO) | Sim: 61.5%
+      N/A
+
+============================================================
+BNCC: () | MUNDO DIGITAL
+Obj: 
+Corte Usado: 58.0%
+   -> (25) (CORPO, GESTOS E MOVIMENTOS) | Sim: 58.5%
+      N/A
+   -> (8) (O EU, O OUTRO E O NÓS) | Sim: 58.4%
+      N/A
+
+============================================================
+BNCC: () | CULTURA DIGITAL
+Obj: 
+Corte Usado: 59.0%
+   -> (64) (ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO) | Sim: 59.6%
+      N/A
+   -> (22) (CORPO, GESTOS E MOVIMENTOS) | Sim: 59.4%
+      N/A
+   -> (43) (TRAÇOS, SONS, CORES E FORMAS) | Sim: 59.1%
+      N/A
+
+============================================================
+BNCC: () | CULTURA DIGITAL
+Obj: 
+Corte Usado: 62.0%
+   -> (98) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES) | Sim: 62.8%
+      N/A
