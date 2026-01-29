@@ -1,0 +1,20 @@
+RESUMO DA ANÁLISE - INFANTIL
+Data: 2026-01-22 22:12:37.765036
+Nota de Corte: 95%
+
+Total Habilidades BNCC: 11
+Total Habilidades Currículo: 99
+BNCC Coberta (>= corte): 0 (0.0%)
+Habilidades do Currículo Usadas: 0
+
+TOP 10 CORRESPONDÊNCIAS:
+(EI03CO07) <-> (EI01EO03X) : 69.1%
+(EI03CO06) <-> (EI02EO01X) : 65.9%
+(EI03CO08) <-> (EI02EO01X) : 65.7%
+(EI03CO04) <-> (EI03ET04) : 63.0%
+(EI03CO11) <-> (EI03ET09MG) : 62.8%
+(EI03CO01) <-> (EI03ET04) : 61.8%
+(EI03CO09) <-> (EI03ET04) : 61.1%
+(EI03CO10) <-> (EI01EO05X) : 60.8%
+(EI03CO05) <-> (EI03ET01) : 60.4%
+(EI03CO03) <-> (EI01EO05X) : 60.3%

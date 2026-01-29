@@ -41,7 +41,7 @@ from datetime import datetime
 # ==================================================================================
 CONFIGURACOES = {
     'NOTA_CORTE': 0.80,
-    'ARQUIVO_BNCC': "bncc_df_anosfinais (2).xlsx",
+    'ARQUIVO_BNCC': "bncc_df_anosfinais.xlsx",
     'ARQUIVO_CURRICULO': "Anos_Finais_Curriculo_Normalizado.xlsx",
     'MODELO_EMBEDDINGS': 'all-MiniLM-L6-v2',
     'MOSTRAR_TOP_MATCHES_TERMINAL': 10,

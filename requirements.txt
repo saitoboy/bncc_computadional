@@ -11,3 +11,5 @@ streamlit
 seaborn
 matplotlib
 plotext
+flask
+flask-cors
