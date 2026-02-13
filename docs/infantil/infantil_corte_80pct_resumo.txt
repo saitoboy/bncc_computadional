@@ -1,17 +1,17 @@
-RESUMO EXECUTIVO INFANTIL
+RESUMO EXECUTIVO - BNCC INFANTIL vs CURRÍCULO
+2026-02-13 10:22:01
 
-Total BNCC: 11
-Cobertura com Nota Original: 0
-Média de Corte Usada: 60.7%
+Total BNCC analisada: 11
+Cobertura 80%+: 0 (0.0%)
 
-TOP 10 MATCHES:
-() <-> (80) : 66.4%
-() <-> (7) : 65.9%
-() <-> (98) : 62.8%
-() <-> (93) : 61.8%
-() <-> (53) : 61.5%
-() <-> (90) : 60.4%
-() <-> (12) : 60.3%
-() <-> (2) : 60.1%
-() <-> (64) : 59.6%
-() <-> (22) : 59.4%
+TOP 10 MELHORES MATCHES:
+(EI03CO07)   ↔ (EI01ET05)  : 66.4%
+(EI03CO06)   ↔ (EI02EO01X) : 65.9%
+(EI03CO11)   ↔ (EI03ET09MG): 62.8%
+(EI03CO01)   ↔ (EI03ET04)  : 61.8%
+(EI03CO08)   ↔ (EI01EF06)  : 61.5%
+(EI03CO05)   ↔ (EI03ET01)  : 60.4%
+(EI03CO03)   ↔ (EI01EO05X) : 60.3%
+(EI03CO04)   ↔ (EI01EO03X) : 60.1%
+(EI03CO10)   ↔ (EI02EF07)  : 59.6%
+(EI03CO10)   ↔ (EI01CG02)  : 59.4%

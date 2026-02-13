@@ -1,93 +1,96 @@
-RELATÓRIO INFANTIL - BNCC X CURRÍCULO
-Data: 2026-01-22 22:06:52
-Nota de Corte: 80%
+RELATÓRIO FINAL CORRIGIDO - BNCC X CURRÍCULO INFANTIL
+Data: 2026-02-13 10:22:01
+Corte Inicial: 80%
+Modelo: c9745ed1d9f207416be6d2e6f8de32d1f16199bf
 
-RESUMO:
-• Objetivos BNCC: 11
-• Matches Fortes: 0
-• Total Conexões Fortes: 0
+RESUMO ESTATÍSTICO:
+• Total BNCC: 11
+• Matches ≥80%: 0
+• Total Matches Fortes: 0
+• Média Corte Usada: 60.7%
+• Maior Similaridade: 66.4%
 
-DETALHAMENTO:
+DETALHAMENTO POR HABILIDADE BNCC:
 
-============================================================
-BNCC: () | PENSAMENTO COMPUTACIONAL
-Obj: 
-Corte Usado: 61.0%
-   -> (93) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES) | Sim: 61.8%
-      N/A
+==========================================================================================
+BNCC # 1: (EI03CO01)   | PENSAMENTO COMPUTACIONAL
+OBJETIVO BNCC: (EI03CO01) Reconhecer padrão de repetição em sequência de sons, movimentos, desenhos.
+ANÁLISE: Corte=61.0% | Matches=1 | Melhor=61.8%
+  → CURR # 94: (EI03ET04) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES)
+     SIM=61.8% | OBJETIVO: (EI03ET04) Registrar observações, manipulações e medidas, usando múltiplas linguagens (desenho, registro por números ou escrita espontânea), em diferentes suportes.
 
-============================================================
-BNCC: () | PENSAMENTO COMPUTACIONAL
-Obj: 
-Corte Usado: 56.0%
-   -> (48) (ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO) | Sim: 56.5%
-      N/A
+==========================================================================================
+BNCC # 2: (EI03CO02)   | PENSAMENTO COMPUTACIONAL
+OBJETIVO BNCC: (EI03CO02) Expressar as etapas para a realização de uma tarefa de forma clara e ordenada.
+ANÁLISE: Corte=56.0% | Matches=1 | Melhor=56.5%
+  → CURR # 49: (EI01EF01) (ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO)
+     SIM=56.5% | OBJETIVO: (EI01EF01) Reconhecer quando é chamado por seu nome e reconhecer os nomes de pessoas com quem convive. 
 
-============================================================
-BNCC: () | PENSAMENTO COMPUTACIONAL
-Obj: 
-Corte Usado: 60.0%
-   -> (12) (O EU, O OUTRO E O NÓS) | Sim: 60.3%
-      N/A
+==========================================================================================
+BNCC # 3: (EI03CO03)   | PENSAMENTO COMPUTACIONAL
+OBJETIVO BNCC: (EI03CO03) Experienciar a execução de algoritmos brincando com objetos (des)plugados.
+ANÁLISE: Corte=60.0% | Matches=1 | Melhor=60.3%
+  → CURR # 13: (EI01EO05X) (O EU, O OUTRO E O NÓS)
+     SIM=60.3% | OBJETIVO: (EI01EO05X) Reconhecer seu corpo e expressar suas sensações em momentos de alimentação, higiene, brincadeira, descanso e nas interações com o outro e com o meio.
 
-============================================================
-BNCC: () | PENSAMENTO COMPUTACIONAL
-Obj: 
-Corte Usado: 60.0%
-   -> (2) (O EU, O OUTRO E O NÓS) | Sim: 60.1%
-      N/A
+==========================================================================================
+BNCC # 4: (EI03CO04)   | PENSAMENTO COMPUTACIONAL
+OBJETIVO BNCC: (EI03CO04) Criar e representar algoritmos para resolver problemas.
+ANÁLISE: Corte=60.0% | Matches=1 | Melhor=60.1%
+  → CURR #  3: (EI01EO03X) (O EU, O OUTRO E O NÓS)
+     SIM=60.1% | OBJETIVO: (EI01EO03X) Interagir com crianças da mesma faixa etária, de faixas etárias diferentes e adultos ao explorar espaços, materiais, objetos  e brinquedos.
 
-============================================================
-BNCC: () | PENSAMENTO COMPUTACIONAL
-Obj: 
-Corte Usado: 60.0%
-   -> (90) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES) | Sim: 60.4%
-      N/A
+==========================================================================================
+BNCC # 5: (EI03CO05)   | PENSAMENTO COMPUTACIONAL
+OBJETIVO BNCC: (EI03CO05) Comparar soluções algorítmicas para resolver um mesmo problema.
+ANÁLISE: Corte=60.0% | Matches=1 | Melhor=60.4%
+  → CURR # 91: (EI03ET01) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES)
+     SIM=60.4% | OBJETIVO: (EI03ET01) Estabelecer relações de comparação entre objetos, observando suas propriedades. 
 
-============================================================
-BNCC: () | PENSAMENTO COMPUTACIONAL
-Obj: 
-Corte Usado: 65.0%
-   -> (7) (O EU, O OUTRO E O NÓS) | Sim: 65.9%
-      N/A
+==========================================================================================
+BNCC # 6: (EI03CO06)   | PENSAMENTO COMPUTACIONAL
+OBJETIVO BNCC: (EI03CO06) Compreender decisões em dois estados (verdadeiro ou falso).
+ANÁLISE: Corte=65.0% | Matches=1 | Melhor=65.9%
+  → CURR #  8: (EI02EO01X) (O EU, O OUTRO E O NÓS)
+     SIM=65.9% | OBJETIVO: (EI02EO01X) Demonstrar atitudes de respeito, de cuidado e de solidariedade na interação com crianças e adultos.
 
-============================================================
-BNCC: () | MUNDO DIGITAL
-Obj: 
-Corte Usado: 66.0%
-   -> (80) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES) | Sim: 66.4%
-      N/A
+==========================================================================================
+BNCC # 7: (EI03CO07)   | MUNDO DIGITAL
+OBJETIVO BNCC: (EI03CO07) Reconhecer dispositivos eletrônicos (e não-eletrônicos), identificando quando estão ligados ou desligados (abertos ou fechados).
+ANÁLISE: Corte=66.0% | Matches=1 | Melhor=66.4%
+  → CURR # 81: (EI01ET05) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES)
+     SIM=66.4% | OBJETIVO: (EI01ET05) Manipular materiais diversos e variados para comparar as diferenças e seme lhanças entre eles. 
 
-============================================================
-BNCC: () | MUNDO DIGITAL
-Obj: 
-Corte Usado: 61.0%
-   -> (53) (ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO) | Sim: 61.5%
-      N/A
+==========================================================================================
+BNCC # 8: (EI03CO08)   | MUNDO DIGITAL
+OBJETIVO BNCC: (EI03CO08) Compreender o conceito de interfaces para comunicação com objetos (des)plugados.
+ANÁLISE: Corte=61.0% | Matches=1 | Melhor=61.5%
+  → CURR # 54: (EI01EF06) (ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO)
+     SIM=61.5% | OBJETIVO: (EI01EF06) Comunicar -se com outras pessoas usando movimentos, gestos, balbucios, fala e outras formas de expressão. 
 
-============================================================
-BNCC: () | MUNDO DIGITAL
-Obj: 
-Corte Usado: 58.0%
-   -> (25) (CORPO, GESTOS E MOVIMENTOS) | Sim: 58.5%
-      N/A
-   -> (8) (O EU, O OUTRO E O NÓS) | Sim: 58.4%
-      N/A
+==========================================================================================
+BNCC # 9: (EI03CO09)   | MUNDO DIGITAL
+OBJETIVO BNCC: (EI03CO09) Identificar dispositivos computacionais e as diferentes formas de interação.
+ANÁLISE: Corte=58.0% | Matches=2 | Melhor=58.5%
+  → CURR # 26: (EI01CG05) (CORPO, GESTOS E MOVIMENTOS)
+     SIM=58.5% | OBJETIVO: (EI01CG05) Utilizar os movi mentos de apreensão, encaixe e lançamento, ampliando suas possibilidades de manuseio de diferentes materiais e objetos. 
+  → CURR #  9: (EI02EO02) (O EU, O OUTRO E O NÓS)
+     SIM=58.4% | OBJETIVO: (EI02EO02) Demonstrar imagem positiva de si e confiança em sua capacidade para enfrentar dificuldades e desafios. 
 
-============================================================
-BNCC: () | CULTURA DIGITAL
-Obj: 
-Corte Usado: 59.0%
-   -> (64) (ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO) | Sim: 59.6%
-      N/A
-   -> (22) (CORPO, GESTOS E MOVIMENTOS) | Sim: 59.4%
-      N/A
-   -> (43) (TRAÇOS, SONS, CORES E FORMAS) | Sim: 59.1%
-      N/A
+==========================================================================================
+BNCC #10: (EI03CO10)   | CULTURA DIGITAL
+OBJETIVO BNCC: (EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.
+ANÁLISE: Corte=59.0% | Matches=3 | Melhor=59.6%
+  → CURR # 65: (EI02EF07) (ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO)
+     SIM=59.6% | OBJETIVO: (EI02EF07) Manusear diferentes portadores textuais, demonstrando reconhecer seus usos sociais.
+  → CURR # 23: (EI01CG02) (CORPO, GESTOS E MOVIMENTOS)
+     SIM=59.4% | OBJETIVO: (EI01CG02) Experimentar as possibilidades corporais nas brincadeiras e interações em ambientes acolhedores e desafiantes, percebendo seus limites e potencialidades. 
+  → CURR # 44: (EI02TS04) (TRAÇOS, SONS, CORES E FORMAS)
+     SIM=59.1% | OBJETIVO: (EI02TS04 MG) Ter acesso à produção sociocultural , apropriando -se do patrimônio histórico, artístico, científico, tecnológico e cultural.
 
-============================================================
-BNCC: () | CULTURA DIGITAL
-Obj: 
-Corte Usado: 62.0%
-   -> (98) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES) | Sim: 62.8%
-      N/A
+==========================================================================================
+BNCC #11: (EI03CO11)   | CULTURA DIGITAL
+OBJETIVO BNCC: (EI03CO11) Adotar hábitos saudáveis de uso de artefatos computacionais, seguindo recomendações de órgãos de saúde competentes.
+ANÁLISE: Corte=62.0% | Matches=1 | Melhor=62.8%
+  → CURR # 99: (EI03ET09MG) (ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES)
+     SIM=62.8% | OBJETIVO: (EI03ET09MG) Desenvolver noções espaço-temporais.

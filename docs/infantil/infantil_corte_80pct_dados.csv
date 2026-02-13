@@ -1,15 +1,15 @@
-﻿BNCC_Cod,BNCC_Eixo,BNCC_Obj,Curr_Cod,Curr_Eixo,Curr_Obj,Similaridade,Valor_Sim
-(),PENSAMENTO COMPUTACIONAL,,(93),"ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES",N/A,61.8%,0.6177219
-(),PENSAMENTO COMPUTACIONAL,,(48),"ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO",N/A,56.5%,0.5654348
-(),PENSAMENTO COMPUTACIONAL,,(12),"O EU, O OUTRO E O NÓS",N/A,60.3%,0.6027726
-(),PENSAMENTO COMPUTACIONAL,,(2),"O EU, O OUTRO E O NÓS",N/A,60.1%,0.6006905
-(),PENSAMENTO COMPUTACIONAL,,(90),"ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES",N/A,60.4%,0.60418355
-(),PENSAMENTO COMPUTACIONAL,,(7),"O EU, O OUTRO E O NÓS",N/A,65.9%,0.6589315
-(),MUNDO DIGITAL,,(80),"ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES",N/A,66.4%,0.66384876
-(),MUNDO DIGITAL,,(53),"ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO",N/A,61.5%,0.6153066
-(),MUNDO DIGITAL,,(25),"CORPO, GESTOS E MOVIMENTOS",N/A,58.5%,0.5850986
-(),MUNDO DIGITAL,,(8),"O EU, O OUTRO E O NÓS",N/A,58.4%,0.583609
-(),CULTURA DIGITAL,,(64),"ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO",N/A,59.6%,0.59612364
-(),CULTURA DIGITAL,,(22),"CORPO, GESTOS E MOVIMENTOS",N/A,59.4%,0.5937129
-(),CULTURA DIGITAL,,(43),"TRAÇOS, SONS, CORES E FORMAS",N/A,59.1%,0.5910895
-(),CULTURA DIGITAL,,(98),"ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES",N/A,62.8%,0.6282036
+﻿BNCC_Codigo,BNCC_Eixo,BNCC_Objeto,Curr_Codigo,Curr_Eixo,Curr_Objeto,Similaridade,Corte_Usado
+(EI03CO01),PENSAMENTO COMPUTACIONAL,"(EI03CO01) Reconhecer padrão de repetição em sequência de sons, movimentos, desenhos.",(EI03ET04),"ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES","(EI03ET04) Registrar observações, manipulações e medidas, usando múltiplas linguagens (desenho, registro por números ou escrita espontânea), em diferentes suportes.",0.6177219,0.6099999999999999
+(EI03CO02),PENSAMENTO COMPUTACIONAL,(EI03CO02) Expressar as etapas para a realização de uma tarefa de forma clara e ordenada.,(EI01EF01),"ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO",(EI01EF01) Reconhecer quando é chamado por seu nome e reconhecer os nomes de pessoas com quem convive. ,0.56543475,0.5599999999999998
+(EI03CO03),PENSAMENTO COMPUTACIONAL,(EI03CO03) Experienciar a execução de algoritmos brincando com objetos (des)plugados.,(EI01EO05X),"O EU, O OUTRO E O NÓS","(EI01EO05X) Reconhecer seu corpo e expressar suas sensações em momentos de alimentação, higiene, brincadeira, descanso e nas interações com o outro e com o meio.",0.6027726,0.5999999999999999
+(EI03CO04),PENSAMENTO COMPUTACIONAL,(EI03CO04) Criar e representar algoritmos para resolver problemas.,(EI01EO03X),"O EU, O OUTRO E O NÓS","(EI01EO03X) Interagir com crianças da mesma faixa etária, de faixas etárias diferentes e adultos ao explorar espaços, materiais, objetos  e brinquedos.",0.60069054,0.5999999999999999
+(EI03CO05),PENSAMENTO COMPUTACIONAL,(EI03CO05) Comparar soluções algorítmicas para resolver um mesmo problema.,(EI03ET01),"ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES","(EI03ET01) Estabelecer relações de comparação entre objetos, observando suas propriedades. ",0.60418344,0.5999999999999999
+(EI03CO06),PENSAMENTO COMPUTACIONAL,(EI03CO06) Compreender decisões em dois estados (verdadeiro ou falso).,(EI02EO01X),"O EU, O OUTRO E O NÓS","(EI02EO01X) Demonstrar atitudes de respeito, de cuidado e de solidariedade na interação com crianças e adultos.",0.6589315,0.6499999999999999
+(EI03CO07),MUNDO DIGITAL,"(EI03CO07) Reconhecer dispositivos eletrônicos (e não-eletrônicos), identificando quando estão ligados ou desligados (abertos ou fechados).",(EI01ET05),"ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES",(EI01ET05) Manipular materiais diversos e variados para comparar as diferenças e seme lhanças entre eles. ,0.6638488,0.6599999999999999
+(EI03CO08),MUNDO DIGITAL,(EI03CO08) Compreender o conceito de interfaces para comunicação com objetos (des)plugados.,(EI01EF06),"ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO","(EI01EF06) Comunicar -se com outras pessoas usando movimentos, gestos, balbucios, fala e outras formas de expressão. ",0.6153066,0.6099999999999999
+(EI03CO09),MUNDO DIGITAL,(EI03CO09) Identificar dispositivos computacionais e as diferentes formas de interação.,(EI01CG05),"CORPO, GESTOS E MOVIMENTOS","(EI01CG05) Utilizar os movi mentos de apreensão, encaixe e lançamento, ampliando suas possibilidades de manuseio de diferentes materiais e objetos. ",0.58509874,0.5799999999999998
+(EI03CO09),MUNDO DIGITAL,(EI03CO09) Identificar dispositivos computacionais e as diferentes formas de interação.,(EI02EO02),"O EU, O OUTRO E O NÓS",(EI02EO02) Demonstrar imagem positiva de si e confiança em sua capacidade para enfrentar dificuldades e desafios. ,0.583609,0.5799999999999998
+(EI03CO10),CULTURA DIGITAL,"(EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.",(EI02EF07),"ESCUTA, FALA, PENSAMENTO E IMAGINAÇÃO","(EI02EF07) Manusear diferentes portadores textuais, demonstrando reconhecer seus usos sociais.",0.5961236,0.5899999999999999
+(EI03CO10),CULTURA DIGITAL,"(EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.",(EI01CG02),"CORPO, GESTOS E MOVIMENTOS","(EI01CG02) Experimentar as possibilidades corporais nas brincadeiras e interações em ambientes acolhedores e desafiantes, percebendo seus limites e potencialidades. ",0.5937129,0.5899999999999999
+(EI03CO10),CULTURA DIGITAL,"(EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa.",(EI02TS04),"TRAÇOS, SONS, CORES E FORMAS","(EI02TS04 MG) Ter acesso à produção sociocultural , apropriando -se do patrimônio histórico, artístico, científico, tecnológico e cultural.",0.5910896,0.5899999999999999
+(EI03CO11),CULTURA DIGITAL,"(EI03CO11) Adotar hábitos saudáveis de uso de artefatos computacionais, seguindo recomendações de órgãos de saúde competentes.",(EI03ET09MG),"ESPAÇOS, TEMPOS, QUANTIDADES, RELAÇÕES E TRANSFORMAÇÕES",(EI03ET09MG) Desenvolver noções espaço-temporais.,0.6282035,0.6199999999999999
